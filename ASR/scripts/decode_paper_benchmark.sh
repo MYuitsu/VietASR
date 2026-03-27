@@ -2,7 +2,12 @@
 
 set -euo pipefail
 
+script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+asr_dir="$(cd "${script_dir}/.." && pwd)"
+cd "${asr_dir}"
+
 export CUDA_VISIBLE_DEVICES="${4:-0}"
+export PYTHONPATH="$PWD/../icefall${PYTHONPATH:+:$PYTHONPATH}"
 
 epoch="$1"
 avg="$2"
@@ -24,7 +29,7 @@ run_decode() {
   local test_name="$1"
   local cuts_path="$2"
 
-  python ./zipformer/decode.py \
+  python3 ./zipformer/decode.py \
     --epoch "${epoch}" \
     --avg "${avg}" \
     --exp-dir "${exp_dir}" \

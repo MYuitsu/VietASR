@@ -8,6 +8,7 @@ python zipformer_fbank/finetune.py \
     --use-fp16 1 \
     --sample-rate 100 \
     --manifest-dir data/fbank \
+    --train-dataset-parts "train VietMed ViMedCSS" \
     --bpe-model data/lang_bpe_2000/bpe.model \
     --exp-dir zipformer_fbank/exp \
     --max-duration 1000 \
@@ -29,4 +30,3 @@ python zipformer_fbank/finetune.py \
     --final-downsample 1 \
     --causal 0 \
     --master-port 12356
-

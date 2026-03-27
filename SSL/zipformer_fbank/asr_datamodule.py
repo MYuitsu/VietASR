@@ -23,7 +23,7 @@ import os
 import re
 from functools import lru_cache
 from pathlib import Path
-from typing import Any, Dict, Optional
+from typing import Any, Dict, Optional, Sequence
 
 import lhotse
 import torch
@@ -97,6 +97,24 @@ class FinetuneAsrDataModule:
             type=Path,
             default=Path("data/wav"),
             help="Path to directory with train/valid/test cuts.",
+        )
+        group.add_argument(
+            "--train-dataset-parts",
+            type=str,
+            default="train",
+            help="Space-separated training cut names to merge, e.g. 'train VietMed ViMedCSS'.",
+        )
+        group.add_argument(
+            "--dev-dataset-part",
+            type=str,
+            default="dev",
+            help="Validation cut name.",
+        )
+        group.add_argument(
+            "--test-dataset-part",
+            type=str,
+            default="test",
+            help="Test cut name.",
         )
         group.add_argument(
             "--max-duration",
@@ -604,16 +622,39 @@ class FinetuneAsrDataModule:
     @lru_cache()
     def train_cuts(self) -> CutSet:
         logging.info("About to get train cuts")
-        return load_manifest_lazy(
-            self.args.manifest_dir / "vietASR_cuts_train.jsonl.gz"
-        )
+        return self._load_combined_cuts(self._split_parts(self.args.train_dataset_parts))
 
     @lru_cache()
     def dev_cuts(self) -> CutSet:
         logging.info("About to get dev cuts")
-        return load_manifest_lazy(self.args.manifest_dir / "vietASR_cuts_dev.jsonl.gz")
+        return self._load_cut(self.args.dev_dataset_part)
 
     @lru_cache()
     def test_cuts(self) -> CutSet:
         logging.info("About to get test cuts")
-        return load_manifest_lazy(self.args.manifest_dir / "vietASR_cuts_test.jsonl.gz")
+        return self._load_cut(self.args.test_dataset_part)
+
+    def _split_parts(self, parts: str) -> Sequence[str]:
+        part_list = [part for part in parts.split() if part]
+        if not part_list:
+            raise ValueError("Expected at least one dataset part")
+        return part_list
+
+    def _cut_path(self, part: str) -> Path:
+        return self.args.manifest_dir / f"vietASR_cuts_{part}.jsonl.gz"
+
+    def _load_cut(self, part: str) -> CutSet:
+        cut_path = self._cut_path(part)
+        if not cut_path.is_file():
+            raise FileNotFoundError(f"Missing cut manifest: {cut_path}")
+        logging.info(f"Loading cuts from {cut_path}")
+        return load_manifest_lazy(cut_path)
+
+    def _load_combined_cuts(self, parts: Sequence[str]) -> CutSet:
+        combined_cuts = None
+        for part in parts:
+            current_cuts = self._load_cut(part)
+            combined_cuts = (
+                current_cuts if combined_cuts is None else combined_cuts + current_cuts
+            )
+        return combined_cuts

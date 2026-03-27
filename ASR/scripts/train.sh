@@ -1,13 +1,15 @@
 #! /usr/bin/bash
 export CUDA_VISIBLE_DEVICES=0,1,2,3
+export PYTHONPATH="$PWD/../icefall${PYTHONPATH:+:$PYTHONPATH}"
 
-python zipformer/train.py \
+python3 zipformer/train.py \
     --world-size 4 \
     --num-epochs 300 \
     --start-epoch 1 \
     --use-fp16 1 \
     --train-cuts 50h \
     --manifest-dir data/fbank \
+    --train-dataset-parts "train VietMed ViMedCSS" \
     --bpe-model ${bpe_model} \
     --bpe-model data/lang_bpe_2000/bpe.model \
     --max-duration 1000 \

@@ -10,6 +10,12 @@ exp/
 hf_datasets/
 hf_models/
 _tmp_GigaSpeech2_official/
+ASR/.cache/
+ASR/download/
+ASR/download_vimedcss/
+ASR/data_vietmed/
+ASR/data_vimedcss/
+ASR/checkpoint_versions.json
 
 # Rust mic web app build output
 apps/mic_web_rust/target/

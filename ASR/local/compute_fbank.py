@@ -24,6 +24,7 @@ The generated fbank features are saved in data/fbank.
 """
 
 import argparse
+from contextlib import nullcontext
 import logging
 import os
 from pathlib import Path
@@ -81,6 +82,13 @@ def get_args():
         help="""Perturb speed with factor 0.9 and 1.1 on train subset.""",
     )
 
+    parser.add_argument(
+        "--use-executor",
+        type=str2bool,
+        default=False,
+        help="Use icefall executor for parallel feature extraction. Disable in restricted environments.",
+    )
+
     return parser.parse_args()
 
 
@@ -90,6 +98,7 @@ def compute_fbank(
     bpe_model: Optional[str] = None,
     dataset: Optional[str] = None,
     perturb_speed: Optional[bool] = False,
+    use_executor: Optional[bool] = False,
 ):
     src_dir = Path(manifest_dir)
     output_dir = Path(output_dir)
@@ -129,7 +138,8 @@ def compute_fbank(
 
     extractor = Fbank(FbankConfig(num_mel_bins=num_mel_bins))
 
-    with get_executor() as ex:  # Initialize the executor only once.
+    executor_context = get_executor() if use_executor else nullcontext(None)
+    with executor_context as ex:  # Initialize the executor only once when enabled.
         for partition, m in manifests.items():
             cuts_filename = f"{prefix}_cuts_{partition}.{suffix}"
             if (output_dir / cuts_filename).is_file():
@@ -155,7 +165,7 @@ def compute_fbank(
                 extractor=extractor,
                 storage_path=f"{output_dir}/{prefix}_feats_{partition}",
                 # when an executor is specified, make more partitions
-                num_jobs=num_jobs if ex is None else 80,
+                num_jobs=1 if ex is None else 80,
                 executor=ex,
                 storage_type=LilcomChunkyWriter,
             )
@@ -174,4 +184,5 @@ if __name__ == "__main__":
         bpe_model=args.bpe_model,
         dataset=args.dataset,
         perturb_speed=args.perturb_speed,
+        use_executor=args.use_executor,
     )

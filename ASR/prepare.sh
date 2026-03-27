@@ -5,10 +5,15 @@ export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
 
 set -eou pipefail
 
+export PYTHONPATH="$PWD/../icefall${PYTHONPATH:+:$PYTHONPATH}"
+
 nj=15
 # run step 0 to step 5 by default
 stage=0
 stop_stage=3
+
+train_dataset_candidates=("train" "VietMed" "ViMedCSS")
+eval_dataset_candidates=("dev" "test")
 
 # Note: This script just prepare the minimal requirements that needed by a
 # transducer training with bpe units.
@@ -54,6 +59,38 @@ log "Running prepare.sh"
 
 log "dl_dir: $dl_dir"
 
+existing_train_parts=()
+for part in "${train_dataset_candidates[@]}"; do
+  if [ -d "$dl_dir/$part" ]; then
+    existing_train_parts+=("$part")
+  fi
+done
+
+existing_eval_parts=()
+for part in "${eval_dataset_candidates[@]}"; do
+  if [ -d "$dl_dir/$part" ]; then
+    existing_eval_parts+=("$part")
+  fi
+done
+
+dataset_parts=("${existing_eval_parts[@]}" "${existing_train_parts[@]}")
+
+if [ ${#existing_train_parts[@]} -eq 0 ]; then
+  log "No training dataset found under $dl_dir. Expected one of: ${train_dataset_candidates[*]}"
+  exit 1
+fi
+
+if [ ${#dataset_parts[@]} -eq 0 ]; then
+  log "No dataset split found under $dl_dir"
+  exit 1
+fi
+
+train_dataset_parts="${existing_train_parts[*]}"
+all_dataset_parts="${dataset_parts[*]}"
+
+log "Using train dataset parts: $train_dataset_parts"
+log "Using all dataset parts for manifests/fbank: $all_dataset_parts"
+
 
 if [ $stage -le 1 ] && [ $stop_stage -ge 1 ]; then
   log "Stage 1: Prepare supervised manifest"
@@ -61,7 +98,7 @@ if [ $stage -le 1 ] && [ $stop_stage -ge 1 ]; then
   # to $dl_dir/supervised
   mkdir -p data/manifests
   if [ ! -e data/manifests/.supervised.done ]; then
-    python local/prepare_manifest.py --num-jobs $nj --corpus-dir $dl_dir --output-dir data/manifests --language vietnamese
+    python3 local/prepare_manifest.py --num-jobs $nj --corpus-dir $dl_dir --output-dir data/manifests --language vietnamese --dataset-parts "$all_dataset_parts"
     touch data/manifests/.supervised.done
   fi
 fi
@@ -70,7 +107,7 @@ if [ $stage -le 2 ] && [ $stop_stage -ge 2 ]; then
   log "Stage 2: Compute fbank"
   mkdir -p data/fbank
   if [ ! -e data/fbank/.supervised.done ]; then
-    ./local/compute_fbank.py
+    python3 ./local/compute_fbank.py --dataset "$all_dataset_parts" --use-executor false
     touch data/fbank/.supervised.done
   fi
 fi
@@ -84,20 +121,22 @@ if [ $stage -le 3 ] && [ $stop_stage -ge 3 ]; then
 
     if [ ! -f $lang_dir/transcript_words.txt ]; then
       log "Generate data for BPE training"
-      files=$(
-        find -L "$dl_dir/train" -name "*.trans.txt"
-      )
-      for f in ${files[@]}; do
-        cat $f | cut -d " " -f 2-
-      done > $lang_dir/transcript_words.txt
+      : > $lang_dir/transcript_words.txt
+      for part in "${existing_train_parts[@]}"; do
+        files=$(
+          find -L "$dl_dir/$part" -name "*.trans.txt"
+        )
+        for f in ${files[@]}; do
+          cut -d " " -f 2- "$f" >> $lang_dir/transcript_words.txt
+        done
+      done
     fi
 
     if [ ! -f $lang_dir/bpe.model ]; then
-      ./local/train_bpe_model.py \
+      python3 ./local/train_bpe_model.py \
         --lang-dir $lang_dir \
         --vocab-size $vocab_size \
         --transcript $lang_dir/transcript_words.txt
     fi
   done
 fi
-
