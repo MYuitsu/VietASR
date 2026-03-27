@@ -5,3 +5,14 @@ tem_scripts/
 submit_*.py
 __pycache__/
 exp/
+
+# Local benchmark/model artifacts
+hf_datasets/
+hf_models/
+_tmp_GigaSpeech2_official/
+
+# Rust mic web app build output
+apps/mic_web_rust/target/
+
+# OS/editor noise
+.DS_Store

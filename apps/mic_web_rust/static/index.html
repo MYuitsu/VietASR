@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>VietASR Mic Test</title>
+    <style>
+      :root {
+        --bg: #f5f1e8;
+        --panel: rgba(255, 252, 245, 0.86);
+        --ink: #1b1a17;
+        --muted: #6a6254;
+        --accent: #8f2d1f;
+        --accent-2: #d7a449;
+        --border: rgba(27, 26, 23, 0.12);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at top left, rgba(215, 164, 73, 0.35), transparent 28%),
+          radial-gradient(circle at bottom right, rgba(143, 45, 31, 0.16), transparent 32%),
+          linear-gradient(135deg, #efe6d3, #f8f4ec 55%, #efe3d0);
+        min-height: 100vh;
+      }
+
+      .shell {
+        max-width: 860px;
+        margin: 0 auto;
+        padding: 40px 20px 64px;
+      }
+
+      .card {
+        background: var(--panel);
+        border: 1px solid var(--border);
+        border-radius: 24px;
+        padding: 28px;
+        backdrop-filter: blur(14px);
+        box-shadow: 0 24px 70px rgba(62, 40, 12, 0.1);
+      }
+
+      h1 {
+        margin: 0 0 10px;
+        font-size: clamp(2.2rem, 4vw, 4rem);
+        line-height: 0.95;
+        letter-spacing: -0.04em;
+      }
+
+      p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 1.05rem;
+      }
+
+      .controls {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 28px;
+      }
+
+      button {
+        appearance: none;
+        border: 0;
+        border-radius: 999px;
+        padding: 14px 20px;
+        font: inherit;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: transform 120ms ease, opacity 120ms ease;
+      }
+
+      button:hover {
+        transform: translateY(-1px);
+      }
+
+      button:disabled {
+        opacity: 0.45;
+        cursor: not-allowed;
+      }
+
+      .primary {
+        background: var(--accent);
+        color: white;
+      }
+
+      .secondary {
+        background: #eadfcf;
+        color: var(--ink);
+      }
+
+      .status {
+        margin-top: 22px;
+        padding: 14px 16px;
+        border-radius: 16px;
+        background: rgba(255, 255, 255, 0.72);
+        border: 1px solid var(--border);
+        color: var(--muted);
+      }
+
+      .transcript {
+        margin-top: 20px;
+        padding: 20px;
+        min-height: 160px;
+        border-radius: 18px;
+        background: #fffdfa;
+        border: 1px solid var(--border);
+        white-space: pre-wrap;
+        font-size: 1.1rem;
+        line-height: 1.65;
+      }
+
+      audio {
+        margin-top: 18px;
+        width: 100%;
+      }
+
+      .pulse {
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        margin-right: 8px;
+        border-radius: 999px;
+        background: var(--accent-2);
+        animation: pulse 1.2s infinite;
+      }
+
+      @keyframes pulse {
+        0% { transform: scale(0.85); opacity: 0.6; }
+        70% { transform: scale(1.25); opacity: 1; }
+        100% { transform: scale(0.85); opacity: 0.6; }
+      }
+
+      @media (max-width: 640px) {
+        .card {
+          padding: 22px;
+          border-radius: 20px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <section class="card">
+        <h1>VietASR Mic Test</h1>
+        <p>Ghi âm từ microphone, gửi audio lên backend Rust và nhận transcript từ checkpoint VietASR hiện có.</p>
+
+        <div class="controls">
+          <button id="startBtn" class="primary">Start Recording</button>
+          <button id="stopBtn" class="secondary" disabled>Stop And Transcribe</button>
+        </div>
+
+        <div id="status" class="status">Sẵn sàng.</div>
+        <audio id="preview" controls></audio>
+        <div id="transcript" class="transcript">Transcript sẽ hiện ở đây.</div>
+      </section>
+    </main>
+
+    <script>
+      const startBtn = document.getElementById("startBtn");
+      const stopBtn = document.getElementById("stopBtn");
+      const statusEl = document.getElementById("status");
+      const transcriptEl = document.getElementById("transcript");
+      const previewEl = document.getElementById("preview");
+
+      let mediaRecorder = null;
+      let chunks = [];
+      let stream = null;
+
+      function setStatus(message, recording = false) {
+        statusEl.innerHTML = recording
+          ? `<span class="pulse"></span>${message}`
+          : message;
+      }
+
+      async function startRecording() {
+        chunks = [];
+        stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        const mimeType = MediaRecorder.isTypeSupported("audio/webm;codecs=opus")
+          ? "audio/webm;codecs=opus"
+          : "audio/webm";
+
+        mediaRecorder = new MediaRecorder(stream, { mimeType });
+        mediaRecorder.ondataavailable = (event) => {
+          if (event.data.size > 0) chunks.push(event.data);
+        };
+        mediaRecorder.start();
+
+        startBtn.disabled = true;
+        stopBtn.disabled = false;
+        transcriptEl.textContent = "Đang ghi âm...";
+        setStatus("Đang ghi âm từ microphone...", true);
+      }
+
+      async function stopRecording() {
+        if (!mediaRecorder) return;
+
+        const blob = await new Promise((resolve) => {
+          mediaRecorder.onstop = () => {
+            resolve(new Blob(chunks, { type: mediaRecorder.mimeType || "audio/webm" }));
+          };
+          mediaRecorder.stop();
+        });
+
+        stream.getTracks().forEach((track) => track.stop());
+        previewEl.src = URL.createObjectURL(blob);
+
+        startBtn.disabled = false;
+        stopBtn.disabled = true;
+        setStatus("Đang gửi audio để nhận dạng...");
+        transcriptEl.textContent = "Đang xử lý...";
+
+        const formData = new FormData();
+        formData.append("audio", blob, "recording.webm");
+
+        const response = await fetch("/api/transcribe", {
+          method: "POST",
+          body: formData,
+        });
+
+        const payload = await response.json();
+        if (!response.ok) {
+          throw new Error(payload.error || "Transcription failed");
+        }
+
+        transcriptEl.textContent = payload.transcript || "(không có transcript)";
+        setStatus("Xong.");
+      }
+
+      startBtn.addEventListener("click", async () => {
+        try {
+          await startRecording();
+        } catch (error) {
+          setStatus("Không truy cập được microphone.");
+          transcriptEl.textContent = String(error);
+        }
+      });
+
+      stopBtn.addEventListener("click", async () => {
+        try {
+          await stopRecording();
+        } catch (error) {
+          setStatus("Có lỗi khi nhận dạng.");
+          transcriptEl.textContent = String(error);
+        }
+      });
+    </script>
+  </body>
+</html>
