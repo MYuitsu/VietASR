@@ -1,0 +1,3998 @@
+%WER = 11.13
+Errors: 35 insertions, 413 deletions, 603 substitutions, over 9446 reference words (8430 correct)
+Search below for sections starting with PER-UTT DETAILS:, SUBSTITUTIONS:, DELETIONS:, INSERTIONS:, PER-WORD STATS:
+
+PER-UTT DETAILS: corr or (ref->hyp)  
+common_voice_vi_21824030-0:	(Ở CÁI->À) NƠI (RỪNG THIÊNG NƯỚC ĐỘC NÀY->*)
+common_voice_vi_21824045-1:	(*->VÂNG) HOẶC LÀ CÓ THỂ LÀ (NHỜ KUMAN->KHÔN)
+common_voice_vi_21824046-2:	KHÔNG (*->BIẾT LÀ) KHÔNG KHÔNG (SAO->ĐƯỢC) ĐÂU
+common_voice_vi_21838512-3:	THẦM LẶNG HY SINH
+common_voice_vi_21838513-4:	THIỆN TAI THIỆN TAI
+common_voice_vi_21838514-5:	MÀY ĐỪNG TRÁNH TAO ĐƯỢC KHÔNG
+common_voice_vi_21838516-6:	SAU TIẾNG SẤM TRỜI BẮT ĐẦU ĐỔ MƯA RÀO (RÀO->*)
+common_voice_vi_21838518-7:	ĐƯA TÌNH VỀ VỚI MỘNG
+common_voice_vi_21861994-8:	ĐỨNG TRƯỚC BÀN THỜ TRINH VUI SƯỚNG NÓI
+common_voice_vi_21861995-9:	VẬY NÓ CÓ LIÊN QUAN GÌ ĐẾN CON GÁI TÔI CHỨ
+common_voice_vi_21861996-10:	LỐI VIỄN (VỌNG CHỜ RONG->CHỜNG) GÓT (TIM->TIN)
+common_voice_vi_21861997-11:	KHÔNG TAO XIN MÀY TAO SỢ
+common_voice_vi_21861999-12:	SÂU MẮT ĐỢI CHỜ
+common_voice_vi_21882263-13:	(NÔ EN->NOEL) VUI VẺ
+common_voice_vi_21882264-14:	ĐI ĐÂU SAO MÀY BIẾT TAO ĐI CHƠI
+common_voice_vi_21882265-15:	NÊN MỖI LẦN ĐI ĐÂU VỀ MUỘN MỘT CHÚT
+common_voice_vi_21882266-16:	NHÀ MỚI CỦA EM Ở TRONG XÓM
+common_voice_vi_21882308-17:	(TRÍCH->CHÍCH) DẪN TỪ BÁO CHÍ
+common_voice_vi_21964744-18:	BỐ NÓ THÌ KHÔNG TIN CHUYỆN MA QUỶ
+common_voice_vi_21964746-19:	NHỮNG CÂU CHUYỆN HAY NHỮNG BỨC ẢNH ĐƯỢC CHÚNG TÔI KHOE LẠI
+common_voice_vi_21964747-20:	BỐ EM THẮC MẮC (NÓI->*)
+common_voice_vi_21964749-21:	EM YÊN TÂM LÀ KẺ ĐÓ SẼ KHÔNG LÀM PHIỀN
+common_voice_vi_21964750-22:	DẦN DÀ HỌC XONG
+common_voice_vi_21965267-23:	HÀ SỢ QUÁ (GIẬT->*) LÙI LẠI PHÍA SAU SUÝT NGÃ NGỬA RA ĐẤT
+common_voice_vi_21965268-24:	GIAI ĐOẠN CUỐI ĐỜI
+common_voice_vi_21965271-25:	THẢO ĐỨNG (SỮNG->*) LẠI KHÔNG CHẠY TRỐN EM NỮA
+common_voice_vi_21965272-26:	EM NGỠ NHƯ (CHIÊM->CHIM) BAO
+common_voice_vi_22008969-27:	CON BÉ NHÀ ANH CHỊ
+common_voice_vi_22008970-28:	VÀ CHỈ ĂN VỚI CHƠI VÀ TIÊU THÔI
+common_voice_vi_22008971-29:	THÌ TRINH NÓI LÀ MUỐN VỀ NHÀ
+common_voice_vi_22008972-30:	MẸ EM LIỀN KÉO TAY EM RỒI NÓI
+common_voice_vi_22008973-31:	THÌ CHẮC CHẮN CON GÁI NHÀ CÔ SẼ GẶP VẬN LỚN
+common_voice_vi_22028266-32:	NGHE (VÈ->VỀ) NÓI NGƯỢC
+common_voice_vi_22028275-33:	MÙA GIAO MÙA LẶNG THINH
+common_voice_vi_22028283-34:	SAO MÀY NÓI DÙ CHUYỆN GÌ CŨNG XẢY RA
+common_voice_vi_22028288-35:	(TUYỂN->TRUYỆN) TẬP THƠ VỀ CÁC LOẠI ĐỘNG VẬT CHO BÉ MẦM NON
+common_voice_vi_22028458-36:	BÁNH KẸO MỚI
+common_voice_vi_22028463-37:	BÁT (HƯƠNG->THƠM) CỦA BỐ VỪA BỐC CHÁY
+common_voice_vi_22028467-38:	VỪA KHẤN XONG THÌ ĐIỆN THOẠI CỦA TRINH ĐỔ CHUÔNG
+common_voice_vi_22028472-39:	HẠ (LIỀN->*) NÓI TIẾP
+common_voice_vi_22028481-40:	ÔNG NỘI NÓ SUỐT NGÀY PHÀN NÀN RẰNG
+common_voice_vi_22028578-41:	LÒNG SAO VƯƠNG (VẤN->*)
+common_voice_vi_22028584-42:	CÔ TA
+common_voice_vi_22028597-43:	LỜI CẢM ƠN
+common_voice_vi_22028599-44:	ANH TA LÀ MỘT NGƯỜI KHÁC
+common_voice_vi_22028601-45:	THẬT THÀ ĂN CHÁO (LÁO->*) NHÁO ĂN CƠM
+common_voice_vi_22028608-46:	CẢM ƠN CON
+common_voice_vi_22028610-47:	GIỜ PHẢI NHÌN MỚI THẤY THÔI
+common_voice_vi_22028613-48:	KẺ BẤT TÀI
+common_voice_vi_22028619-49:	HƠI NUỐI TIẾC BỞI HÔM NAY
+common_voice_vi_22028624-50:	CÔ NÀO
+common_voice_vi_22195134-51:	ĐỂ CHO EM HỌC
+common_voice_vi_22195135-52:	NHỮNG LỜI CUỐI CÙNG MÀ QUÂN NÓI KHIẾN CHO TRINH CẢM THẤY LO (LẮNG->*)
+common_voice_vi_22195136-53:	NHƯ CHÚ RẤT THÍCH
+common_voice_vi_22195137-54:	DẠ VÂNG THẾ ĐỂ EM GẶP ANH SAU VẬY
+common_voice_vi_22195138-55:	NGAY LẬP TỨC TRONG ĐẦU CỦA TRINH (NẢY->LẠI) RA MỘT Ý NGHĨ
+common_voice_vi_22209924-56:	NẾU MÀ QUA BỐN MƯƠI CHÍN NGÀY
+common_voice_vi_22209926-57:	NGÀY THƠ ĐI MẤT
+common_voice_vi_22209929-58:	NÓ GIÚP CHỨ CÓ PHẢI ĐÂU
+common_voice_vi_22209933-59:	EM CHẢ HIỂU MẸ NÓI CÓ NGHĨA LÀ GÌ
+common_voice_vi_22214603-60:	ĐỂ TÂM TRÍ ĐEM (HOÀ->HÒA) CÙNG SÁCH VỞ
+common_voice_vi_22214604-61:	NGÀY ẤY VÀO MÙA THU
+common_voice_vi_22214605-62:	TRONG PHÒNG LÚC NÀY LỬA TRÊN THÀNH NGỌN NẾN (ĐANG->ĐÃ) CHÁY
+common_voice_vi_22214606-63:	GIỜ ĐI SANG BẢN BÊN PHÍA TA
+common_voice_vi_22214607-64:	NGƯỜI NGƯỜI THÌ ĐANG TẤP NẬP ĐI LẠI
+common_voice_vi_22381111-65:	SẮP TỚI BỐN MƯƠI CHÍN NGÀY CỦA CON BÉ (KIA->*)
+common_voice_vi_22381112-66:	NHƯNG DO CÓ NHIỀU CHUYỆN NÊN BÁN NHÀ ĐÓ ĐỂ MUA NƠI KHÁC
+common_voice_vi_22381113-67:	VĂN (HAY->HAI) CHỮ TỐT
+common_voice_vi_22381114-68:	VÀ ĐÊM NAY NẾN THẮP SÁNG LÊN RỒI
+common_voice_vi_22402288-69:	NHẤT LÀ LẠI NHỚ ĐẾN NGƯỜI PHỤ NỮ DÂN TỘC KIA
+common_voice_vi_22402289-70:	MẶC CHO NHÂN VIÊN GỌI VỚI (THEO->*)
+common_voice_vi_22402290-71:	ĐỪNG BỎ CON NHA (MẸ->*)
+common_voice_vi_22402291-72:	TIỆN ĐÂY TAO NÓI CHO MÀY NGHE CÁI NÀY NHÉ
+common_voice_vi_22402292-73:	CŨNG CHẲNG BIẾT LÀ HỢP THẦY HỢP THUỐC NÀO
+common_voice_vi_22402296-74:	THUYỀN TO SÓNG CẢ
+common_voice_vi_22402297-75:	MỘT (VẦNG->VẦN) TRĂNG KHUYẾT
+common_voice_vi_22402298-76:	EM CÒN XA MÃI
+common_voice_vi_22402299-77:	CHỨ KHÔNG PHẢI LÀ GẦN ĐÂY CỨ NỬA ĐÊM
+common_voice_vi_22402300-78:	TUY NHIÊN HỄ THẢ RA THÌ NÓ LẠI KHÓC LÊN (NỨC->NỨT) NỞ
+common_voice_vi_22402321-79:	QUÁ KHỨ ANH ANH KHÔNG NHẮC CÙNG EM
+common_voice_vi_22402322-80:	NHƯ KHÔNG KHÍ NHƯ MÀU XANH LÁ (CỎ->*)
+common_voice_vi_22402323-81:	VẤT VẢ (NẮNG SƯƠNG->XƯƠNG)
+common_voice_vi_22402325-82:	NÊN CHÚNG EM BỊ GIỮ LẠI PHẠT
+common_voice_vi_22402371-83:	GẦN ĐÂY RẤT HAY SUY NGHĨ MỌI THỨ QUÁ NÊN
+common_voice_vi_22402372-84:	MÀ TRẢI NGHIỆM QUA RỒI THÌ MỚI THẤY ĐÓ LÀ SỰ THẬT
+common_voice_vi_22402373-85:	CÒN PHƯƠNG MAY MẮN CHỈ BỊ GÃY VÀI CÁI XƯƠNG
+common_voice_vi_22402375-86:	AI LÀ NGƯỜI CHẾT ĐƯA NHI ĐẾN GẶP THẦY (BÓI MIỀN->*)
+common_voice_vi_22402377-87:	THƠ TÌNH CUỐI MÙA THU
+common_voice_vi_22402411-88:	NÓ CÒN BẢO LÀ HÔM NAY NÓ MUỐN CON ĐƯA ĐI CHƠI CÙNG
+common_voice_vi_22402412-89:	HAY LÀ CÒN CÓ NGUYỆN VỌNG GÌ
+common_voice_vi_22402413-90:	GIAN KHỔ
+common_voice_vi_22402414-91:	CON KÊU CON GỌI
+common_voice_vi_22402415-92:	NGHỈ MỘT LÁT HÀ LIỀN (Ổ->*) LÊN
+common_voice_vi_22402440-93:	CỨ ĐI ĐI
+common_voice_vi_22402442-94:	KHOAN ĐÃ
+common_voice_vi_22402443-95:	THEO NHƯ LỜI CỦA (SÂM->SONG) TRAI PHIÊN DỊCH LẠI
+common_voice_vi_22402444-96:	ĐƯỢC ĐẶT Ở KHẮP MỌI MIỀN (VIỆT NAM->*)
+common_voice_vi_22402445-97:	ANH THÍCH THÌ LÁT NỮA TÔI SẼ TẶNG ANH
+common_voice_vi_22402461-98:	NẾU (THẬT THẾ->THỰC TẾ) THÌ TỘI NGHIỆP CON BÉ LẮM
+common_voice_vi_22402462-99:	VẬY CON CÓ CẦN MANG HÒN ĐÁ NÀY BÊN NGƯỜI NỮA KHÔNG HẢ MẸ
+common_voice_vi_22402463-100:	AI CŨNG KÊU ĐÂY LÀ VỤ ÁN KINH HOÀNG NHẤT MÀ HỌ ĐƯỢC THẤY
+common_voice_vi_22402464-101:	ĐẾN VIỆC KHIẾN CHO CÁI HÀ VỚI CÁI PHƯƠNG BỊ TAI NẠN
+common_voice_vi_22402465-102:	RỒI NHẸ NHÀNG ĐÓNG CỬA LẠI
+common_voice_vi_22402501-103:	CÙNG CHIA SẺ SỨC NGƯỜI ĐỜI CHÀ (ĐẠP->*)
+common_voice_vi_22402502-104:	BÀN CHÂN NÀO Ở LẠI
+common_voice_vi_22402503-105:	CÓ CÁI CHUYỆN BAN NÃY LÀ TAO NÓI THẬT ĐẤY
+common_voice_vi_22402504-106:	ĐỪNG NGHĨ QUẨN ANH NHÉ
+common_voice_vi_22402506-107:	DẠ NHỚ BÀ (DÃ->*) QUỲ ÔNG LÀ
+common_voice_vi_22402601-108:	TIẾC LÀ CÁI CHÂN CỦA EM KHÔNG (NHẤC->NHẤT) LÊN ĐƯỢC
+common_voice_vi_22402602-109:	VỚI MỘT (CÁI->*) CHẤT GIỌNG ĐỊA PHƯƠNG (NAI NÁI->NA)
+common_voice_vi_22402603-110:	NHƯNG DO SỢ NÊN TRINH KHÔNG DÁM NHẬN ĐÓ LÀ BẠN CỦA MÌNH
+common_voice_vi_22402609-111:	TRÊN TAY CỦA TRINH ĐỦ CÁC LOẠI BÁNH KẸO ĐỒ CHƠI MỚI
+common_voice_vi_22402610-112:	MƯA LỚN BIẾT BAO
+common_voice_vi_22402616-113:	SAO (SAO->*) À Ừ TỚ THẤY (TRONG->TRÔNG) NGƯỜI KHÔNG ĐƯỢC KHỎE
+common_voice_vi_22402617-114:	GIỜ MÀY NÓI CÁI VỤ ĐI ĂN
+common_voice_vi_22402619-115:	EM CHẠY LÊN PHÍA THẢO
+common_voice_vi_22402620-116:	CÓ ĐÊM TRONG MƠ
+common_voice_vi_22402622-117:	CHỈ CÓ ĐIỀU LÀ KHÔNG THỂ NHÌN THẤY
+common_voice_vi_22402654-118:	HAY LÀ PHÓNG CON THẢO LÀ KHÔNG CÒN Ở ĐÂY NỮA
+common_voice_vi_22402656-119:	HAI CHIẾC DÉP KIA GẶP NHAU (TỰ->TỪ) BAO GIỜ
+common_voice_vi_22402657-120:	THẾ ĐƯỢC RỒI ĐI SANG ĐÂY TAO CHO MÀY XEM
+common_voice_vi_22402659-121:	MẸ DẪN ĐI ĐÂU THÌ THEO ĐÓ
+common_voice_vi_22402660-122:	MÀ MUA VỀ NGAY CẠNH NHÀ ÔNG NỘI ĐÃ MẤT CỦA THẢO
+common_voice_vi_22402717-123:	(CHINH->TRINH) LÚC NÀY MỚI GIẬT MÌNH NHÌN SANG BÊN CẠNH
+common_voice_vi_22402718-124:	ÔNG (TIỂN->TUYỂN) ÔNG (TIÊN->*)
+common_voice_vi_22402721-125:	GIỜ THÀNH CON MA DẠI ĐẾN NHÀ CŨNG (K->KHÔNG) THỂ VỀ
+common_voice_vi_22402722-126:	BÀ (BÓI->ẤY) LIỀN (ĐÁP->*)
+common_voice_vi_22402724-127:	NUÔI CÀNG LÂU THÌ GIỮA (KUMANTHONG->CUNG ANH THÔNG) VÀ CHỦ NHÂN
+common_voice_vi_22416750-128:	HÔM NÀO EM LỠ QUÁ (CHÉN->CHÁN) VỀ (TẨN->TỦNG) NÓ
+common_voice_vi_22416751-129:	NÊN HÀ NI ĐÃ PHẢI KÊU ĐAU ĐỚN
+common_voice_vi_22416752-130:	HÀ NI BÂY GIỜ MỚI LÊN TIẾNG
+common_voice_vi_22416753-131:	VẪN NHÌN ĐƯỢC RÕ CHIẾC XE TẢI TỬ THẦN MÀU XANH ẤY
+common_voice_vi_22416754-132:	GẮN BÓ (NHAU->*) VÌ MỘT LỐI ĐI CHUNG
+common_voice_vi_22416755-133:	LÒNG ĐEN (LÒI->LỘI) CẢ CON MẮT
+common_voice_vi_22416756-134:	ÔI TÌNH MẪU TỬ
+common_voice_vi_22416757-135:	A HỘI VÀ (A PHENG->AFEN) LÀ HAI ĐỨA BẠN THÂN
+common_voice_vi_22416758-136:	YÊU LÀ CHẾT Ở TRONG LÒNG MỘT ÍT
+common_voice_vi_22416759-137:	KHÔNG (ĐỀ->ĐỂ)
+common_voice_vi_22417055-138:	HỌP LỚP SAU NHIỀU NĂM MỖI NGƯỜI MỘT NƠI
+common_voice_vi_22417056-139:	BỞI VÌ HỌ CŨNG BỊ (CHẺ->TRẺ) MẮT
+common_voice_vi_22417057-140:	BÀ ĐƯA TAY LÊN NHƯ CÓ Ý MUỐN BỎ CON RỜI KHỎI
+common_voice_vi_22417058-141:	AI TỚI SỐ CHẾT THÌ MỚI CHẾT ĐƯỢC THÔI CÓ ĐÚNG KHÔNG BÀ (BÓI->*)
+common_voice_vi_22427359-142:	LÚC CHÁU GIẬT MÌNH TỈNH DẬY THÌ CHÁU CÒN BỊ RÉT RUN
+common_voice_vi_22427360-143:	THÌ VẪN KHÔNG HIỆN TƯỢNG GÌ TIẾP TỤC XẢY ĐẾN
+common_voice_vi_22427361-144:	CHẲNG AI BẢO AI TỰ GIÁC ĐI VỀ
+common_voice_vi_22427362-145:	QUYẾT TÂM CHIẾN THẮNG
+common_voice_vi_22427363-146:	EM LIỀN GỌI TO
+common_voice_vi_22427384-147:	CŨNG KHÔNG CÒN CÁCH NÀO KHÁC
+common_voice_vi_22427385-148:	KHUÔN MẶT THANH TÚ KHÔNG CÓ CHÚT GÌ CỦA DÂN (NHÀ->Ở) XE
+common_voice_vi_22427386-149:	VÀ MẮT CỦA CÔ CHĂM CHÚ MỘT CÁCH KHÓ HIỂU
+common_voice_vi_22427387-150:	CHÂN TAY (BỦN RỦN->BUỒN)
+common_voice_vi_22493631-151:	CHỨ TÌNH TRẠNG HOẢNG LOẠN NHƯ VẬY SẼ RẤT NGUY HIỂM
+common_voice_vi_22493633-152:	TRỜI ƠI NGƯỜI ẤY CÓ BUỒN KHÔNG (*->ANH START KÌA STAR)
+common_voice_vi_22493635-153:	NHƯ MẸ CHÚNG TA
+common_voice_vi_22493637-154:	CHỮ ĐỨC CHỮ TÂM
+common_voice_vi_22528215-155:	(NĂM THÁNG MỎI MÒN->ỪM)
+common_voice_vi_22528270-156:	(NHUỘM->LƯỢNG) ÁNH (NẮNG TÀ QUA MÁI->*) TÓC
+common_voice_vi_22528271-157:	SAU ĐÓ (BỊ ĐẤU ĐÁ->*) ĐẾN NGHẸT THỞ
+common_voice_vi_22528272-158:	(ĐÈN->EM) DẦU ĐƯỢC THẮP (SÁNG TRƯNG->BÁNH CHƯNG)
+common_voice_vi_22528273-159:	SAU KHI ANH CHẾT RỒI
+common_voice_vi_22528274-160:	CHUYỆN BÉ (XÉ->XẢY) RA (TO:->*) CHUYỆN NHỎ (BỊ THÊU DỆT->*) RA NHIỀU CHI TIẾT
+common_voice_vi_22714900-161:	BÀ CHẬM (RÃI->RẢI) NÓI
+common_voice_vi_22714903-162:	LÀ NÓ CỨU CON NHÀ CÔ MỘT MẠNG
+common_voice_vi_22714904-163:	TÔI YÊU VIỆT NAM
+common_voice_vi_22714906-164:	CỨ ĐẾN NỬA ĐÊM SAU KHI CHO (KUMANTHONG->CUMAN THÔNG) ĂN
+common_voice_vi_22714907-165:	TAO CHỈ MUỐN CHƠI VỚI MÀY THÔI
+common_voice_vi_22714933-166:	QUA NGÀY BỐN MƯƠI CHÍN TÔI SỢ LÀ KHÔNG GIÚP ĐƯỢC NỮA RỒI
+common_voice_vi_22714939-167:	HAY LÀ TAY SAI CHO QUỶ THÌ THỰC SỰ RẤT (LÀ->*) KHỦNG KHIẾP
+common_voice_vi_22714940-168:	(CHỢT->TRƯỢT) MƯA CÁI ÀO
+common_voice_vi_22714941-169:	BÊN TRONG ĐÈN HỒNG ĐÈN ĐỎ ĐÈN XANH LỜ (MỜ->*) LUÔN ĐƯỢC BẬT SÁNG
+common_voice_vi_22714942-170:	CON CHÀO (MẸ->*)
+common_voice_vi_22750202-171:	BÀ TÂM ĐAU KHỔ NHÌN CON RỒI (LẮC ĐẦU->LẮP)
+common_voice_vi_22750203-172:	TÔI CÓ CÁI Ý NHƯ THẾ NÀY
+common_voice_vi_22750205-173:	THÌ DÂN TỘC THÁI TỨC LÀ BẢN LÀNG ĐÂY
+common_voice_vi_22750206-174:	SÔNG (SÂU->SAU) CÒN (CÓ->*) KẺ (DÒ->GIÒ) ĐỐ AI LẤY THƯỚC MÀ ĐO LÒNG NGƯỜI
+common_voice_vi_22770199-175:	HƠI THỞ CÀNG NGÀY CÀNG GẤP (GÁP->*)
+common_voice_vi_22770200-176:	LÒNG MẸ BAO LA
+common_voice_vi_22791282-177:	ANH LÀ CHỒNG CỦA NHI ANH ĐỪNG KHÁCH (SÁO->TÁO) NHƯ VẬY
+common_voice_vi_22791283-178:	(*->À) KHÔNG
+common_voice_vi_22791288-179:	CHO TỚI THÀNH LẬP VIỆT NAM DÂN CHỦ CỘNG HÒA
+common_voice_vi_22816998-180:	(DẠ KHÚC MƯA->DẠC MƠ)
+common_voice_vi_22817000-181:	(NHI KHẼ->NHƯ KẺ) ĐẶT BỨC ẢNH CỦA QUÂN
+common_voice_vi_22817001-182:	NHỮNG CÁNH ĐỒNG THẲNG CÁNH
+common_voice_vi_22817002-183:	(GIÀ->VÀ) LÀNG LẠI (NÓI->NỐI) TIẾP
+common_voice_vi_22817078-184:	CON NHỚ CẦM VIÊN ĐÁ ẤY
+common_voice_vi_22817079-185:	CÔ (THU NGÂN->THƯƠNG) LO LẮNG (GỌI->*)
+common_voice_vi_22817080-186:	HẮN ĐANG ĐI LÊN ĐÂY
+common_voice_vi_22817081-187:	TỪNG BỎ NHÀ ĐI SUỐT MẤY NĂM TRỜI
+common_voice_vi_22817082-188:	ANH SONG TRAI ANH SONG (TRAI->*)
+common_voice_vi_22855857-189:	TAY BÀ ẤY (XÁCH->PHÁT) CÁI BỊ TO LẮM
+common_voice_vi_22855858-190:	NGƯỜI ẤY CHÍNH LÀ ANH CHÀNG PHONG
+common_voice_vi_22855859-191:	(TRONG->TRÔNG) LỌ THỦY TINH ẤY
+common_voice_vi_22855860-192:	HƯƠNG THƠM MÁT (RƯỢI->*)
+common_voice_vi_22855861-193:	CỨ DẠI (DẠI->*) CÁI KIỂU GÌ ẤY
+common_voice_vi_22855877-194:	CON CỨ YÊN TÂM ĐI LÀM ĐI
+common_voice_vi_22855878-195:	CÒN NỮA
+common_voice_vi_22855879-196:	TAY CỦA EM CỨ ÔM CHẶT (LẤY THẢO->*)
+common_voice_vi_22855880-197:	CÁC NGƯỜI TÍNH LÀM GÌ
+common_voice_vi_22855882-198:	THÌ CHIẾC XE TẢI CHO ANH TỚI ĐÂY
+common_voice_vi_23078429-199:	CHÚA (BA NGÔI->BÀ NGỒI)
+common_voice_vi_23078430-200:	BỞI PHÒNG CỦA CÔ NẰM NGAY LỐI LÊN XUỐNG CẦU THANG
+common_voice_vi_23078431-201:	MÁI (TRANH->CHÂN) VÀNG (VÕ->*)
+common_voice_vi_23078432-202:	CŨNG HẾT THỜI GIAN CHO KUMAN ĂN
+common_voice_vi_23078433-203:	TAO VỀ ĐỢT NÀY THÌ CŨNG KHOẢNG VÀI THÁNG
+common_voice_vi_23078477-204:	CÔNG VIỆC LÀM ĂN CỦA TRINH NGÀY MỘT THUẬN LỢI
+common_voice_vi_23078479-205:	NGƯỜI CÓ CHỞ (HẸN->HÀNG) VỀ SÔNG CŨ
+common_voice_vi_23078482-206:	VÀ ĐIỀU NÀY TRÌNH THẤY CHÍNH XÁC
+common_voice_vi_23078483-207:	ANH ĐANG LO CHO CẢ EM ĐẤY SAO
+common_voice_vi_23078485-208:	CÓ GÌ THÌ CỨ ALO CHO TAO
+common_voice_vi_23078521-209:	MẸ KHÔNG CÓ AN TÂM
+common_voice_vi_23078524-210:	(QUÂN BƯỚC VỘI->QUÊN BƯỚCA) VÀO BÊN TRONG NHƯNG KHÔNG THỂ BƯỚC ĐƯỢC
+common_voice_vi_23078525-211:	(VUỐT->VÚT) KHÔNG THỂ XUỐNG ĐƯỢC
+common_voice_vi_23078527-212:	CÔ ẤY
+common_voice_vi_23078574-213:	(TÔI CHỜ->CHÀO) NGƯỜI ĐẾN VỚI YÊU THƯƠNG
+common_voice_vi_23078575-214:	GIỜ TRANH THỦ NGỦ ĐI
+common_voice_vi_23078577-215:	ANH CHÀNG LẮC (ĐẦU->*)
+common_voice_vi_23078578-216:	CHÚNG TA NHỜ BÀ NỘI CON THẢO TÁC ĐỘNG ĐƯỢC KHÔNG
+common_voice_vi_23078581-217:	PHẢI (MÁT->MẤT) MẤY NGÀY TRINH MỚI ĐỌC THUẦN THỤC ĐƯỢC MỘT CÂU (CHÚ->*) NÀY
+common_voice_vi_23078610-218:	ĐỢI ĐẾN GIỜ BÀ (BÓI->MỚI) LÀM LỄ
+common_voice_vi_23078611-219:	CÁNH CỬA ĐƯỢC ĐÓNG (KÍN->*) LẠI
+common_voice_vi_23078612-220:	BỞI TÌNH YÊU THA (THIẾT->*)
+common_voice_vi_23078615-221:	ĐÓ LÀ MỘT HÀNH ĐỘNG VÔ THỨC
+common_voice_vi_23078658-222:	ANH CHỊ CHÀO (MÀO->*)
+common_voice_vi_23078662-223:	(RỒI->VỀ) NGƯỜI CÓ MẮT ÂM DƯƠNG
+common_voice_vi_23078665-224:	ĐỘNG VIÊN TINH THẦN CHO EM
+common_voice_vi_23078668-225:	CHẲNG BƯỚC CHÂN NÀO ĐƯỢC (DẪM->DỖNG) LÊN
+common_voice_vi_23078713-226:	NHƯNG ĐÓ CHƯA PHẢI LÀ TẤT CẢ
+common_voice_vi_23078718-227:	(HÀ NI->HÈ ĐI) THỞ DÀI
+common_voice_vi_23078720-228:	CHÍNH (GIỮA->SỮA) ĐẰNG SAU BÁT NHANG
+common_voice_vi_23078721-229:	VẬY MÀ BẠN CHẾT CHƯA (GIỖ->DỖ) ĐẦU MÀ LA (LIẾM->LÍM) VỚI CHỒNG CỦA BẠN
+common_voice_vi_23078761-230:	ĐI THĂM LÚC NÀY LÀ KHÔNG CÓ TIỆN ĐÂU
+common_voice_vi_23078763-231:	LÀ TRONG NHÀ LẠI XUẤT HIỆN TIẾNG ĐỘNG LẠ KHÔNG
+common_voice_vi_23078764-232:	(TUẤN->TỐN) NHỚ LÀ MÌNH BỊ NGƯỜI YÊU NHẢY ĐÈ LÊN NGƯỜI
+common_voice_vi_23078767-233:	LÚC ĐI QUA NGÃ BA
+common_voice_vi_23078768-234:	(VIÊT->VIỆT) NAM (CỐ LÊN->CÓ)
+common_voice_vi_23078774-235:	MÀ NHI (LẠI->*) LÀ BẠN THÂN (THIẾT->THẾ) CỦA EM
+common_voice_vi_23078775-236:	ĐỪNG CÓ CHẾT ĐẤY
+common_voice_vi_23078776-237:	THANH ƠI
+common_voice_vi_23078778-238:	XIN LỖI ĐÃ LÀM CHO CÔ SỢ
+common_voice_vi_23078828-239:	ÔNG ÔNG NÓI THẾ
+common_voice_vi_23078831-240:	(CHỨC->CHÚC) MỪNG GIÁNG SINH
+common_voice_vi_23078832-241:	TÁC PHẨM
+common_voice_vi_23078834-242:	CÁI THẢO NÓ ĐI RỒI
+common_voice_vi_23302867-243:	CHO NÊN TRINH YÊN TÂM PHẦN NÀO
+common_voice_vi_23302869-244:	CŨNG VỪA MỚI NGỒI THÔI (NƯỚC->*) CÒN CHƯA UỐNG HẾT MỘT NỬA ĐÂY NÀY
+common_voice_vi_23302870-245:	(CÚT->QUẤT) ĐI
+common_voice_vi_23302873-246:	NHỮNG LỜI NÓI CỦA QUÂN KHIẾN CHO TRINH NHƯ CHẾT LẶNG
+common_voice_vi_23302930-247:	EM MỚI ĐÁP LẠI
+common_voice_vi_23302931-248:	DẠ BẨM THẦY GIỜ ĐÃ MUỘN RỒI (À->*)
+common_voice_vi_23302933-249:	SỢ LẮM CẢM GIÁC VÔ CÙNG SỢ HÃI
+common_voice_vi_23302936-250:	THÌ HÃY CHẤP NHẬN ANH TA VÀ CHĂM SÓC CẨN THẬN
+common_voice_vi_23303052-251:	(YÊU->Ừ)
+common_voice_vi_23303054-252:	(VẢ->TRẢ) LẠI
+common_voice_vi_23334646-253:	CHO NÊN CŨNG NHẪN (NẠI->LẠI) NGỒI TRÊN XE
+common_voice_vi_23334648-254:	MƯA RỒI CŨNG (TẠNH->TÀN)
+common_voice_vi_23334649-255:	(TẤC->TẮC) ĐẤT (TẤC VÀNG->*)
+common_voice_vi_23334650-256:	TÔI THỰC SỰ LO LẮNG (VỀ->DẠY) CON THANH
+common_voice_vi_23338456-257:	NGƯỜI TA GỌI CẶP ĐÔI CHÚNG TÔI LÀ LOÀI HOA RỪNG ĐẸP NHẤT
+common_voice_vi_23338457-258:	BỐI CẢNH TẠO (BÀY->*) AI LÀ KẺ (THẾ VAI->THÁI)
+common_voice_vi_23338458-259:	CHUYỆN NÀY THỰC CHẤT THÌ KHÔNG KHÓ
+common_voice_vi_23338459-260:	SAO TOÀN NHỮNG CÁI CHUYỆN KHÔNG ĐÂU VẬY ANH
+common_voice_vi_23338460-261:	TRINH NẰM TRONG XE THỞ MẠNH VÀ DỒN DẬP
+common_voice_vi_23338466-262:	MỌI NGƯỜI HÃY Ở NHÀ TÌM KIẾM THẰNG BÉ HỘ TA
+common_voice_vi_23338467-263:	BIỂN TRỜI TÌNH MẸ
+common_voice_vi_23338468-264:	THẾ LÀ TẤT CẢ ĐỀU NGHE THEO
+common_voice_vi_23338469-265:	LẠI THẤY THƯƠNG TÌNH NÊN MỚI MỞ LỜI GIÚP ĐỠ
+common_voice_vi_23338470-266:	LÚC NÀO PHƯƠNG KHỎE BỌN CHÁU SẼ ĐẾN THĂM SAU Ạ
+common_voice_vi_23338472-267:	THÌ CHÚNG TA SẼ GIÚP CHÁU (TẠI->*) NGUYỆN
+common_voice_vi_23338474-268:	PHẢI RỒI CÔ ẤY Ở NGOÀI KIA
+common_voice_vi_23338475-269:	(MẮC->MẮT) TÈ NÓ NHANH CHÓNG CHẠY RA BÊN NGOÀI ĐỂ GIẢI QUYẾT
+common_voice_vi_23338477-270:	SƯỞI ẤM LÒNG CON
+common_voice_vi_23338478-271:	MÀY XEM CÓ NHỮNG GÌ MÌNH MUỐN
+common_voice_vi_23338563-272:	MÀ CON BÉ NÓ LẠI KHỎE MẠNH ĐI LẠI BÌNH THƯỜNG
+common_voice_vi_23338565-273:	KẾT THÚC KHÔNG PHẢI LÀ HẾT
+common_voice_vi_23338567-274:	CỨ BÁM RIẾT ĐEO (ĐẲNG->*) EM TỘI NGHIỆP
+common_voice_vi_23338568-275:	ÔNG VỪA NÓI XONG VỘI MỘT BƯỚC RA NGOÀI
+common_voice_vi_23338570-276:	SÁT THỦ
+common_voice_vi_23338586-277:	ĐẾN CẢ CƠ THỂ CŨNG KHÔNG CÒN NGUYÊN VẸN (NỮA->*)
+common_voice_vi_23338587-278:	EM VẪN BIẾT THẢO ĐÃ MẤT RỒI NÊN MỚI NGẬP NGỪNG
+common_voice_vi_23338588-279:	TRINH (CHỢT GIẬT NẢY->TRỜI SẬP NẨY) MÌNH KHI TIẾNG QUÂN GỌI
+common_voice_vi_23338589-280:	QUÂN NGƯỢNG NGÙNG RỒI ĐÁP LẠI
+common_voice_vi_23338590-281:	TRƯỚC KHI ĐI BÀ ẤY CÒN NÓI
+common_voice_vi_23357922-282:	(SONG TRAI->PHONG CHƠI) LIỀN HỎI TIẾP
+common_voice_vi_23357923-283:	(KHÔN->CON) LỚN (THÊM->HẾT) RỒI
+common_voice_vi_23357924-284:	TRƯỜNG HỢP CỦA (THẢO->THÀO) KHÁC VỚI HỌ
+common_voice_vi_23357925-285:	(CĂN PHÒNG->CÁI VÒNG) KÍN
+common_voice_vi_23357926-286:	NHỚ MẸ NHỚ CHA
+common_voice_vi_23357966-287:	QUA CẦU RÚT (VÁN->*)
+common_voice_vi_23357967-288:	VẪN LÀ TRINH
+common_voice_vi_23357968-289:	(TỪ GIỌNG->VÌ GIỐNG) CÔ (DỊU HIỀN->DIỆU HIỂN)
+common_voice_vi_23357969-290:	NGHIỆP BÁO (HÀI NHI->HẢI Y)
+common_voice_vi_23357970-291:	DƯỜNG NHƯ (CHẬM LẠI->*)
+common_voice_vi_23377231-292:	ĐI QUA (CÙNG HEO MAY->CỔNG)
+common_voice_vi_23377232-293:	(TẦN TẢO VÌ->ỪM) CON
+common_voice_vi_23377233-294:	MỌI THỨ IM LÌM ĐẾN (LẠNH->*) NGƯỜI
+common_voice_vi_23377234-295:	ĐÔI MẮT (LIM DIM->LINH) THỞ (HỔN HỂN->NGHẼN)
+common_voice_vi_23377235-296:	LÀ LÃNH TỤ ĐƯỢC NHIỀU NGƯỜI NGƯỠNG MỘ VÀ TÔN SÙNG
+common_voice_vi_23380405-297:	ĐẾN BỐ MẸ CÒN CHẲNG NHẬN RA CHÁU (Ạ->À)
+common_voice_vi_23380406-298:	(LẠNH->LÀ NÓ) KHÔ LÊN CÁNH MŨI
+common_voice_vi_23380407-299:	EM CĂNG MẮT RA NHÌN NHƯNG MÀ KHÔNG RÕ LÀ AI CẢ
+common_voice_vi_23380408-300:	THẤY (ÁNH->ẢNH) MẶT TRỜI
+common_voice_vi_23380409-301:	ĐỂ CÙNG TIẾN TỚI
+common_voice_vi_23392017-302:	CÒN Ở HỒN TÔI TUỔI MONG MANH
+common_voice_vi_23392018-303:	(SONG->XONG) TRAI LIỀN HỎI
+common_voice_vi_23392019-304:	ĐƯỢC ĐÁNH THỨC CƠN MÊ PHÒNG NGƠ (NGÁC->*)
+common_voice_vi_23392020-305:	ĐIỀU ĐÁNG CHÚ Ý NHẤT CHÍNH LÀ THEO NHƯ HÀ ĐƯỢC BIẾT
+common_voice_vi_23392021-306:	MẮT MẸ ĐÃ (MỜ->MỞ)
+common_voice_vi_23392027-307:	CHO TÔI ĐƯỢC (LAU->NAO) KHÔ DÒNG (LỆ CHẢY->NGHỆ CHÁY)
+common_voice_vi_23392028-308:	NÓ CHỈ CÒN LÀ DẤU VẾT KHÔNG HỒN
+common_voice_vi_23392029-309:	NĂM MƯỜI BA TUỔI
+common_voice_vi_23392030-310:	CHỊ ĐỪNG CÓ ĐỔ TIẾNG OAN CHO NÓ
+common_voice_vi_23392031-311:	THẬM CHÍ (LẠI->*) ĐÔI CHÂN BỊ LIỆT CỦA NÓ HOẠT ĐỘNG LẠI BÌNH THƯỜNG
+common_voice_vi_23392032-312:	TRINH PHẢI CÓ MẶT Ở NHÀ ĐỂ CHĂM SÓC CHO (KUMANTHONG->CÔ MAN THONG)
+common_voice_vi_23392033-313:	THẬM CHÍ DÙNG CẢ CƠ THỂ ĐỂ MỜI GỌI
+common_voice_vi_23392034-314:	VÌ TRINH KHÔNG CÒN NGHE ĐƯỢC GÌ NỮA
+common_voice_vi_23392036-315:	NGƯỜI ĐÀN BÀ GIẬT MÌNH
+common_voice_vi_23392037-316:	TÔI BIẾT EM LÀ CÔ GÁI (MỘNG MƠ->*)
+common_voice_vi_23392038-317:	TIẾNG NÓI LẠI VANG LÊN RẤT KHẼ CHỈ ĐỦ CHO MÌNH NGHE
+common_voice_vi_23392039-318:	NHƯ (XÉ TOẠC->SẼ TỎA) CẢ (MẢNG->*) ÂM THANH ỒN ÀO BÀN (TÁN->*) XUNG QUANH
+common_voice_vi_23392040-319:	THẦY BẢO LÀ CÓ CÁI CHUYỆN GÌ ĐÂU
+common_voice_vi_23392041-320:	TIỂU SỬ VÀ SỰ NGHIỆP
+common_voice_vi_23392936-321:	CÓ KHI NÀO NÓ THEO THẬT
+common_voice_vi_23392937-322:	CÁC CÔ (CẬU->*) ĐỀU LÀ NGƯỜI Ở DƯỚI XUÔI LÊN
+common_voice_vi_23392938-323:	MẸ (ẦU->Ồ) MẸ ƠI
+common_voice_vi_23392939-324:	MẸ ĐI XEM TỪ BÀ (TÊ->T) ĐẾN SOI TIỀN (CHỈ->CHỊ) TAY VIẾT CHỮ
+common_voice_vi_23392940-325:	NÓ LÀ CÂY (RỚP->RỚT) ĐÓ
+common_voice_vi_23392986-326:	(GHEN->ỪM)
+common_voice_vi_23392987-327:	GIÓ THỔI TỪNG CƠN LÀM TÁN LÁ KHẼ ĐUNG ĐƯA
+common_voice_vi_23392988-328:	NHƯNG LẠI ĐI RẤT XA
+common_voice_vi_23392989-329:	(TUYỂN->LUYỆN) TẬP THƠ CHỦ ĐỀ THỰC VẬT CHO BÉ MẦM NON
+common_voice_vi_23392990-330:	(SOME->SÓC) TRAI (CỐ->CỦA) NÓI THÊM
+common_voice_vi_23397238-331:	THẢO CỐ HẾT SỨC (ĐẠP->*) VÀO NGƯỜI CỦA EM ĐỂ RA NGOÀI
+common_voice_vi_23406195-332:	TỈNH LẠI TRONG TRẠNG THÁI MỆT MỎI
+common_voice_vi_23406196-333:	ĐƯA TÌNH VỀ CUỐI SÔNG
+common_voice_vi_23406197-334:	PHỤ NỮ MÀ UỐNG NHIỀU CÀ PHÊ LÀ KHÔNG (CÓ->*) TỐT CHO DA
+common_voice_vi_23406198-335:	NHÌN LÀ CÁI THẢO
+common_voice_vi_23406199-336:	MÀY CỨ VỀ THẾ NÀY TAO KHÔNG CÓ NGỦ ĐƯỢC
+common_voice_vi_23406205-337:	TÔI NHỚ TỚI LAN CÔ ẤY BỊ TAI NẠN
+common_voice_vi_23406206-338:	TÓM LẠI EM THÀ TIN CÒN HƠN LÀ KHÔNG TIN
+common_voice_vi_23406207-339:	TIẾNG CHUÔNG ĐỒNG HỒ (QUẢ->*) LẮC VANG LÊN
+common_voice_vi_23406208-340:	ANH CHÀNG NHÌN VÀO VÀ TỎ VẺ SỢ HÃI
+common_voice_vi_23406209-341:	AI VẬY
+common_voice_vi_23406210-342:	GOM HẾT GIÙM TÔI MẤY ÁNH (TRĂNG->*)
+common_voice_vi_23406211-343:	ĐÁM MA BỌN TÔI ĐẾN MÀ KHÔNG THẤY TRINH ĐÂU CẢ
+common_voice_vi_23406212-344:	BỞI SUY CHO CÙNG TẤT CẢ MỌI THỨ DO NHI LỰA CHỌN
+common_voice_vi_23406213-345:	TRÁI CÂY THƠM TRÊN MIỀN ĐẤT KHÔ CẰN
+common_voice_vi_23406214-346:	TỪ SÔNG HỒ BIÊN GIỚI BIỂN XA (KHƠI->*)
+common_voice_vi_23406215-347:	ĐÔI CHÂN CỦA CÔ (TRÙNG->TRÙM) XUỐNG VÀ KHÉP LẠI
+common_voice_vi_23406216-348:	NGHĨA LÀ GHEN QUÁ ĐẤY MÀ THÔI
+common_voice_vi_23406217-349:	ANH VÀ EM SẼ KHÔNG GẶP LẠI NHAU ĐƯỢC ĐÂU
+common_voice_vi_23406218-350:	ĐỂ BỌN HỌ LỪA ĐẢO (TRỤC->*) LỢI MÀ THÔI
+common_voice_vi_23406219-351:	VẬY MÀ QUÂN VẪN LẠNH LÙNG VÔ CẢM
+common_voice_vi_23423354-352:	(THAM GIÀU PHỤ NGẢI->THĂM RAU CỦ NGÀI)
+common_voice_vi_23423355-353:	TÔI TÊN DUY
+common_voice_vi_23423357-354:	TRÁNH (VOI->COI) CHẲNG XẤU MẶT NÀO
+common_voice_vi_23423358-355:	RỐT CUỘC CON THANH CÓ THẤY ÁC MỘNG GÌ NỮA ĐÂU
+common_voice_vi_23423359-356:	(BẴNG->VẪN) ĐI ĐẾN NGÀY EM XEM KẾT QUẢ THI
+common_voice_vi_23423360-357:	NHẤT LÀ CON HẠ
+common_voice_vi_23423361-358:	ANH VUI (LIỀN->*) NHƯNG BỖNG LẠI BUỒN (NGAY->*)
+common_voice_vi_23423362-359:	NGHE (SAO->*) ỒN (ÀO->À)
+common_voice_vi_23423363-360:	SÁNG (DẠ->*)
+common_voice_vi_23423364-361:	NHỮNG BÀI THƠ HAY VỀ CÁC LOÀI CÂY CHO BÉ MẦM NON
+common_voice_vi_23423365-362:	VẪN ĐANG CẢM THẤY KHÓ HIỂU
+common_voice_vi_23423366-363:	HAY LÀ MÀY ĐÒI DẪN TAO XUỐNG ĐÓ THEO VỚI MÀY
+common_voice_vi_23423367-364:	(MÁI TRƯỜNG->MÁY TRƯỞNG) THÀNH CÔNG
+common_voice_vi_23423368-365:	(TRINH HÁ->XIN) HỐC (MỒM->*)
+common_voice_vi_23423369-366:	TÔI CŨNG BIẾT LÀ CHUYỆN NÀY RẤT KHÓ TIN
+common_voice_vi_23423370-367:	EM MỚI NGHE TIẾNG CỦA (BÀ ĐẤY->BẠN ẤY) MÀ
+common_voice_vi_23423371-368:	CỨ THẾ NÀY CHO BỐ MẸ EM ("CHĂM"->CHĂM)
+common_voice_vi_23423372-369:	TÌNH THEO (NÉT->NẾP) BÚT
+common_voice_vi_23423373-370:	TRƯỚC NÀY CHƯA CÓ MỘT NGƯỜI ĐÀN ÔNG NÀO TỪ CHỐI (TRINH->CHỊ) CẢ
+common_voice_vi_23423374-371:	ƯỚC MONG (ÂN ÁI ĐẬM->ẤY ĐẪM) SAY
+common_voice_vi_23423376-372:	A HỘI NẰM (CO RO->LO) Ở MỘT GÓC CHÂN TAY (RUN RẨY->MUN LẨY)
+common_voice_vi_23423377-373:	TỪNG NGÀY SUY NGHĨ
+common_voice_vi_23423378-374:	SỰ GẮN BÓ GIỮA HAI NGƯỜI XA LẠ
+common_voice_vi_23423380-375:	SỰ CỨNG ĐẦU
+common_voice_vi_23423388-376:	TÔI TÔI ĐANG Ở ĐÂU
+common_voice_vi_23423389-377:	LÀ MỘT TẤM GƯƠNG
+common_voice_vi_23423390-378:	GIỌNG CỦA HẠ LIỀN (ĐÁP->*)
+common_voice_vi_23423391-379:	CĂN PHÒNG CŨNG TRỞ NÊN ĐỘT NHIÊN LẠNH NGẮT
+common_voice_vi_23423392-380:	SỰ MẤT MÁT
+common_voice_vi_23667729-381:	Ý CÔ LÀ SAO
+common_voice_vi_23667730-382:	LẬP TỨC CƠN ĐAU LẠI NHÓI LÊN DỮ DỘI
+common_voice_vi_23667731-383:	TẦM MỘT TUẦN Ở ĐÂY THÔI
+common_voice_vi_23667732-384:	BẰNG MỌI GIÁ ANH PHẢI LÀ CỦA EM
+common_voice_vi_23669889-385:	THÌ BIẾT LÀM THẾ NÀO HẢ CON
+common_voice_vi_23669890-386:	(DẪU->VŨ) ĐÃ ĐƯỢC GIẢI
+common_voice_vi_23669891-387:	RẰNG LÀ TRƯỚC ĐÂY NHI ĐÃ TỪNG PHÁ THAI
+common_voice_vi_23669893-388:	(*->À) AI VẬY
+common_voice_vi_23669906-389:	NGÀY THÁNG NÀO XA (NGÁI->*)
+common_voice_vi_23669907-390:	EM CỐ GẮNG NHẮM MẮT LẠI ĐỂ NGỦ TIẾP
+common_voice_vi_23669908-391:	NHƯNG MÀ THÔNG THƯỜNG PHẢI SAU BỐN MƯƠI CHÍN NGÀY
+common_voice_vi_23669909-392:	CÓ CÁI CHUYỆN GÌ SAO CON KHÔNG CHO MẸ BIẾT
+common_voice_vi_23669910-393:	CÒN BỆNH THÌ LẠI ĐỔ CHO MA QUỶ
+common_voice_vi_23669916-394:	CHỒNG CHỒNG CỦA MẸ
+common_voice_vi_23669917-395:	THẤY AI CŨNG VÍ CÁNH HOA XƯA
+common_voice_vi_23669918-396:	MƯA VỀ PHỐ NHỎ
+common_voice_vi_23669919-397:	ĐÔI MẮT (NGÂY->*) DẠI (KHUÔN->KHÔ) MIỆNG (NHOẺN->NHẼM) MIỆNG CƯỜI ĐẦY (ĐÊ->*) MÊ
+common_voice_vi_23669920-398:	HÀ QUAY LẠI NHÌN NHƯ KHÔNG THẤY GÌ CẢ
+common_voice_vi_23676734-399:	Ở CÁI CHỐN VẮNG VẺ NÀY XƯA NAY VỐN YÊN BÌNH
+common_voice_vi_23676735-400:	MẤY CÁI CHUYỆN TÂM LINH NÀY KHÓ NÓI LẮM
+common_voice_vi_23676736-401:	LỜI MẸ KHUYÊN (LƠN->LÊN)
+common_voice_vi_23676737-402:	ĐỔ HẾT MỒ HÔI
+common_voice_vi_23676738-403:	NHƯNG ANH CHÀNG ĐÃ KỊP PHÓNG QUA HÀNG RÀO
+common_voice_vi_23689546-404:	ANH CẢM THẤY THẾ NÀO
+common_voice_vi_23689547-405:	ĐANG NÓI Ở CHỖ
+common_voice_vi_23689548-406:	GIỌNG CÒN PHA LẪN TIẾNG ĐỊA PHƯƠNG
+common_voice_vi_23689549-407:	LẼ RA THÌ CHÚNG TÔI KHÔNG NÊN NHẮC LẠI
+common_voice_vi_23689550-408:	NÓ CỨ NHÌN CHẰM CHẰM VÀO ĐÓ
+common_voice_vi_23690373-409:	(NA NGOAN->À HOÀNG) CỦA MẸ
+common_voice_vi_23695846-410:	BỐ LIỀN NÓI
+common_voice_vi_23695847-411:	CÁC BÌNH CHỌN CỦA TUẦN BÁO (TIME->THAM)
+common_voice_vi_23707415-412:	ANH TA (NHEO->TREO) ĐÔI MẮT RỒI GẬT ĐẦU
+common_voice_vi_23707416-413:	(*->Ờ) BỞI CỨ NHẮM MẮT LẠI LÀ EM LẠI THẤY HÌNH ẢNH CỦA THẢO
+common_voice_vi_23707417-414:	(*->Ở) TRONG (MƠ HỒ->HỒN)
+common_voice_vi_23707419-415:	CÓ CÔNG VIỆC GÌ KIẾM TIỀN CHO TÔI LÀM VỚI
+common_voice_vi_23725603-416:	("ĂN NỮA->ĂN) ĐI CON
+common_voice_vi_23725604-417:	KHÔNG KỊP NGĂN LẠI HÀ (NI->*) CHỈ GỌI VỚI THEO
+common_voice_vi_23725605-418:	CON MA DẠI KIA
+common_voice_vi_23725606-419:	ÔNG NỘI CON BÉ THÌ CÒN SỐNG (TOÀN->VÀ) NÓI NHƯ VẬY
+common_voice_vi_23725607-420:	TRỜI ƠI CON GÁI CỦA TÔI SAO CON LẠI KHỔ NHƯ VẬY CHỨ
+common_voice_vi_23727881-421:	VỢ CỦA CHÚ SỬA XE LẮC ĐẦU NÓI
+common_voice_vi_23727882-422:	PHONG CÁCH PHỐI ĐỒ HIỆN ĐẠI
+common_voice_vi_23727883-423:	CŨNG CÓ THỂ LÀ MA LẮM BỞI NẾU KHÔNG PHẢI LÀ MA
+common_voice_vi_23727884-424:	EM BIẾT RỒI CÁI CON BÉ BỊ XE (CÁN->CÁM) BẸP ĐẦU
+common_voice_vi_23727885-425:	PHONG (ĐÁP->*)
+common_voice_vi_23731275-426:	MÀ VỪA NÓI (VỪA TRỞ->*) RA BÊN NGOÀI
+common_voice_vi_23731276-427:	NHỮNG NGÀY BÊN MẸ
+common_voice_vi_23731277-428:	EM NHƯ NGƯỜI BỊ BÓP CHẶT LẤY CỔ
+common_voice_vi_23731279-429:	EM BỊ ĐUỔI HỌC
+common_voice_vi_23733700-430:	CHỈ DÙNG TAY (VÀO->VỚI) NHỮNG BỨC ẢNH CỦA QUÂN
+common_voice_vi_23733701-431:	MÙA THU VÀ HOA CÚC
+common_voice_vi_23733702-432:	NÓ KÌA NÓ KÌA
+common_voice_vi_23733703-433:	NGƯỜI (CHỞ->CHỜ) MÙA THU TÔI VỪA ĐỎ
+common_voice_vi_23733704-434:	NGỒI DƯỚI (GỐC->GÓC) CÂY MỘT CÁCH MỆT (NHỌC->NHỌ)
+common_voice_vi_23734631-435:	MÀ THÔI (NHẮC CÁI->CHẮC) CHUYỆN ĐẤY LÀM GÌ CHO NÓ BUỒN RA
+common_voice_vi_23734632-436:	TÔI MUỐN MÙI THƠM CỦA NƯỚC (HOA->*)
+common_voice_vi_23734634-437:	MẸ CHẲNG CÓ GÌ
+common_voice_vi_23734635-438:	NGHE THẤY TIẾNG GỌI MÀ KHÔNG (THẾ->THỂ) NÀO PHÁT RA ĐỂ TRẢ LỜI
+common_voice_vi_23734636-439:	THÌ ĐỘT NHIÊN NGHE THẤY TIẾNG ĐỘNG LẠ Ở DƯỚI NHÀ
+common_voice_vi_23734637-440:	CHỈ LĂN RA GIƯỜNG (RỒI NGỦ->NGỒI)
+common_voice_vi_23734638-441:	MẸ LIỀN BẢO
+common_voice_vi_23734640-442:	TAO NÓI THẬT THÌ MÀY LẠI CHẲNG TIN
+common_voice_vi_23734656-443:	HAI MẸ CON CHỈ CÁCH NHAU BỞI NGƯỠNG CỬA
+common_voice_vi_23734657-444:	PHONG TỈNH TÁO HẲN LẠI RỒI NÓI
+common_voice_vi_23734658-445:	RỒI TƯ (DUY->GHI) LẠI LẦN HỒI TUÔN (CHẢY->SẺ)
+common_voice_vi_23734659-446:	TỐN TIỀN LẠI TOÀN (BỌN->BỘ) NGHỊCH NGỢM
+common_voice_vi_23734660-447:	MẸ CŨNG UỐNG THUỐC RỒI
+common_voice_vi_23745302-448:	SÁNG HÔM SAU CẢ ĐOÀN THỨC DẬY
+common_voice_vi_23745303-449:	(CON->CẬU) BÉ CÒN THÔNG MINH NHANH NHẸN HƠN TRƯỚC ĐÚNG KHÔNG
+common_voice_vi_23745304-450:	(BỞI->VÀ) CHÍNH BẢN THÂN THẦY CŨNG KHÔNG NHÌN RA ĐƯỢC CHUYỆN GÌ
+common_voice_vi_23745305-451:	CÓ HAY CHĂNG LÀ CON BÉ ĐÓ GÂY RA KHÔNG
+common_voice_vi_23745306-452:	NHƯNG SỰ VIỆC ĐI QUA ĐÃ KHIẾN CHO TRINH KHÔNG THỂ KHÔNG TIN
+common_voice_vi_23753753-453:	À NHỚ RA RỒI NHỚ RỒI
+common_voice_vi_23753754-454:	TÔI XIN PHÉP RỒI NGỒI (THƯA->THƯ) CHUYỆN VỚI ÔNG
+common_voice_vi_23753755-455:	RỒI BẤT NGỜ ANH TA PHÓNG (VỤT->GỤC) RA GIƯỜNG
+common_voice_vi_23753756-456:	CŨNG KHÔNG CÓ (HIỆU NGHIỆM->Ý NGHĨA) HAY SAO
+common_voice_vi_23753772-457:	VẬY THÌ TẠI SAO KHÔNG GIÚP MÌNH CHIẾM ĐƯỢC TÌNH CẢM CỦA (QUÂN->CÔ)
+common_voice_vi_23753773-458:	THÌ (LẮC->LÚC) ĐẦU NÓI RẰNG KHÔNG CÒN CÁCH
+common_voice_vi_23753774-459:	CÂU HỎI KHIẾN CHO TUẤN (NGẨNG->NGẨN) MẶT LÊN NHÌN
+common_voice_vi_23753775-460:	(HÀ->A) NI LÚC NÀY MỚI (HỐT->LÀ KHỦNG) HOẢNG
+common_voice_vi_23753776-461:	CÓ Ý LÀ MUỐN THĂM BÉ
+common_voice_vi_23753782-462:	NHƯNG (MÀ->*) MÀY ĐI ĐÂU
+common_voice_vi_23753783-463:	(TRINH->KÍNH) NGHE XONG (CÔ TẮT MÁY->LẠI) ĐIỆN THOẠI
+common_voice_vi_23753784-464:	NHƯ CHIẾC ÁO TRÊN TƯỜNG NHƯ TRANG SÁCH
+common_voice_vi_23753785-465:	CHỈ CÒN ÁNH TRĂNG MỜ YẾU DÕI (QUA->THEO) NHỮNG (KẼ LÁ->KẺ LẠ)
+common_voice_vi_23753786-466:	VẬY TÔI SẼ NHỜ THẦY GIÚP CHO
+common_voice_vi_23755974-467:	MONG (NHƯ->NHỚ) ANH (TƯỞNG->TỪNG) PHÚT NHƯ THẾ NÀY
+common_voice_vi_23755975-468:	NHỮNG ANH EM DÂN TỘC KHÁC THÌ RẤT HIẾU KHÁCH VÀ CỞI MỞ
+common_voice_vi_23755977-469:	ĐỂ (CƯỜI NHẠO THẢO RẰNG->GÂY NHÃN)
+common_voice_vi_23755985-470:	TRÂU GIÀ THÍCH (GẶM->ĐỌNG) CỎ (NON->*)
+common_voice_vi_23755986-471:	KHÔNG NGỜ CÁI NỐT RUỒI TRÊN MẶT THÔI
+common_voice_vi_23755987-472:	KHÔNG ĐƯỢC ĐÓ LÀ TẤT CẢ NHỮNG GÌ MÌNH CÓ (KHÔNG->*) THỂ MẤT ĐƯỢC
+common_voice_vi_23755988-473:	CHẲNG HIỂU SAO LẠI RỚT XUỐNG ĐẤT NGỔN NGANG MỖI THỨ MỘT GÓC
+common_voice_vi_23756188-474:	SAU CÙNG BỐ THẢO NÓI
+common_voice_vi_23756189-475:	TÔI LIỀN TRẢ LỜI
+common_voice_vi_23756190-476:	EM RUN GIỌNG NÓI
+common_voice_vi_23756191-477:	MẸ VẪN (KỀ BÊN->*)
+common_voice_vi_23763792-478:	THÌ CỐ HỌC CHO XONG
+common_voice_vi_23763793-479:	NGHE BÀ ẤY NÓI MÀ CẢ NHÀ EM ĐỀU SỢ HÃI
+common_voice_vi_23790298-480:	TẠI QUẢNG TRƯỜNG BA ĐÌNH
+common_voice_vi_23790299-481:	NGƯỜI TA LÁI XE CÁN NÁT CẢ CÔ ẤY NGAY TẠI CHỖ
+common_voice_vi_23790300-482:	TRINH ĐƯA TAY LÊN XEM ĐỒNG HỒ BÂY GIỜ LÀ MẤY GIỜ
+common_voice_vi_23790301-483:	GỌI XE CẤP CỨU ĐI NGƯỜI NÀY VẪN CÒN SỐNG NÀY
+common_voice_vi_23790302-484:	(SOME->SO) TRAI (BẤT GIÁC GIẬT->VỨT RÁC) MÌNH HẮN TA VỘI VÀNG
+common_voice_vi_23801915-485:	ANH (NẤY->ẤY) CŨNG KHOE RẰNG ẢNH CỦA MÌNH HƠN
+common_voice_vi_23801916-486:	BÀ TÂM VỪA HO VỪA NHÌN CON (THỀU->THÈO) THÀO NÓI
+common_voice_vi_23801917-487:	(CHINH->TRÊN) KHÔNG TRẢ LỜI
+common_voice_vi_23801923-488:	VẬY MÀ KHI RA TAY THÌ BÀ (DẠ->*) QUỲ THẬT NHANH
+common_voice_vi_23801924-489:	MỘT TUẦN SAU THÌ BÀ TÂM CHẾT
+common_voice_vi_23847381-490:	KHI CÒN SỐNG (LÚN->LÚNG) SÂU VÀO TỘI ÁC
+common_voice_vi_23847382-491:	CẢ NHÀ EM VÀ THẢO CŨNG XUỐNG XEM THẦY (BÓI->*) Ở DƯỚI HUYỆN
+common_voice_vi_23847383-492:	("SAO->SAO) ANH KHÔNG ĐỨNG LẠI
+common_voice_vi_23847384-493:	THÁNG MƯỜI MỘT (CHỜ MONG->CHỢ) DUYÊN MỚI
+common_voice_vi_23847385-494:	VÀ SÁNG MAI (NẾU->MẤY) CHIẾC XE KIA KHÔNG TRỞ LẠI
+common_voice_vi_23847386-495:	CON (HÂM->HĂM) NÀY ĐI VỚI KHÔNG ĐI CÁI GÌ
+common_voice_vi_23847387-496:	EM (CÔNG->CÓ) CHUYỆN THÌ EM CỨ ĐI
+common_voice_vi_23847388-497:	NHƯ TRÊN (TRỜI BIẾC->BIẾT)
+common_voice_vi_23847389-498:	THÌ TRINH CẢM THẤY YÊN TÂM
+common_voice_vi_23847774-499:	A HỘI CẦM LẤY BAO THUỐC CỦA TÔI
+common_voice_vi_23847775-500:	VỚI LẠI NĂNG LỰC CỦA TÔI CÓ HẠN
+common_voice_vi_23847776-501:	MÀ KHI ĐÃ BỊ BẮT ĐI RỒI THÌ KHÔNG THỂ TRỞ VỀ
+common_voice_vi_23847777-502:	VÀ NHẤT QUYẾT KHÔNG THƯA
+common_voice_vi_23847778-503:	MẸ CỦA PHƯƠNG (DƠN DỚN->RƠN RỚN) NƯỚC MẮT
+common_voice_vi_23847785-504:	VỪA MUỐN NÓI THÌ LẠI (THỪ->THỪA) NGƯỜI RA
+common_voice_vi_23847794-505:	SONG TRAI (KHẼ VẪY->KHÉY) TAY MẶT (HỚN->HẤN) HỞ
+common_voice_vi_23847795-506:	CHÚNG TA VẪN CÒN TRẺ
+common_voice_vi_23847796-507:	DÙ CHỈ LÀ MỘT BƯỚC VÀO BÊN TRONG
+common_voice_vi_23847797-508:	ĐÃ CÓ LÚC QUÂN (CÒN->*) KHÔNG (*->CÒN) THIẾT (SỐNG->*)
+common_voice_vi_23847798-509:	TIẾNG CỦA THẢO VANG LÊN
+common_voice_vi_23847854-510:	EM CŨNG KHÔNG CÓ BIẾT ĐÂU
+common_voice_vi_23847856-511:	CÒN (BÀY->BÀI) CÁCH CHO MÀY
+common_voice_vi_23847859-512:	SAO LẠI SỢ NHƯ THẾ
+common_voice_vi_23847860-513:	ANH GIỜ ĐÂY ĐÂU CÒN RIÊNG EM NỮA
+common_voice_vi_23847862-514:	LẤY (CŨNG->CÚNG) MỆT (LẢ->LÀ) CẢ (RA->BA)
+common_voice_vi_23848839-515:	ĐƯỜNG ĐỜI (CHIA->*) HAI (NGẢ->NGÀ)
+common_voice_vi_23848845-516:	SẼ TỐT CHO MÌNH
+common_voice_vi_23848846-517:	CHUYỆN NÀY KHÔNG LIÊN QUAN ĐẾN BÉ HAY LỚN
+common_voice_vi_23848847-518:	ĐỨNG YÊN Ở ĐÓ
+common_voice_vi_23848848-519:	BÁNH XE LEO LÊN NGƯỜI CỦA THẢO
+common_voice_vi_23848849-520:	THẤM TUNG TRANG SÁCH
+common_voice_vi_23848850-521:	HÀ NI (NGỠ->NGỚ) RẰNG ANH TA ĐÓNG KỊCH
+common_voice_vi_23848851-522:	ÍT RA THÌ CON MÌNH VẪN CÒN SỐNG MÀ TỈNH LẠI
+common_voice_vi_23848852-523:	MẸ CỦA THẢO NÓI
+common_voice_vi_23848853-524:	TIẾNG (TÚT->TUT) DÀI CÒN KHẮC KHOẢI NGƯỜI XA
+common_voice_vi_23848854-525:	VÀ NGHĨA LÀ CÔ LÀ TẤT CẢ
+common_voice_vi_23848855-526:	HAY ĐÚNG HƠN LÀ KHÔNG MUỐN VÙNG (VẪY->VẤY) NỮA
+common_voice_vi_23848858-527:	CHỈ CẦN CON KHIẾN CHO NGƯỜI ĐÀN ÔNG TRONG BỨC ẢNH NÀY YÊU MẸ
+common_voice_vi_23848859-528:	THÌ KHÔNG THẤY GÌ CẢ
+common_voice_vi_23848860-529:	TAO CHỈ MUỐN BẢO VỆ MÀY CHỨ KHÔNG (DỌA->*) MÀY
+common_voice_vi_23848861-530:	(CẢN->CẢM) ƠN ĐÃ GIÚP TÔI
+common_voice_vi_23848862-531:	BÀ ẤY HỎI EM MỚI (SỰC->RỰC) NHỚ RA
+common_voice_vi_23848865-532:	DỰNG THÊM NHỮNG HÀNG RÀO
+common_voice_vi_23848866-533:	CÓ MỘT BẬN EM NGỒI XA ANH QUÁ
+common_voice_vi_23848868-534:	ĐÃ CƯỚP ĐI MẠNG SỐNG CỦA BẠN THÂN NHẤT CỦA EM
+common_voice_vi_23848869-535:	(ẦY->À)
+common_voice_vi_23848870-536:	HẠN CHẾ NGƯỜI NHÀ ĐẾN THĂM
+common_voice_vi_23848871-537:	THÌ CÓ TIẾNG GỌI BẢO CON TỈNH DẬY
+common_voice_vi_23848872-538:	NGỦ KHÔNG SAO NHƯNG MÀ LÚC TỈNH LẠI
+common_voice_vi_23848873-539:	VÀI NGƯỜI NỮA CŨNG ĐỔ XÔ CHẠY ĐẾN
+common_voice_vi_23848874-540:	TÂM LINH MA QUỶ TỪ XƯA ĐẾN NAY
+common_voice_vi_23848875-541:	EM THƯƠNG MẸ EM
+common_voice_vi_23848876-542:	MÀY QUAY MẶT LẠI ĐÂY NÓI CHUYỆN TỬ TẾ VỚI TAO XEM NÀO
+common_voice_vi_23848877-543:	HAY LÀ NÓI ĐƯỢC CÂU NÀO CẢ
+common_voice_vi_23848879-544:	XEM THÊM
+common_voice_vi_23848880-545:	MONG ANH CHỊ HÃY GIÚP CHÚNG TÔI
+common_voice_vi_23848881-546:	TRINH (KHẼ->KHÉ) CƯỜI RỒI NÓI
+common_voice_vi_23848882-547:	EM LẠI (THƯA->THƯ) LẠI
+common_voice_vi_23848883-548:	MẸ NHƯ CÔ TIÊN
+common_voice_vi_23848884-549:	CHỈ MỞ MẮT RA NẰM YÊN TRONG ĐÓ
+common_voice_vi_23848885-550:	QUA THỜI GIAN NÓ SẼ HẤP THỤ LINH KHÍ XUNG QUANH
+common_voice_vi_23848886-551:	CHỨ TAO CÓ CỐ Ý CHO MÀY NHÌN THẤY ĐÂU
+common_voice_vi_23848887-552:	ANH TA TRẢ LỜI
+common_voice_vi_23848888-553:	THÁNG MƯỜI MỘT ĐẸP LẠI (DUYÊN->XUYÊN)
+common_voice_vi_23848889-554:	(LẶNG->LẮNG) NGHE GIÓ (HÁT->*) LỜI TÌNH YÊU THƯƠNG
+common_voice_vi_23848890-555:	MẸ VẪN LO ÂU
+common_voice_vi_23848892-556:	THÌ LÀ CÔ ẤY
+common_voice_vi_23848893-557:	CÒN CHĂNG LÀ (KỶ->KỈ) NIỆM
+common_voice_vi_23848894-558:	HAI NGƯỜI GẶP NHAU SAU ĐÁM TANG CỦA MẸ QUÂN
+common_voice_vi_23848895-559:	MÙA THU VỀ NGANG PHỐ
+common_voice_vi_23848896-560:	QUAN TRỌNG HƠN
+common_voice_vi_23848897-561:	ĐỪNG CÓ SỢ TAO KHÔNG CÓ LÀM HẠI MÀY ĐÂU
+common_voice_vi_23848898-562:	TẤT CẢ ĐỀU NHÌN XUNG QUANH PHÒNG NHƯNG KHÔNG THẤY GÌ CẢ
+common_voice_vi_23848903-563:	NGƯỜI ẤY SANG SÔNG ĐỨNG NGÓNG ĐÒ
+common_voice_vi_23852462-564:	MẸ EM HỐT HOẢNG NÓI
+common_voice_vi_23852464-565:	NHƯNG MÀ TIẾC LÀ KHÔNG QUA NỔI NĂM MƯỜI NĂM
+common_voice_vi_23852465-566:	GIỌNG CỦA CÔ BÉ THU NGÂN ĐANG TRẢ LẠI (TRINH->CHINH) TIỀN THỪA
+common_voice_vi_23852466-567:	CỐ MÀ ĐỖ VÀO TRƯỜNG QUỐC LẬP CHO MẸ
+common_voice_vi_23852469-568:	TRỘM KHÔNG THỂ VÀO
+common_voice_vi_23852470-569:	CHỈ CÒN NỒNG HƠI THỞ NHỮNG VẦN THƠ
+common_voice_vi_23891882-570:	CON CỦA (TAO->TA) NGOAN HIỀN LẮM DỄ THƯƠNG BIẾT NGHE LỜI
+common_voice_vi_23891886-571:	MÀY LẠI MƠ (À->*)
+common_voice_vi_23950004-572:	BÀ (BÓI->BỐI) LIỀN ĐÁP LẠI
+common_voice_vi_23960969-573:	(THÔN E->THÔI EM) RI (A->*) Ở ĐÂU
+common_voice_vi_23960971-574:	ĐẶT BÁT CHÁO Ở LÊN BÀN QUÂN LIỀN HỎI
+common_voice_vi_23965605-575:	CÂY CỎ TỈNH TÁO
+common_voice_vi_23970558-576:	CHỒNG TÔI VẪN BIẾT TÔI THƯƠNG NHỚ
+common_voice_vi_23970559-577:	TÔI LÀ MỘT CÔNG DÂN MỸ
+common_voice_vi_23970560-578:	HÃY CÒN SỚM HAY LÀ ANH QUÂN VÀO TRONG NHÀ EM NGỒI CHƠI
+common_voice_vi_23970561-579:	BÀ THẢO THÌ KHUYÊN MỌI NGƯỜI NÊN ĐI XEM THẦY KHÁC
+common_voice_vi_23970562-580:	AI AI CŨNG CÓ Ý ĐỊNH BỎ VỀ
+common_voice_vi_24097243-581:	GỌI TÔI LÀ (DÃ QUỲ->XÃ QUỶ)
+common_voice_vi_24097244-582:	PHẢI RỒI AI TỚI SỐ THÌ MỚI CHẾT
+common_voice_vi_24097245-583:	NGỒI UỐNG NƯỚC VỚI NHAU
+common_voice_vi_24097246-584:	GIÓ BÊN NGOÀI CỬA SỔ HÀNH LANG KHẼ THỔI VÀO BÊN TRONG
+common_voice_vi_24097247-585:	CON NÓI LINH TINH CÁI GÌ THẾ
+common_voice_vi_24097272-586:	BỖNG TẠNH MƯA RÀO
+common_voice_vi_24097273-587:	TUÔN TRÀO CẢM XÚC
+common_voice_vi_24097274-588:	CHO NÊN (CHINH->TRINH) BƯỚC RA KHỎI PHÒNG
+common_voice_vi_24097289-589:	MỌI CHUYỆN ĐỂ MẸ TÍNH SAU
+common_voice_vi_24097290-590:	EM CŨNG KHÔNG RÕ MÌNH BẮT ĐẦU NGỦ TỪ LÚC MẤY GIỜ
+common_voice_vi_24097291-591:	MÀ KHÔNG CÓ ĐI LÊN TẦNG BA VÀO PHÒNG THỜ (PHẬT->*) NỮA
+common_voice_vi_24097292-592:	NÓ CÒN BẢO LÀ HÔM NAY MÀ ĐI
+common_voice_vi_24097304-593:	THÌ LIỆU RẰNG CUỘC ĐỜI NÀY CÔ CÓ THAY ĐỔI KHÔNG
+common_voice_vi_24097332-594:	ĐÂY LÀ TUẤN NGƯỜI YÊU CỦA CHÁU LÂU NAY ĐI LÀM XA MỚI VỀ
+common_voice_vi_24144113-595:	(CHINH->Ừ TRINH) THAY VÁY NGỦ RỒI ĐI SANG PHÒNG THỜ
+common_voice_vi_24144115-596:	NHỮNG GÌ EM ĐÒI
+common_voice_vi_24421799-597:	CHƯA HỀ KHẮC GHI
+common_voice_vi_24421803-598:	THẢO ĐÃ MẤT RỒI
+common_voice_vi_24421806-599:	(BÀ->VÀ) BÓI VẪN ĂN MẶC BÌNH THƯỜNG
+common_voice_vi_24421808-600:	NHƯNG ÁNG CHỪNG CŨNG ĐÃ KHÁ MUỘN
+common_voice_vi_24457608-601:	SAU KHI CHỤP (HÌNH THÌ->ẢNH) VẪN CHƯA HẾT (CHUYỆN->*)
+common_voice_vi_24457609-602:	KHI CÔ ĐƠN (CẠN TÌNH->*) AI CŨNG (THẾ->THẤY)
+common_voice_vi_24457611-603:	MONG CON BÌNH AN
+common_voice_vi_24457641-604:	ANH (CHÀNG->CHÈ) BẮT ĐẦU HỐT HOẢNG
+common_voice_vi_24457667-605:	ĐÁM ĐÔNG (BU->*) VÀO (ĐÔGN->ĐÔNG) NGHẸT CỐ (CHEN->TRÀN) LÊN TRÊN
+common_voice_vi_24457668-606:	CHẮC LÀ ÁNH ĐÈN ĐÓ CON
+common_voice_vi_24457669-607:	(NGỰA ĐUA DƯỚI NƯỚC->Ờ)
+common_voice_vi_24457671-608:	NẾU ĐƯỢC THÌ ANH MONG CẢ ANH VÀ EM
+common_voice_vi_24458013-609:	THẬM CHÍ ĐỂ TRONG BỮA ĂN QUÂN CÒN ÍT NÓI HƠN BÌNH THƯỜNG
+common_voice_vi_24458029-610:	À KHÔNG MỌI CHUYỆN VẪN ỔN
+common_voice_vi_24458030-611:	CÂY (XOÀI->SÒI) NÀY LÀ (LỘC->LỌC) CỦA BỐ EM (TRỒNG->CHỒNG) ĐỂ LẠI (ĐẤY->NẮNG)
+common_voice_vi_24458052-612:	NHƯNG LÚC NÀY ANH Ở BÊN EM
+common_voice_vi_24458075-613:	(HÀ NI->À NÊN) NGHIÊM (GIỌNG->TRỌNG)
+common_voice_vi_24458080-614:	(*->Ờ) CHÍNH LÀ CÔ (SAO->*)
+common_voice_vi_24458240-615:	ĐÁM ĐÔNG ĐƯỢC GIẢI TÁN
+common_voice_vi_24458247-616:	CHUYỆN NÀY TÔI KHÔNG PHẢI LÀ CHƯA GẶP
+common_voice_vi_24458261-617:	(BÀ->VÀ) ẤY (LẮC->BẮT) ĐẦU NÓI
+common_voice_vi_24458265-618:	MỚI NGHĨ MÀ ĐÃ CẢM THẤY HƯNG PHẤN RỒI
+common_voice_vi_24458298-619:	(HAY->ĐÂY) LÀ NHÀ ĐI KHÔNG (THẮP HƯƠNG->*) CHO CÁC CỤ
+common_voice_vi_24458299-620:	BẠN BÈ LÂU NĂM MỚI GẶP CHƯA GÌ ĐÃ VỀ
+common_voice_vi_24458315-621:	(CHINH->TRINH) NGHĨ Ở TRONG ĐẦU
+common_voice_vi_24458318-622:	NGƯỜI TA (PHỤ->*) HOẶC (THỜ Ơ->*) CHẲNG BIẾT
+common_voice_vi_24458320-623:	NHƯNG (BÂY GIỜ ÂM DƯƠNG CÁCH BIỆT->MÀY SẼ ẤM)
+common_voice_vi_24458353-624:	TÔI TÔI KHÔNG CHỊU NỔI TÔI CHẾT MẤT
+common_voice_vi_24458358-625:	EM ĐÃ (CHẲNG ĐỔ->TRẢ) CHO ANH BAO TỘI LỖI
+common_voice_vi_24458365-626:	(ANH->ĂN) GÌ (ƠI->*) ANH
+common_voice_vi_24458981-627:	(PHƯƠNG->ỪM)
+common_voice_vi_24462271-628:	CON BÌNH TĨNH NGHE NGƯỜI TA NÓI (HẾT->*) ĐI ĐÃ
+common_voice_vi_24476314-629:	ĐÊM NAY CHÚNG TA TIẾP TỤC
+common_voice_vi_24476316-630:	NẾU BIẾT RẰNG SẼ CHẲNG GẶP LẠI NHAU
+common_voice_vi_24476317-631:	EM NHƯ MỘT ĐỨA VÔ HỒN KHÔNG BƯỚC NỔI
+common_voice_vi_24562276-632:	QUÂN ĐỨNG Ở BÊN NGOÀI
+common_voice_vi_24562277-633:	SÂN TRƯỜNG NHỘN NHỊP
+common_voice_vi_24562280-634:	TÔI LỪA ĐẢO CỦA GIA ĐÌNH ANH CÁI GÌ
+common_voice_vi_24562283-635:	CẢ NHÀ HẠNH PHÚC
+common_voice_vi_24562284-636:	THÌ NHI LÀ MỘT CÔ GÁI HOÀN HẢO
+common_voice_vi_24743772-637:	NHƯNG CŨNG ĐOÁN ĐƯỢC (LÍ->LÝ) DO LIÊN QUAN ĐẾN THẢO
+common_voice_vi_24743774-638:	TÂM LÝ BẤT ỔN ĐỊNH KHI VỪA MẤT ĐI CÁI THAI Ở TRONG BỤNG
+common_voice_vi_24743776-639:	GIAI THOẠI
+common_voice_vi_24743792-640:	TÔI XIN LỖI RỒI MÀ NẾU CẦN TÔI SẼ XIN LỖI LẦN NỮA
+common_voice_vi_24743793-641:	ĐÊM QUA CON BÉ MƠ THẤY ÁC MỘNG
+common_voice_vi_24743795-642:	VỀ NƯỚC CHƠI CHƯA ĐƯỢC BAO LÂU (LAIJ->LẠI) BỊ TAI NẠN
+common_voice_vi_24743807-643:	ÉP BÀ ĐƯA BÀ ĐI BỆNH VIỆN BÀ KHÔNG CHỊU
+common_voice_vi_24743808-644:	CHÍNH LIỀN TRẢ LỜI
+common_voice_vi_24743810-645:	EM CẢM GIÁC (LẠNH->*) BUỐT ĐẾN TẬN NÃO
+common_voice_vi_24814570-646:	(KHỈ->CHỈ) CÁNH CỬA ĐÓNG LẠI
+common_voice_vi_24814572-647:	ĐÁM KIA THÌ VỀ (NHẢ->NHÀ) TIẾP KHÁCH
+common_voice_vi_24855910-648:	NHẤT LÀ KHI NHÌN VÀO CON BÚP BÊ ĐÓ
+common_voice_vi_24855913-649:	NGƯỜI ĐÀN ÔNG KHÔNG (ĐÁP->ĐẠT)
+common_voice_vi_24855914-650:	VẬY PHẢI XEM (SỐ->*) TRỜI THẾ NÀO
+common_voice_vi_24931514-651:	MONG CON LỚN KHÔN
+common_voice_vi_24931517-652:	KHUNG HÌNH CỦA TRÌNH BÀY (SẢN->*) TRONG MẠCH HƠN TRƯỚC
+common_voice_vi_24931518-653:	MẸ EM NÓI ĐỠ LỜI
+common_voice_vi_24931529-654:	NÓ HAY NHỐT MÌNH Ở TRONG PHÒNG
+common_voice_vi_24931530-655:	KHÔNG NÊN COI NHẸ
+common_voice_vi_24931542-656:	A HỒI LIỀN QUAY SANG THÌ KỂ
+common_voice_vi_24942299-657:	(VẬY->BẠN) NGỌC LAN ĐÂU
+common_voice_vi_24942310-658:	(NHƯNG CON CHỈ->EM CÒN) NHỚ
+common_voice_vi_24942312-659:	(VÀ PHẢI->CÓ THỂ) NHỚ (KỸ->*) LÀ KHÔNG BAO GIỜ ĐƯỢC BỎ BÊ (NÓ->*)
+common_voice_vi_24942314-660:	NHƯNG MÀ (DƯỜNG NHƯ CÀNG CỐ LẠI->DẦN LÀ) KHÔNG THỂ NGHE ĐƯỢC
+common_voice_vi_24942320-661:	(VỤNG DẠI TẤM->GỒM CON) BÉ
+common_voice_vi_24942321-662:	BÀ (THẢN NHIÊN ĐỨNG DẬY ĐI RA NGOÀI->THẢO)
+common_voice_vi_24942333-663:	(TỐI HÔM ĐÓ SAU KHI ĂN UỐNG XONG->Ờ)
+common_voice_vi_24942341-664:	(NGHE XONG MÀY SẼ->NGƯỜI TA) HIỂU
+common_voice_vi_24976635-665:	YÊN TÂM TAO SẼ GIÚP MÀY
+common_voice_vi_24976644-666:	CHẲNG HIỂU (TRINH->TRÂN) ĐANG NHÌN CÁI GÌ TRÊN (ĐÙI->NÚI)
+common_voice_vi_24994690-667:	EM KHÔNG TRẢ LỜI
+common_voice_vi_25031248-668:	IN (BÓNG->BẤM) NHAU (VỜN LUÂN->LUÔN) ĐIỆU VŨ
+common_voice_vi_25031250-669:	SAU NHÀ LÀ BỤI CÂY VỚI NHỮNG (KHÓM->KHỚM) CỎ DẠI NHÔ CAO
+common_voice_vi_25031259-670:	VIỆC LÀM ĂN QUÁ THUẬN LỢI
+common_voice_vi_25050909-671:	CON SẼ THỐT LÊN
+common_voice_vi_25050938-672:	THẦY LẠI CŨNG NÓI LÀ BỊ (CHE->TRE) CƠ MÀ
+common_voice_vi_25050940-673:	NHƯNG KHÔNG AI CÓ THỂ HIỂU ĐƯỢC RẰNG
+common_voice_vi_25112168-674:	SAO ANH VỘI VỀ NGAY
+common_voice_vi_25112243-675:	CÙNG BẠN (ĐÙA->ĐỒ) VUI
+common_voice_vi_25112248-676:	VÔ TÌNH ANH KHÔNG NÓI
+common_voice_vi_25113502-677:	(NHI->DI) CŨNG TÌM ĐƯỢC MỘT (ĐỨC LANG QUÂN->ĐẤT LAN) HOÀN MỸ
+common_voice_vi_25113536-678:	MẸ THẢO QUAY SANG NHÌN BÀ BÓI MỘT LƯỢT RỒI HỎI LẠI
+common_voice_vi_25113576-679:	TAY CÒN LẠI PHƯƠNG KÉO (CHĂN CHÙM->TRĂNG TRÙM) LÊN ĐẦU
+common_voice_vi_25117161-680:	GIÓ HÃI HÙNG GIẬT RÚ TỪNG CƠN
+common_voice_vi_25117270-681:	NHƯNG CON CHỈ KHÓC
+common_voice_vi_25117281-682:	NHÀ THƠ VÀ NHÀ BÁO
+common_voice_vi_25120446-683:	NÊN TÍNH CHO EM ĐI CHƠI (XA->*) HAI NGÀY
+common_voice_vi_25120501-684:	HAY LÀ DO CHÚNG TA KHÔNG TRÙM KHĂN
+common_voice_vi_25120521-685:	TRINH CÓ PHẦN HOANG MANG
+common_voice_vi_25120552-686:	ĐỂ CHO TÌNH ĐẸP (ĐẸP->*) HƠN
+common_voice_vi_25120555-687:	LÁT XONG TAO KỂ (TIẾP->*) CHO MÀY NGHE
+common_voice_vi_25120584-688:	YÊU LÀ CHẾT Ở TRONG LÒNG MỘT ÍT
+common_voice_vi_25120717-689:	NGƯỜI CHẾT LÀ (VONG->*)
+common_voice_vi_25120753-690:	VỚI NHỮNG CÁI MÓNG DÀI (NGOẴNG->QUẲNG)
+common_voice_vi_25120819-691:	CĂN PHÒNG THỜ (KUMANTHONG->KHU MANH) ĐỐI DIỆN VỚI PHÒNG NGỦ CỦA (CHINH->TRINH)
+common_voice_vi_25120837-692:	(XONG TRAI->SONG) NÀY
+common_voice_vi_25123455-693:	GIỜ NGHE HỎI MỚI QUAY LẠI TỪ TỐN NÓI
+common_voice_vi_25123467-694:	VỚI QUÂN CHỈ TRONG KHOẢNG MỘT THỜI GIAN NGẮN MÀ MỌI THỨ SỤP ĐỔ
+common_voice_vi_25129702-695:	MẸ LIỀN NÓI VỚI EM
+common_voice_vi_25129704-696:	TÔI KHÔNG HỀ BIẾT GÌ
+common_voice_vi_25129708-697:	MẸ ƠI CON XIN LỖI
+common_voice_vi_25129723-698:	NHƯ MÀU (THU ÚA VÀNG->THUA)
+common_voice_vi_25129726-699:	CÁI VIỆC NÀY LÀ PHẢI NHẤT TÂM
+common_voice_vi_25132066-700:	TOÀN THÂN CỦA (TRINH->TRỊNH) ĐỔ MỒ HÔI LẠNH
+common_voice_vi_25132086-701:	TÔI VẪN CÒN QUÁ TRẺ
+common_voice_vi_25132106-702:	KHI TẬN MẮT CHỨNG KIẾN TAI NẠN
+common_voice_vi_25132112-703:	CHIỀU NAY XA (XỨ->*)
+common_voice_vi_25132122-704:	EM MUỐN KHÓC THÌ EM CỨ KHÓC ĐI
+common_voice_vi_25132136-705:	TÔI VỚI SỰ SẼ Ở LẠI NHÀ ANH TA
+common_voice_vi_25132143-706:	XE CÁN BẸP ĐẦU SAO LẠI THẾ
+common_voice_vi_25132159-707:	CHÚNG TA ĐANG CHUẨN BỊ THI LÊN CẤP CƠ MÀ
+common_voice_vi_25132172-708:	TẠI SAO
+common_voice_vi_25132175-709:	(SOME->SOM) TRAI LIỀN THẮC MẮC
+common_voice_vi_25132176-710:	CHÚ LIỀN NÓI
+common_voice_vi_25132177-711:	CẢM ƠN ANH ĐÃ GIÚP ĐỠ
+common_voice_vi_25132201-712:	(CHINH->TRINH) BẮT ĐẦU THẮC MẮC
+common_voice_vi_25132224-713:	LỜI CHƯA ĐƯỢC NÓI
+common_voice_vi_25132225-714:	CAO LÊN MỖI NGÀY
+common_voice_vi_25132226-715:	VƯỢT TRÊN TẤT CẢ
+common_voice_vi_25132227-716:	(HÀ->HÈ) GIẬT MÌNH NỔI (GAI ỐC->CAO)
+common_voice_vi_25132230-717:	TRĂNG HAY TÌNH (LỨA->LỬA) ĐÔI
+common_voice_vi_25132268-718:	LẼ PHẢI CO CHÂN CHẠY NHƯ MA ĐUỔI
+common_voice_vi_25132282-719:	SAU KHI TẤT CẢ NHỮNG CĂN NHÀ SÀN ĐƯỢC DỰNG LÊN
+common_voice_vi_25132316-720:	THẬT À THẾ THÌ ĐÚNG RỒI
+common_voice_vi_25132381-721:	VỪA NGHE THẤY TÊN THÌ MỘT ANH CHÀNG LỰC (LƯỠNG->LỬNG) BƯỚC RA
+common_voice_vi_25132396-722:	MỚI LÀ GIỜ CHO BÉ (NA->NÓ) ĂN
+common_voice_vi_25132427-723:	ĐÂY LÀ PHÒNG DÀNH CHO KHÁCH (NÀY->NÈ)
+common_voice_vi_25132428-724:	THÌ BẤT NGỜ CÔ ĐƯA TAY CÀO (CẤU->CỐ) VÀO ĐÙI CỦA ANH
+common_voice_vi_25132439-725:	TINH THẦN RẤT DỄ BỊ XÚC ĐỘNG
+common_voice_vi_25132462-726:	NGƯỜI MẸ CỦA TA
+common_voice_vi_25132499-727:	HÃY (KHẮNG->KHĂNG) KHÍT NHỮNG CẶP MÔI (GẮN CHẶT->*)
+common_voice_vi_25132566-728:	LÚC NÀY TRINH CŨNG ĐANG TỪ TRÊN TẦNG ĐI XUỐNG
+common_voice_vi_25132582-729:	ĐÃ HƠN MƯỜI MỘT GIỜ ĐÊM
+common_voice_vi_25132591-730:	NHỮNG CUNG ĐƯỜNG (CHIA->CHỈ) NÚT GIAO LỐI RẼ
+common_voice_vi_25132666-731:	TẠI HÔM MẤT BẠN VÀ CHÁU ĐI ĂN CHÈ
+common_voice_vi_25132686-732:	CẢM ƠN EM ĐÃ LUÔN ĐỘNG VIÊN ANH LÚC YẾU ĐUỐI
+common_voice_vi_25132687-733:	CÓ AI CỨU GIÚP
+common_voice_vi_25132692-734:	BÀ ẤY ĐÂU RỒI
+common_voice_vi_25132746-735:	ĐẾN GIẾT NGƯỜI MÀ NÓ CÒN LÀM ĐƯỢC
+common_voice_vi_25132761-736:	EM HÃY NHẮM MẮT VÀ CÙNG CẦU NGUYỆN
+common_voice_vi_25132762-737:	CÓ GÌ THEO BÁC SĨ THEO DÕI ĐỂ KIỂM TRA SÁT SAO CHO CON
+common_voice_vi_25132763-738:	EM NGHE BẢO LÀ MẤY NGƯỜI CHẾT BẤT (ĐẮC->*) KỲ TỬ
+common_voice_vi_25132769-739:	CÒN QUÂN ĐỂ QUAY LẠI RỒI NÓI
+common_voice_vi_25132772-740:	TA LUÔN CHIA SẺ
+common_voice_vi_25132773-741:	TRĂM (HAY->HAI) KHÔNG BẰNG TAY QUEN
+common_voice_vi_25132775-742:	ĐÂY LÀ NHỮNG NGƯỜI Ở DƯỚI (XUÔI->XUI) LÊN ĐỂ THAM QUAN NGẮM CẢNH
+common_voice_vi_25132794-743:	VẾT THƯƠNG COI BỘ LÀ KHÔNG CÓ NHẸ ĐÂU
+common_voice_vi_25132812-744:	KHI MÀ (CHINH->TRINH) VẪN ĐANG THỨC
+common_voice_vi_25132827-745:	ĐỨNG TRƯỚC CỬA PHÒNG THỜ
+common_voice_vi_25132863-746:	CÔ SẼ GẶP NGUY HIỂM
+common_voice_vi_25132893-747:	NÃY GIỜ HẦU NHƯ KHÔNG MÀNG TỚI CUỘC ĐÔI CO GIỮA HAI NGƯỜI
+common_voice_vi_25132910-748:	LÀ HÀ ĐÃ THẤY NGÔI NHÀ NÀY CÓ GÌ ĐÓ KHÔNG ỔN
+common_voice_vi_25132913-749:	CÔ VỀ ĐÂU CHẲNG BIẾT
+common_voice_vi_25132917-750:	QUÂN LÚC NÀY MỚI LAO MÌNH ĐƯỢC VÀO BÊN TRONG
+common_voice_vi_25142213-751:	NGƯỜI TA HỎI EM NHÀ Ở ĐÂU CON CÁI NHÀ AI
+common_voice_vi_25142229-752:	(DƯỜNG->HÌNH) NHƯ NỖI ĐAU MẤT NGƯỜI THÂN CUỐI CÙNG
+common_voice_vi_25142231-753:	EM BỊ MẤY NGƯỜI (GHÌ->*) CHẶT LẤY LÔI RA NGOÀI
+common_voice_vi_25142232-754:	VỚI TRÌNH QUÂN LÀ MỘT NGƯỜI ĐÀN ÔNG TỐT
+common_voice_vi_25152887-755:	ĐẾN RỒI ĐẤY MỌI NGƯỜI
+common_voice_vi_25152889-756:	MỞ CỬA NHÀ CÔ CHẠY NGAY LÊN PHÒNG CỦA MÌNH
+common_voice_vi_25157794-757:	TÔI ĐOÁN KHÔNG NHẦM
+common_voice_vi_25157795-758:	CON BÉ VẪN ĂN UỐNG HỌC HÀNH BÌNH THƯỜNG
+common_voice_vi_25157813-759:	EM ĐÚNG LÀ MỘT NGƯỜI BẠN TỐT CỦA NHI VÀ ANH
+common_voice_vi_25157814-760:	CŨNG LÀ ĐỂ CHO (KUMANTHONG->KU MAN THÔNG) CÓ MỘT NƠI Ở MỚI ĐẦY ĐỦ HƠN
+common_voice_vi_25157817-761:	BÀ BÓI CÓ VẺ HƠI GIẬN LỜI CỦA BỐ THẢO
+common_voice_vi_25157829-762:	RA ĐẾN CHỖ ĐỂ XE THÌ PHƯƠNG CHÉP MIỆNG
+common_voice_vi_25166330-763:	HAI ĐẦU NGÓNG ĐỢI SẦU VƯƠNG (ĐỌA ĐÀY->ĐỌ ĐẦY)
+common_voice_vi_25166346-764:	CÁNH CỬA PHÒNG THỜ (KUMANTHONG->CUMANG) VẪN ĐÓNG
+common_voice_vi_25166347-765:	HOẶC NHỮNG TRƯỜNG HỢP CỦA CHÁU THẢO
+common_voice_vi_25176604-766:	BAN ĐẦU TRINH KHÔNG ĐỊNH NÓI
+common_voice_vi_25176615-767:	SAU BỐN MƯƠI CHÍN NGÀY TÔI KHÔNG GIÚP ĐƯỢC NỮA ĐÂU
+common_voice_vi_25202224-768:	SỰ (DẰN->RÀNG) VẶT
+common_voice_vi_25217883-769:	ĐANG NHỚ LẠI CHUYỆN CŨ
+common_voice_vi_25217934-770:	GIAI ĐOẠN KHÁNG CHIẾN CHỐNG PHÁP
+common_voice_vi_25224584-771:	CỨ YÊN TÂM TAO ĐÃ LO CẢ RỒI
+common_voice_vi_25224658-772:	BỞI THẢO ĐANG BỊ GIỮ CHÂN KHÔNG ĐI ĐƯỢC
+common_voice_vi_25224692-773:	CHẾT ĐI ĐỒ QUỶ DỮ
+common_voice_vi_25224694-774:	NHƯNG VẪN PHẢI THEO DÕI ĐỂ KIỂM TRA KỸ HƠN
+common_voice_vi_25224710-775:	CUỘC SỐNG BẤT CÔNG BIẾT MẤY CHO VỪA
+common_voice_vi_25224726-776:	MẶT KHÁC CHỊ CŨNG RẤT TÒ MÒ KHÔNG BIẾT ĐƯỢC RẰNG
+common_voice_vi_25224744-777:	NHỮNG CÁI HIỆN TƯỢNG TRÊN ĐỀU LÀ BÌNH THƯỜNG THÔI
+common_voice_vi_25224780-778:	VÀ NHỚ LÀ ĐỪNG RỜI HOA (DÃ QUỲ->DẠ) RA KHỎI TAY NHỚ ĐẤY
+common_voice_vi_25224782-779:	NHỮNG CÁI XÁC ĐANG PHÂN HỦY ĐỂ LẠI BỘ XƯƠNG TRẮNG TINH
+common_voice_vi_25224816-780:	BÁO CÔNG AN CHO CHO BẮT NHỐT HẾT VÀO TRONG TÙ KIA KÌA
+common_voice_vi_25225610-781:	VẬY PHẢI LÀM THẾ NÀO
+common_voice_vi_25225712-782:	(HÀ->HÈ) LIỀN (ẤP ÚNG->*) ĐÁP LẠI
+common_voice_vi_25225727-783:	NHƯNG MÀ QUÝ CÔ NÀY TÔI KHUYÊN CÔ ĐIỀU NÀY
+common_voice_vi_25225743-784:	ĐỜI VÔ TÌNH NGHIỆT NGÃ
+common_voice_vi_25225879-785:	RẤT NHIỀU HÌNH ẢNH ĐỦ MỌI GÓC ĐỘ
+common_voice_vi_25225896-786:	MẸ EM NGHE EM HỎI MÀ GÀO LÊN
+common_voice_vi_25225922-787:	VÀ THƯỜNG ĐEM LÒNG YÊU THƯƠNG CÔ CHỦ QUÁN ĐÂY
+common_voice_vi_25225931-788:	CHỊ NGHĨ RẰNG (THÀ->THỀ) CHO TÊN TRỘM LẤY HẾT ĐỒ (ĐẠC->ĐẸP) CŨNG ĐƯỢC
+common_voice_vi_25225954-789:	KHÔNG THỂ CHỊU ĐỰNG NỔI NỮA
+common_voice_vi_25225961-790:	SÓNG CẢ BA (ĐÀO->ĐÈO) VƯỢT (GHỀNH->GẦY) THÁC NHẤP (NHÔ->NHÂU)
+common_voice_vi_25225979-791:	MỘT NGƯỜI CHẠY TỚI RẤT ĐÔNG
+common_voice_vi_25226010-792:	CON ĐÃ THÊM CAO
+common_voice_vi_25226011-793:	NGOÀI BAN CÔNG ĐƯỢC ĐẶT NHỮNG CHẬU CÂY CẢNH
+common_voice_vi_25226017-794:	GIÓ NGOÀI (HIÊN CŨNG->*) TẮT TỰ KHI NÀO
+common_voice_vi_25226039-795:	(HÀ LIỀN->HEM) ĐÁP LẠI
+common_voice_vi_25226060-796:	MỚI LÀM LỄ KIỆU (VONG->*) LÊN ĐƯỢC
+common_voice_vi_25226075-797:	SUỐT TỪ LÚC (TRƯA->CHƯA) ĐẾN GIỜ
+common_voice_vi_25226077-798:	RỒI ANH TA QUAY SANG NÓI VỚI TUẤN
+common_voice_vi_25226113-799:	TỪNG NGÀY TỪNG NGÀY
+common_voice_vi_25226158-800:	THƠ TÌNH NGÀY KHÔNG ANH
+common_voice_vi_25226263-801:	EM MẤY NGÀY QUA CHỈ SỢ LÀ ANH BUỒN RỒI NGHĨ QUẨN THÔI
+common_voice_vi_25226266-802:	NHÀ EM LÀ NHÀ CUỐI CÙNG CỦA XÓM
+common_voice_vi_25226316-803:	(NỀN->NÊN) ĐỘNG VIÊN EM RẤT NHIỀU
+common_voice_vi_25226325-804:	THẾ NÀY PHẢI TÌM THẦY CAO TAY HƠN
+common_voice_vi_25226332-805:	THẤY ANH TA (LẢO->*) ĐẢO HÀ (NI->*) VỘI CHỤP LẤY VAI VÀ KÊU LÊN
+common_voice_vi_25226336-806:	NGHE NÓI LÀ BỊ (Ô TÔ CÁN->ÔTÔ CẮN) ĐỨT CẢ NGƯỜI
+common_voice_vi_25226344-807:	TRÌNH HƠI (SỮNG->CHỮNG) LẠI KHI QUÂN VỪA NHẮC ĐẾN NHI
+common_voice_vi_25226359-808:	TRÊN CÁNH ĐỒNG HOANG (DẠI->DÃ)
+common_voice_vi_25226361-809:	NGHE (HÀ NI->*) NÓI NHƯ VẬY
+common_voice_vi_25226368-810:	NẾU QUA BỐN MƯƠI CHÍN NGÀY THÌ MUỘN
+common_voice_vi_25226370-811:	(BÀ BÓI->À GÓI) GẬT (GÙ->*) NÓI
+common_voice_vi_25226374-812:	NHỮNG CÁNH CỬA GỖ ĐỀU BỊ RÈM CHE PHỦ
+common_voice_vi_25226375-813:	NƯỚC MẮT CHẢY (GIÀN GIỤA->RÀM RỤA)
+common_voice_vi_25226380-814:	CHẲNG PHẢI CÓ SỨC MẠNH HƠN RỒI SAO
+common_voice_vi_25226381-815:	AI ĐÃ CHĂM CON
+common_voice_vi_25226384-816:	EM MUỐN ANH
+common_voice_vi_25226385-817:	CÓ (LÂN->LẦN) TAO ĐỊNH MỞ LỜI NHƯNG MÀ NÓ GẠT ĐI
+common_voice_vi_25226386-818:	THẾ NHƯNG CÁNH CỬA KHÔNG THỂ XẢY RA BẤT CỨ ĐIỀU GÌ
+common_voice_vi_25226394-819:	SAO ANH VỘI (NGỎ->BỎ) LỜI
+common_voice_vi_25226410-820:	TOÀN THÂN CỦA CHỊ NÓNG (RAN->*)
+common_voice_vi_25226414-821:	VẠN VẬT KHÔ RÁO
+common_voice_vi_25226417-822:	LINH HỒN TA CÒN U ẨN HƠN (ĐÊM->*)
+common_voice_vi_25226438-823:	QUỶ ĐÃ ĐÁNH ĐỔI CON BÉ ẤY NHỮNG THỨ MÀ CHÁU MUỐN
+common_voice_vi_25226440-824:	BỐ EM LÚC ẤY CHEN NGANG
+common_voice_vi_25226441-825:	TÓC MẸ BẠC TRẮNG
+common_voice_vi_25226442-826:	TÌNH HÌNH CHO ĐẾN NGÀY HÔM NAY
+common_voice_vi_25226444-827:	CON CHỊU KHÓ CẦM CÁI VIÊN ĐÁ NÀY CHO MẸ YÊN TÂM
+common_voice_vi_25226445-828:	VUỐT BỜ TÓC MÂY
+common_voice_vi_25226446-829:	NẾU KHÔNG MUỐN LÀ MỘT THỨ QUỶ GIÀ NHƯ TÔI
+common_voice_vi_25226451-830:	LÁI XE ĐẾN PHÒNG TẬP
+common_voice_vi_25226460-831:	ANH CHÀNG CƯỜI TRÊN ĐÔI MÔI HÉO HẮT
+common_voice_vi_25226463-832:	CHƯA HỀ GHI NHỚ
+common_voice_vi_25226470-833:	XẤU HAY LÀM TỐT (DỐT->*) HAY NÓI CHỮ
+common_voice_vi_25226472-834:	VÍ DỤ NHƯ LÀ CÓ TIẾNG BƯỚC CHÂN AI ĐÓ ĐI VÒNG QUANH NHÀ
+common_voice_vi_25226476-835:	LÀ (KUMANTHONG->CÔ MA THUNG) Ở BÊN LỌ THỦY TINH NGÀY HÔM NAY
+common_voice_vi_25226478-836:	EM PHẢI HỌC HÀNH
+common_voice_vi_25226488-837:	CHỈ VÔ TÌNH MÀ THÔI
+common_voice_vi_25226489-838:	TRÊN ĐÓ THÌ CHẢ XUỐNG ĂN UỐNG GÌ CẢ
+common_voice_vi_25226495-839:	MỖI KHI RA VỀ
+common_voice_vi_25226498-840:	MẸ NGHE NÀY
+common_voice_vi_25226500-841:	THƯƠNG CHÚC NGƯỜI GIẤC NGỦ THẬT DỊU ÊM
+common_voice_vi_25226505-842:	EM LIỀN NÓI LẠI
+common_voice_vi_25226509-843:	BÀ (BÓI->ẤY) LIỀN ĐÁP
+common_voice_vi_25226516-844:	TỪ SỢ HÃI CHÍNH BỖNG DƯNG CƯỜI (KHÚC KHÍCH->*)
+common_voice_vi_25226520-845:	SINH (LI->LY) TỬ (BIỆT->VIỆT)
+common_voice_vi_25226521-846:	CÂY CỐI XANH TƯƠI
+common_voice_vi_25226522-847:	MỘT CHÚT TÊN TÔI ĐỐI VỚI NÀNG
+common_voice_vi_25226523-848:	XEM THẢO HỢP VỚI AI SẼ NHẬP VÀO NGƯỜI ĐÓ
+common_voice_vi_25226524-849:	LÚC ĐÓ SẼ GIẢI QUYẾT ĐƯỢC CÁI CẢNH CHÁN CHÔNG CỦA MÀY BÂY GIỜ
+common_voice_vi_25226540-850:	HAI CHUYỆN KHÁC NHAU
+common_voice_vi_25226541-851:	ĐIỆN THOẠI ĐỔ CHUÔNG NHƯNG MÀ KHÔNG CÓ AI BẮT MÁY
+common_voice_vi_25226543-852:	ĐANG ĐÊM MÀ CỨ (THƯA->*) NHƯ VẬY LÀ SAO
+common_voice_vi_25226544-853:	CÒN NGƯỜI THÌ CHẮC LÀ ĐƯA ĐI RỒI
+common_voice_vi_25226548-854:	NGUỒN GỐC CỦA MUÔN NGÀN KHÁT VỌNG
+common_voice_vi_25226551-855:	(CHINH->TRINH) KHÔNG CÒN SỢ CHẾT NỮA
+common_voice_vi_25226570-856:	SINH CƠ LẬP NGHIỆP
+common_voice_vi_25226575-857:	VẬY BÂY GIỜ LÀM SAO CÔ LÀM ƠN GIÚP CHO MẸ CON (TÔI->*)
+common_voice_vi_25226577-858:	TRĂNG QUẦNG THÌ (HẠN->HẠT) TRĂNG (TÁN->*) THÌ MƯA
+common_voice_vi_25226578-859:	XA MẶT CÁCH LÒNG
+common_voice_vi_25226652-860:	BỖNG DƯNG (CHINH->TRINH) THẤY NGƯỜI CỦA MÌNH (LẠNH->LẠI) TOÁT
+common_voice_vi_25226656-861:	ĐI (ĐI->*) CON
+common_voice_vi_25226844-862:	NÓ LẠI KHỎE MẠNH TRỞ LẠI
+common_voice_vi_25226899-863:	CHĂM SÓC ĐƯỢC CHỦ CỦA MÌNH
+common_voice_vi_25226903-864:	MÃI SAU BỐ MẸ EM ĐẾN ĐƯA EM VỀ NHÀ
+common_voice_vi_25226904-865:	(NHỌN HOẮT->LOẠN HÓT) CÀO CÀO VÀO KHÔNG TRUNG
+common_voice_vi_25226906-866:	CHÚNG TÔI ĐANG CỐ GẮNG THU XẾP
+common_voice_vi_25226917-867:	SẼ DỪNG LẠI KHI CHỈ CÒN MỘT CHIẾC
+common_voice_vi_25226919-868:	CÒN BÉ BỊ XE CÔNG (NÔNG->*) CÁN CHẾT Ở NGÃ BA ĐẤY
+common_voice_vi_25226920-869:	LÀM LỠ TÌNH DUYÊN (CŨ->*) MẤT RỒI
+common_voice_vi_25226933-870:	TRINH ĐỘT NHIÊN NỔI DA GÀ
+common_voice_vi_25226989-871:	TẤT CẢ NHỮNG NGƯỜI ĐI LÀM HOẶC Ở NHÀ
+common_voice_vi_25226990-872:	ANH VỪA MỚI (KÍ->KÝ) XONG MỘT BẢN HỢP ĐỒNG
+common_voice_vi_25226991-873:	TRINH QUAY SANG HAI BÊN KHÔNG THẤY GÌ CẢ
+common_voice_vi_25227091-874:	MẸ NÓI NHIỀU LẮM
+common_voice_vi_25227103-875:	CHỊ ƠI CHỊ BỊ CẢM (À->*)
+common_voice_vi_25227105-876:	CÔ KHÔNG LỜI TỪ (GIÃ->*)
+common_voice_vi_25227119-877:	KHÔNG DÁM NÓI THẬT (HÀ LIỀN ĐÁP->HAN ĐÃ)
+common_voice_vi_25227121-878:	(CHINH->TRINH) MỞ (CHỐT->*) CỬA RỒI PHÓNG NHƯ BAY SANG PHÍA PHÒNG THỜ
+common_voice_vi_25245129-879:	THẢO KHÔNG THỂ VỀ NHÀ
+common_voice_vi_25245130-880:	ÔNG (DẮT->SẮP) MANG (TAI->THAI)
+common_voice_vi_25245131-881:	NHANH NHƯ CẮT
+common_voice_vi_25256119-882:	TÔI (GHÉT->VÁC) ĐỒ NGỌT
+common_voice_vi_25256148-883:	ĐẶT TRÊN BÀN THỜ
+common_voice_vi_25256209-884:	CHẾT RỒI
+common_voice_vi_25256213-885:	CHO NÊN TRINH PHẢI ĐỖ XE Ở NGOÀI ĐƯỜNG LỚN RỒI BƯỚC BỘ VÀO (*->KHU VỰC)
+common_voice_vi_25256307-886:	(*->À) LÀ BÁO RA CHƠI
+common_voice_vi_25265212-887:	NHƯNG CỨ NGHĨ EM KHÔNG YÊU AI ĐƯỢC
+common_voice_vi_25265312-888:	NHỮNG BÀI THƠ MỪNG NĂM MỚI HAY NHẤT
+common_voice_vi_25267849-889:	MỞ CỬA (BƯỚC->*) VÀO PHÒNG THỜ (KUMANTHONG->MEN THÔNG)
+common_voice_vi_25268958-890:	BỐ MẸ NÓ THÌ KHÓC LÓC (KÊU->CHIÊU) TRỜI
+common_voice_vi_25271126-891:	TUYỆT NHIÊN EM KHÔNG HỀ MƠ TỚI THẢO MỘT LẦN NÀO NỮA
+common_voice_vi_25273401-892:	TỪ ĐẤY ĐẾN GIỜ EM CÓ DÁM TẨN NÓ ĐÂU VỢ NHỈ
+common_voice_vi_25273486-893:	MỌI THỨ VẪN CÒN Y NGUYÊN NHƯ SÁNG NAY CÔ SẮP XẾP
+common_voice_vi_25273559-894:	(NÓ->ĐÓ) CÔ ĐƠN LẶNG LẼ NHÌN EM THEO GIA ĐÌNH
+common_voice_vi_25273589-895:	CÔ CHẲNG CÒN MỘT CÁCH NÀO KHÁC
+common_voice_vi_25283033-896:	CÓ AI BIẾT CÁI GÌ ĐÂU
+common_voice_vi_25284157-897:	MẸ EM LIỀN (GỢI->GỌI) Ý
+common_voice_vi_25284223-898:	(HOA->GA) MỌC ĐẦY HAI BÊN ĐƯỜNG CHỈ CÓ ĐIỀU LÀ
+common_voice_vi_25284233-899:	NHI ĐÃ CÓ NHIỀU CƠ HỘI NHƯNG CÔ VẪN TỰ MÌNH VỨT (BÒ->BỎ)
+common_voice_vi_25301735-900:	THỰC SỰ THÌ CHÚNG TÔI CÓ ĐI XEM THẦY RỒI
+common_voice_vi_25318658-901:	BÂY GIỜ NGAY CẢ BẢN THÂN CỦA BÀ CÒN KHÔNG CÓ BIẾT
+common_voice_vi_25542119-902:	(TRĂNG THỀ CHIẾC->CHẲNG HỀ) BÓNG BÊN ĐƯỜNG
+common_voice_vi_25542120-903:	ÁO BAY (RẢI->*) NẮNG MỘT CHIỀU
+common_voice_vi_25562628-904:	THÁNG MƯỜI MỘT CHẠM THỰC LẪN TRONG MƠ
+common_voice_vi_25562631-905:	TA CẦM TAY (NGƠ NGÁC->NGƠT) GIỮA PHỐ CHIỀU
+common_voice_vi_25562632-906:	MÌNH VỀ ĐI CẢM ƠN CÔ HÀ (NI->*)
+common_voice_vi_25562660-907:	SỤT (SÙI->SỒI) MƯA SUỐT CANH THÂU
+common_voice_vi_25562662-908:	ANH CHO TÔI RA NGOÀI (CHỢ->CHỜ) TÔI SẼ XUỐNG Ở ĐÓ
+common_voice_vi_25562685-909:	ÔM CỔ GẦY (MẮC->MẮT) CỠ ĐẾN MÙA SAU
+common_voice_vi_25562687-910:	(QUỲ LẠY->QUỶ LẠI) NHƯ LÀ TẾ SAO
+common_voice_vi_25562689-911:	ĐẾN PHIÊN HÀ (NI->*) NGẠC NHIÊN
+common_voice_vi_25709570-912:	(TÌM->TÌNH) EM TRONG ĐÔI MẮT CỦA MÙA THU
+common_voice_vi_25709571-913:	(BÀ->VÀ) ĐI (VẮNG->*) CHỪNG NÀO MỚI VỀ
+common_voice_vi_25709798-914:	(CHO->TRONG) MÙA (THU RƠI THOÁNG->THUI) NHẸ (QUA THỀM->*)
+common_voice_vi_25710032-915:	(THOẢNG->*) MÙI (HƯƠNG CỐM NƠI->HÔNG) ĐÂU
+common_voice_vi_25710037-916:	(HÀ NI GIẬT BẮN NGƯỜI->HAI DỊCH BỆNH)
+common_voice_vi_25710402-917:	PHẢI CHI ĐỪNG CÓ LÁ RƠI
+common_voice_vi_25710403-918:	NGHE YÊU THƯƠNG VANG (XỐN XANG LỒNG NGỰC->RỘN SANG LÒNG NGƯỜI)
+common_voice_vi_25721582-919:	BÀI VIẾT LIÊN QUAN
+common_voice_vi_25721610-920:	NHƯNG VẪN TRỒNG LOÀI HOA ẤY (SI MÊ->XÌ)
+common_voice_vi_25721611-921:	(BÔNG->BÓNG) CÚC (CHI THẠCH->CHIẾT) THẢO (TÍM->*) GIAO HÒA
+common_voice_vi_25721629-922:	NGỒI Ở BÊN ĐƯỜNG ĐỐT NHANG CÚNG
+common_voice_vi_25721631-923:	(ANH->EM) LÁI XE NGHĨ (HÀ NI->ĐI) LO CHO NGƯỜI YÊU
+common_voice_vi_25721645-924:	(HÀ->HA) NI CẢM THẤY HƠI BỰC
+common_voice_vi_25721646-925:	KỊCH BẢN VĂN (NGHỆ->NGHỊ) CHÀO MỪNG NGÀY NHÀ GIÁO VIỆT NAM
+common_voice_vi_25721682-926:	(NỤ HÔN->NÔN) NỒNG TÊ (TÁI->TAI) LÚC (ĐẮM->ĐẰM) SAY
+common_voice_vi_25721710-927:	TRÊN DỐC NHỚ (CHỢT->CHỚT) TRỜI LÊN CƠN BÃO
+common_voice_vi_25721718-928:	GIÓ CỒN (CÀO SE->*) SẮT (ĐẾN RÃ RỜI->*)
+common_voice_vi_25721781-929:	TÌM VỀ EM ĐỂ NHẮN NHỦ NHỚ THƯƠNG
+common_voice_vi_25721784-930:	(XONG->SỐNG) RỒI VỀ ĐI
+common_voice_vi_25721785-931:	GIAI ĐIỆU TÌNH XÓT (XA CHIỀU->XAO) THU TRẮNG
+common_voice_vi_25721862-932:	TÔI ĐOÁN LÀ
+common_voice_vi_25721863-933:	TRỜI ĐÔNG LẠNH MÂY MƯA (BUỒN->*) Ủ RŨ
+common_voice_vi_25721864-934:	CHO HẠNH PHÚC THÊM NGẬP TRÀN SÔI ĐỘNG
+common_voice_vi_25721865-935:	(LIU RIU RÓC RÁCH->LY RIÊU RẤT) GIỌT (SẦU->SÂU) MÊNH MÔNG
+common_voice_vi_25721897-936:	HÀ (NI->NÍ) PHẢN ĐỐI
+common_voice_vi_25721921-937:	THÔI EM ƠI CHẲNG THỂ NÀO MẶC CẢ
+common_voice_vi_25721922-938:	(ÉN->EM) LẠC (BẦY MỎI->MỌI) MỆT (NỖI->NỔI) CÔ ĐƠN
+common_voice_vi_25721923-939:	(THỔN->THƯỞNG) THỨC MỘT NGƯỜI XA (VẮNG->*)
+common_voice_vi_25721925-940:	MÙA THU CHẾT TRONG NỖI (SẦU->SÂU) TÊ TÁI
+common_voice_vi_25721944-941:	CÚC VÀNG (VẪN THẮM->THẤM) BÊN (THỀM->*)
+common_voice_vi_25721945-942:	THU (VẤN->VĨNH) VƯƠNG LÁ CÒN RƠI RỤNG
+common_voice_vi_25721966-943:	TRỜI THÁNG (MƯỜIMÂY VỜN BAY BẢNG LÃNG->MƯỜI MẤY BẢN LÀNG)
+common_voice_vi_25722009-944:	ĐỦ CHO LÚA CHÍN (VÀNG->*)
+common_voice_vi_25722010-945:	NGƯỜI THIỂU SỐ KHÔNG BIẾT NÓI NHIỀU
+common_voice_vi_25722012-946:	BAO THÁNG MƯỜI ANH VẪN CÒN NHỚ MÃI
+common_voice_vi_25722041-947:	THÁNG MƯỜI MỘT VỀ TRONG (SỚM CHÊNH VÊNH->XÓM)
+common_voice_vi_25722042-948:	ANH TA CHƯA KỊP (ĐÁP->*) THÌ DO PHẢI TRÁNH MỘT XE ĐI NGƯỢC CHIỀU
+common_voice_vi_25722064-949:	BỞI GIÂY PHÚT LÀM NGƠ
+common_voice_vi_25722066-950:	VẬY MÀ KHI NGHE CÂU NÓI ĐÓ ANH ĐÃ LIỀN HỎI
+common_voice_vi_25722088-951:	NỖI BUỒN VỀ TRÊN NHỮNG BƯỚC CHÂN ÊM
+common_voice_vi_25722092-952:	(ANH->EM) ĐÃ TỚI CUỐI ĐƯỜNG HOA THÁNG CHÍN
+common_voice_vi_25722117-953:	BÀI PHÁT BIỂU KHAI MẠC LỄ (KỈ->KỶ) NIỆM NHÀ GIÁO VIỆT NAM
+common_voice_vi_25722120-954:	THÁNG MƯỜI (CONG CHIẾC->CON CHIẾT) LÁ KHÔ
+common_voice_vi_25722121-955:	MANG THEO CẢ NHỮNG BÀI THƠ DANG DỞ
+common_voice_vi_25722167-956:	THU QUA RỒI CHIẾC LÁ CHẲNG CÒN XANH
+common_voice_vi_25723272-957:	THÁNG MƯỜI ƠI YÊU THƯƠNG NẶNG ÂN TÌNH
+common_voice_vi_25723274-958:	THÁNG MƯỜI MỘT MÀ LÒNG SAO TRỐNG (VẮNG->*)
+common_voice_vi_25723275-959:	EM (E THẸN->THÈN) NHƯ (NỤ HOA->NU HÓA) HÀM (TIẾU->*)
+common_voice_vi_25723276-960:	GIỌT THƯƠNG GIỌT (ĐỢI->ĐỜI) ĐÔI (BỜ->*) THỔN THỨC
+common_voice_vi_25723314-961:	MÙA THU VÀNG (ÚA->UA) VẪN TƯƠI SẮC (MÀU->*)
+common_voice_vi_25723318-962:	CÔ GÁI LẮC (ĐẦU ĐÁP->ĐÂU ĐÃ)
+common_voice_vi_25723352-963:	THU SẮP TÀN LÁ VẪN RƠI (MÊ MẢI->MỀM MẠI)
+common_voice_vi_25723353-964:	ĐÌU (HIU->HIL) CƠN GIÓ ĐÓN MÙA ĐÔNG SANG
+common_voice_vi_25723355-965:	NHƯNG ĐẾN THẬT BẤT NGỜ
+common_voice_vi_25723417-966:	CÔ NGỒI KÈM PHÍA SAU VÀ GIỤC
+common_voice_vi_25723486-967:	MÔI (VẪN->*) THẮM GỌI THUYỀN QUYÊN VỀ BẾN
+common_voice_vi_25723536-968:	NHỮNG CHIẾC (LÁ TRÚT->LÁT) XUỐNG ĐỜI THẬT TỘI
+common_voice_vi_25724408-969:	KHI NIỀM NHỚ THÁNG MƯỜI CÒN THAO (THỨC->*)
+common_voice_vi_25724415-970:	THÁNG MƯỜI VỀ CON NẮNG LẠI VỠ ĐÔI
+common_voice_vi_25724416-971:	THÁNG MƯỜI MỘT ĐÔNG SANG RỒI EM ĐÓ
+common_voice_vi_25756033-972:	CÔ CŨNG CHẲNG HIỂU TẠI SAO NHƯ VẬY
+common_voice_vi_25756096-973:	SAY ĐẮM (LẠ->LẠI) NHỮNG CHẶNG ĐƯỜNG PHÍA TRƯỚC
+common_voice_vi_25756153-974:	ĐÓN EM VỚI HOA HỒNG
+common_voice_vi_25756154-975:	VẪN (HOÀI BAY->HỎI)
+common_voice_vi_25756155-976:	RỒI KHÔNG ĐỢI CHO CÔ ĐÁP
+common_voice_vi_25756156-977:	ANH TA CHẲNG ĐI ĐÂU XA CẢ
+common_voice_vi_25911366-978:	TÔ (THẮM->THẤM) SẮC CHO VƯỜN HOA SỐNG ĐỘNG
+common_voice_vi_25950168-979:	NHẬN QUÀ NHƯNG LÒNG LẠI NGHĨ NHIỀU
+common_voice_vi_25950170-980:	SAO KHẼ KHẼ TIẾNG LÁ RƠI CÒN ĐÓ
+common_voice_vi_25950183-981:	ANH CHÀNG LÁI XE DO VẬY KHÔNG THỂ NÓI TIẾP ĐIỀU ĐANG MUỐN NÓI
+common_voice_vi_25950185-982:	THÁNG MƯỜI VỀ EM CÒN NHỚ HAY QUÊN
+common_voice_vi_25950187-983:	CẬU NÀY CẦN ĐI (ĐÂU->CÂU) THÌ ANH CỨ (CHỞ->CHỜ)
+common_voice_vi_25950192-984:	CÔ ƠI
+common_voice_vi_25950196-985:	MỖI SỚM MAI (THƯỚT->THƯỚC) THA ÁO NHUỘM MÀU
+common_voice_vi_25950203-986:	SẦU THU KẾT LẠI CÙNG MƯA
+common_voice_vi_25950206-987:	VỀ NGỒI ĐÂY TRÁI TIM NGHE GÕ CỬA
+common_voice_vi_25950212-988:	THÁNG MƯỜI TƯỞNG XA LẮM
+common_voice_vi_25950213-989:	NHƯ CÓ MỘT VẬT GÌ ĐÓ CHẶN NGANG CỔ HỌNG
+common_voice_vi_25950216-990:	BỊ MỘT CHIẾC XE TẢI ĐỤNG CHẾT
+common_voice_vi_25950217-991:	BÀI THƠ CHÀO NGÀY MỚI CHÀO BUỔI SÁNG VUI VẺ Ý NGHĨA
+common_voice_vi_25950229-992:	NÊN (CHEN->TREN) VÀO RỒI NÓI
+common_voice_vi_25950230-993:	MƯA ĐẾN MUỘN HAY TRỜI CÒN CẤT (GIẤU->DẤU)
+common_voice_vi_25950239-994:	MÙA THU ĐẸP LẮM EM ƠI
+common_voice_vi_25950240-995:	THÁNG MƯỜI VỀ BÊN GÓC PHỐ (LIÊU XIÊU->LƯU SIÊU)
+common_voice_vi_25950255-996:	TỎ RA RÀNH RẼ SỰ VIỆC ANH TA NÓI THÊM
+common_voice_vi_25950280-997:	NGƯỜI (LỮ->NỮ) KHÁCH LAN MAN ĐẦY BỐI RỐI
+common_voice_vi_25950281-998:	HÌNH NHƯ LÀ LÚC ĐẦU MUỐN TRỪ (KHỬ->*) CÁI OAN HỒN CỦA BÀ LEN
+common_voice_vi_25950284-999:	THẤY BÊN ĐỜI THÁNG MƯỜI MỘT ĐẾN MAU
+common_voice_vi_25950295-1000:	NHƯNG MÀ SAU NÀY NGHE NÓI LÀ ÔNG TA ỦNG HỘ BÀ TA
+common_voice_vi_25950298-1001:	ĐỂ TA (RẢO->GIẢM) BƯỚC KHOAN THAI TRÊN ĐƯỜNG
+common_voice_vi_25950313-1002:	XE HOA SAO CHẬT CẢ ĐƯỜNG
+common_voice_vi_25950315-1003:	VẬY ANH CÓ BIẾT MỘT BÀ TÊN LÀ (DÃ QUỲ->DẠ) KHÔNG
+common_voice_vi_25950330-1004:	KHÔNG CÓ GÌ ĐÁNG KỂ CẢ MẸ YÊU
+common_voice_vi_25950332-1005:	RU LÒNG TA SAY MÊ NIỀM HẠNH PHÚC
+common_voice_vi_25950334-1006:	BẤT GIÁC (NẰM->LÀM) MỘT MÌNH
+common_voice_vi_25950335-1007:	THẢM LÁ VÀNG (XAO XÁC->*) GÓT (CUỒNG->CỒN) SI
+common_voice_vi_26096003-1008:	(VỠ->VỎ) TRÊN (CHUỖI->CHỮ) NHỚ SỢI (ĐONG->ĐÔNG) ĐƯA (BUỒN->*)
+common_voice_vi_26096004-1009:	NHƯ LÀ GÓI CẢ MÙI HƯƠNG ĐẤT TRỜI
+common_voice_vi_26102963-1010:	ANH CHÀNG CHẠY XE (ĐÁP->*) NGAY
+common_voice_vi_26102964-1011:	THÁNG MƯỜI VỀ ANH (CHỢT->TRƯỢT) BIẾT LÀM THƠ
+common_voice_vi_26102967-1012:	CHIỀU HOÀNG HÔN TÍM ĐỎ NHỮNG CHÂN MÂY
+common_voice_vi_26136615-1013:	(NGÀY->NGÀI) EM ĐI CẤT (NHẸ GÓT->*) QUAY VỀ
+common_voice_vi_26160952-1014:	DẮT TAY EM BƯỚC BÊN THỀM HẠNH PHÚC
+common_voice_vi_26186613-1015:	(LĂNG LEN->LAN) LÀ AI
+common_voice_vi_26202307-1016:	ĐÃ NHIỀU LẦN ÔNG THẦY ĐÓ TÌM VỀ ĐÂY
+common_voice_vi_26202310-1017:	RỒI THÁNG MƯỜI QUA VỘI
+common_voice_vi_26202315-1018:	THÁNG MƯỜI ĐÊM VẮNG LÊ THÊ
+common_voice_vi_26202322-1019:	PHONG ĐANG TRONG TÌNH TRẠNG CHOÁNG VÁNG
+common_voice_vi_26202323-1020:	CUỘC ĐỜI (TA:->TA) THÂN TRAI MÃI THA PHƯƠNG
+common_voice_vi_26202325-1021:	SỬA LỖI KHÔNG GÕ ĐƯỢC TIẾNG VIỆT TRONG WORD (EXCEL FIREFOX CHROME->EXEL FIFORS GROM)
+common_voice_vi_26202326-1022:	GỬI THEO GIÓ ĐẾN AI NƠI XA ẤY
+common_voice_vi_26202335-1023:	DÙ CON CÓ YÊU VỚI NHIỀU MẠNH MẼ
+common_voice_vi_26202343-1024:	ANH NÓI CHƯA HẾT CÂU
+common_voice_vi_26202344-1025:	(CƠN->CON) GIÓ (BẤC->BẮP) GỬI (TRAO->*) MÀU HẠNH PHÚC
+common_voice_vi_26202345-1026:	(VẦN->PHẦN) THƠ ƯƠM TRONG TÂM TRÍ MƠ HỒ
+common_voice_vi_26202346-1027:	RỒI NHỚ TRỞ VỀ QUÁN CỦA CÔ HÀ (NI->*) NÀY
+common_voice_vi_26227178-1028:	CUNG ĐÀN BUỒN CÒN LỠ PHÍM YÊU (ĐƯƠNG->THƯƠNG)
+common_voice_vi_26227183-1029:	CÔ TÌM AI Ở ĐÓ THÌ NÓI ĐI
+common_voice_vi_26227186-1030:	DẪU CUỘC ĐỜI DÙ CÓ PHẢI ĐỔI THAY
+common_voice_vi_26227191-1031:	ANH ĐƯA TAY CHẠM VÀO MIỀN KÝ ỨC
+common_voice_vi_26227197-1032:	TRONG LÒNG ANH (NGHE->NGHÈO) MỘT CHÚT (NAO NAO->NÀO)
+common_voice_vi_26227203-1033:	SAO ANH BIẾT
+common_voice_vi_26227209-1034:	EM CÒN HẸN NỮA KHÔNG
+common_voice_vi_26227217-1035:	(BÀ ẤY->BẢY) CŨNG BỊ TAI NẠN XE Ư
+common_voice_vi_26227222-1036:	MỘT MÌNH MẸ THÔI
+common_voice_vi_26227223-1037:	THÁNG MƯỜI ƠI CHO TA (PHÚT->PHÚC) ÊM ĐỀM
+common_voice_vi_26227225-1038:	(TIM->TỚ) BUỒN (KHÔNG->HỔNG) CHỊU (NHẢ->NHÃ) THƠ
+common_voice_vi_26227229-1039:	CÒN ANH ĐƯA (CÔ->CON) NÀY VỀ QUÁN
+common_voice_vi_26227233-1040:	AI NGƯỜI CÙNG TA CHƠI TIẾP
+common_voice_vi_26227237-1041:	NHƯ LỜI (GIÓ->*) GỌI THÁNG MƯỜI THAO THỨC
+common_voice_vi_26326138-1042:	EM MANG MÙA THU (GIẤU KỸ->KĨ) NƠI NÀO
+common_voice_vi_26326139-1043:	DỆT (MỘNG ƯỚC->*) BẢN HÒA CA ĐẾN LỚP
+common_voice_vi_26326140-1044:	MÙA THU CÁI LẠNH DỊU DÀNG
+common_voice_vi_26326144-1045:	NHÀ CỦA BÀ LEN ĐÓ
+common_voice_vi_26424933-1046:	TRÊN THẢM CỎ MẤY HẠT CÒN CHƯA NỞ
+common_voice_vi_26559098-1047:	PHẢI VỀ QUÁN NẰM NGHỈ LÚC NÀO KHỎE THÌ ĐI
+common_voice_vi_26942577-1048:	GIÓ ĐÔNG LẠNH (HEO MAY->*) VỀ KHẮP (LỐI->*)
+common_voice_vi_26975850-1049:	CÂY TƯƠNG TƯ BÊN ĐƯỜNG CHỜ THAY (ÁO->*)
+common_voice_vi_26975851-1050:	ÔI TA MÔNG LUNG THÁNG CHÍN THÁNG MƯỜI
+common_voice_vi_26975852-1051:	XUYẾN (XAO->SAO) HOÀI ĐỢI NGƯỜI ĐẾN CÙNG HOA
+common_voice_vi_26975924-1052:	RÓT VÀO HỒN SẦU CUNG THƯƠNG TRẦM LẮNG
+common_voice_vi_26976787-1053:	CHÚT SE LẠNH CŨNG THẤY LÒNG (MAN MÁC->*)
+common_voice_vi_26977662-1054:	XE HOA ANH CHỜ ĐÓ
+common_voice_vi_26977663-1055:	ĐÓNG VỘI CỬA (QUÁN->*) HÀ (NI->*) THÚC GIỤC
+common_voice_vi_26977665-1056:	(SƯƠNG GIĂNG->XƯƠNG RĂNG) ĐỌNG ĐẦY VƠI TỪNG GIỌT ĐẮNG
+common_voice_vi_26977666-1057:	TRÊN CÀNH CÂY VẪN VƯƠNG VÀI TIA NẮNG
+common_voice_vi_26977734-1058:	ANH TA GẬT ĐẦU
+common_voice_vi_26977766-1059:	NÊN CÔ DỊU GIỌNG HỎI LẠI
+common_voice_vi_26977803-1060:	THẢ LÒNG MÌNH VÀO NHỊP BƯỚC BÌNH SINH
+common_voice_vi_26978619-1061:	CHỜ CHÂN ĐÊM KHUA NHỊP (BƯỚC->*) TÌNH YÊU
+common_voice_vi_26978664-1062:	TÔI ĐỢI EM SAU NHỮNG CHIỀU TAN HỌC
+common_voice_vi_26978678-1063:	THU VỘI VÃ NHẶT GOM TỪNG HẠT (NẮNG->*)
+common_voice_vi_26979541-1064:	NHẶT LÒNG THEO CHIẾC LÁ RƠI
+common_voice_vi_26979542-1065:	CHÚT (SẮC->*) VÀNG ÓNG (Ả->À) CHẲNG CÒN ĐÂU
+common_voice_vi_26979544-1066:	KHE (KHẼ->KH)
+common_voice_vi_26979545-1067:	MẢNH THƠ TÌNH (KHỜ DẠI->KHỜI)
+common_voice_vi_26981287-1068:	NGÀY ĐẦU THÁNG MÔI HỒNG AI LƠ (ĐỄNH->ĐẪY)
+common_voice_vi_26981288-1069:	TRAO HƠI ẤM KHI ĐÔNG VỪA CHẠM NGÕ
+common_voice_vi_26981289-1070:	NGHE TRONG GIÓ MỘT MÀU ĐÔNG (BÀNG->BẰNG) BẠC
+common_voice_vi_26981378-1071:	(CHỈ->CHỊ) CÒN NGHE TIẾNG NGOÀI HIÊN LÁ ĐỔ
+common_voice_vi_26981401-1072:	ĐỜI (MÊNH->*) MÔNG CHE PHỦ (ÁNG->*) MÂY (MÙ->*)
+common_voice_vi_26981403-1073:	(MỜ->NHỚ) THEO BÓNG VÁCH XANH (XAO->SAO) TUỔI CHỜ
+common_voice_vi_26981416-1074:	Ở BÊN TRONG CĂN PHÒNG CỦA CON GÁI ÔNG PHÚC
+common_voice_vi_26981433-1075:	HÀ (NI->ĐI) LẮC ĐẦU
+common_voice_vi_26981435-1076:	ĐÚNG LÀ BÀ ẤY
+common_voice_vi_26981437-1077:	(HÀ->HẢI) NI GỌI VỚI (THEO->*)
+common_voice_vi_26981456-1078:	ANH CHÀNG KIA PHẢI (RỒ MÁY->RỐ MẤY) XE
+common_voice_vi_26981460-1079:	ÔM LÒNG ĐÊM (NỖI->*) NHỚ NHUNG
+common_voice_vi_26981588-1080:	THÁNG MƯỜI VƯƠNG MÙI HOA SỮA
+common_voice_vi_26981615-1081:	NHỮNG NGÀY NÀY CON VẪN SẼ VỀ THÔI
+common_voice_vi_26981749-1082:	ĐỂ DẶN DÒ MÌNH TRƯỚC
+common_voice_vi_26981750-1083:	CHIỀU THƠM NỒNG HƯƠNG RẠ
+common_voice_vi_26981778-1084:	BỖNG NHIÊN DỪNG LẠI
+common_voice_vi_27014336-1085:	COI KÌA CẬU ẤY TỈNH TÁO LẠI NHƯ THƯỜNG RỒI ĐÓ
+common_voice_vi_27018659-1086:	BỞI VẬY MÀ TỪ ĐÓ BÀ THƯỜNG (HIỆN->*) HỒN VỀ
+common_voice_vi_27018660-1087:	(THOẢNG->THỎA) THƠ TỪNG BÚI TÓC DÀI
+common_voice_vi_27053042-1088:	GỬI VÀO CƠN GIÓ (NGÀN LỜI->NGƯỜI) YÊU EM
+common_voice_vi_27053046-1089:	GIÓ THỔI NGHIÊNG MƯA QUA MIỀN KÝ ỨC
+common_voice_vi_27128402-1090:	EM CÓ NHỚ MÀU HOA TRONG GIÓ THỔI
+common_voice_vi_27128431-1091:	ANH CÓ BIẾT THÔN (E RI A->ERIA) KHÔNG
+common_voice_vi_27128434-1092:	CHÁY KHÁT KHAO ANH (DÂNG->DÂN) TÌNH SÂU ĐẬM
+common_voice_vi_27148751-1093:	(DỞ DANG HOÀI->CỨ GIỞ RA NGOÀI) DANG DỞ (DỞ DANG->DỞNG) THÔI
+common_voice_vi_27148754-1094:	ÔI TÌNH YÊU VÀ KẺ ĐỜI VIỄN (XỨ->*)
+common_voice_vi_27152897-1095:	ANH ĐÃ BIẾT TÌNH KIA LÀ KHÔNG THỂ
+common_voice_vi_27404869-1096:	MỚI GẶP ANH ĐÔI MÁ EM (ỬNG ĐỎ->Ở ĐÓ)
+common_voice_vi_27404896-1097:	THÁNG ĐẦU ĐÔNG CHO ĐÔI MẮT ĐEN HUYỀN
+common_voice_vi_27404903-1098:	ÔNG ẤY ĐƯA CHO TÔI CÁI ĐỊA CHỈ TỚI ĐÂY RỒI ĐI LUÔN
+common_voice_vi_27501155-1099:	TRỜI THÁNG MƯỜI (E ẤP->EP) NHỮNG VÌ SAO
+common_voice_vi_27501156-1100:	CHÚNG MÌNH NGUYỆN (ƯỚC->*)
+common_voice_vi_27549962-1101:	ĐỂ SỚM MAI (SƯƠNG GIĂNG MÀNH THỔN THỨC->XƯƠNG RĂNG)
+common_voice_vi_27598078-1102:	THÁNG MƯỜI VỪA SANG HƠI GIÓ
+common_voice_vi_27614656-1103:	HÀ NI CŨNG LẨM BẨM
+common_voice_vi_27614660-1104:	HÀ LẤY ĐƯỢC CHỒNG NGOẠI QUỐC
+common_voice_vi_27614662-1105:	BÁO HIỆU MỘT CƠN MƯA (ĐÊM->*) SẮP ĐẾN
+common_voice_vi_27614808-1106:	NGƯỜI TÌNH LÀ DÒNG SÔNG NHỎ RA KHƠI
+common_voice_vi_27614908-1107:	CHUNG NHÀ NÊN DUYÊN
+common_voice_vi_27615133-1108:	KHÔNG CÓ ÁC MỘNG GÌ ĐÂU
+common_voice_vi_27615175-1109:	THÁNG MƯỜI VỀ HEO MAY (CỨ UNG DUNG->CỨNG RUNG)
+common_voice_vi_27615179-1110:	TRANG VIẾT CHỈ TOÀN GIẤY TRẮNG
+common_voice_vi_27615276-1111:	ĐÊM MỞ MẮT NHÌN TRĂNG RƠI XUỐNG (VỰC->*)
+common_voice_vi_27615280-1112:	NÊN NGƯNG NGANG CÂU CHUYỆN
+common_voice_vi_27616478-1113:	KHÔNG CÓ
+common_voice_vi_27616719-1114:	(TUYỂN->LUYỆN) TẬP THƠ VỀ CHỦ ĐỀ NGHỀ NGHIỆP CHO BÉ MẦM NON
+common_voice_vi_27616737-1115:	CON ĐƯỜNG (AI SÀ->HAI XÀ) TRÊN CỎ
+common_voice_vi_27616759-1116:	ANH SẼ MANG HẠT HOA VÀNG ĐI (RẢI->LẠI)
+common_voice_vi_27616761-1117:	TÔI KHÔNG BIẾT TÔI CHỈ GẶP ÔNG ẤY GHÉ QUÁN MỘT LẦN
+common_voice_vi_27616930-1118:	CHIỀU (LỒNG LỘNG->LÒNG) MÂY (MÙ GIĂNG->RĂNG) NGÕ (LỐI->*)
+common_voice_vi_27617336-1119:	NƠI CÒN ĐÓ MỘT NIỀM TIN (TỪ->*) MẸ
+common_voice_vi_27617372-1120:	(THOẢNG SẮC->THOÁNG) HỒNG (LÀN->LÀ) MÂY LƯỚT TRÊN CAO
+common_voice_vi_27617505-1121:	THÁNG MƯỜI VỀ (HẢ ANH->HẢI)
+common_voice_vi_27617508-1122:	LỢI DỤNG NGOẠI HÌNH BẮT (MẮT->*) ƯA NHÌN
+common_voice_vi_27617547-1123:	HÀ NI LO LẮNG (HỎI->*)
+common_voice_vi_27618127-1124:	CÔ NÓI (SAO BÀ DÃ QUỲ->SAU BÃO GIÁC QUỶ) BÀ LEN ĐÃ CHẾT
+common_voice_vi_27618176-1125:	MƯA RÌ RÀO (THÁNH THÓT->*) BÊN THỀM VẮNG
+common_voice_vi_27618803-1126:	THÁNG MƯỜI THÁNG MƯỜI ĐẤY
+common_voice_vi_27618804-1127:	ANH ĐÓN (CHỜ->*) THÁNG MƯỜI MỘT VỪA (TRAO->SAO)
+common_voice_vi_27619179-1128:	VÀ ĐỊNH NÓI GÌ ĐÓ NHƯNG KHÔNG KỊP
+common_voice_vi_27619182-1129:	CÔ (CỨ->*) ĐƯA CẬU ẤY VỀ ĐI
+common_voice_vi_27639954-1130:	THỀM MƯA BONG BÓNG (PHẬP->*) PHỒNG
+common_voice_vi_27640048-1131:	CÔ GÁI (DƯƠNG->DƯNG) MẮT NHÌN KHÁCH NHƯ KHÔNG HIỂU
+common_voice_vi_27640049-1132:	TIẾNG THỜI GIAN CHÌM (HÚT->*) GIỮA HƯ (VÔ->*)
+common_voice_vi_27640052-1133:	MÙA THU TỪNG KHÓC (TIỄN->*) MỘT NGƯỜI ĐI
+common_voice_vi_27640100-1134:	DÒNG THƠ MÃI VẪN CÒN HOÀI DANG (DỞ->DỠ)
+common_voice_vi_27640298-1135:	MÓN QUÀ NÀY CHỈ CHÚT THÔI TIỀN LẺ
+common_voice_vi_27640301-1136:	THÁNG MƯỜI MỘT LÒNG (CHỢT->*) THẤY (CHÊNH CHAO->Y TRÊN DAO)
+common_voice_vi_27640334-1137:	GỌI MỘT CHIẾC XE (THỒ->THÔ) CÔ HỎI
+common_voice_vi_27640337-1138:	MỖI THU SANG MỖI (KHẮC->KHÁC) NHỚ EM NHIỀU
+common_voice_vi_27640435-1139:	GIÓ (RU->GU) GIẤC NGỦ ÊM (ĐỀM->ĐẸP) SAY SƯA
+common_voice_vi_27640566-1140:	(ANH CHÀNG->TÌNH TRẠNG) LÁI XE BẢO
+common_voice_vi_27640592-1141:	TRÌNH (TỨC TỐC->TIKTOK) TÌM ĐẾN
+common_voice_vi_27640620-1142:	MÀ LẦN NÀO CŨNG THẤY BÓ HOA (DÃ QUỲ->DẠ) NẰM BÊN CẠNH
+common_voice_vi_27640630-1143:	GIỌT NHỚ (NỈ->*) NON TỰA LỜI KINH (BUỒN->BÙ)
+common_voice_vi_27640714-1144:	NÓ SẼ GIÚP CÔ THỰC HIỆN NHỮNG YÊU CẦU
+common_voice_vi_27640810-1145:	BÉ THẢO LÀ TRƯỜNG HỢP BỊ QUỶ DỮ (HỒN->*)
+common_voice_vi_27640824-1146:	BỐ TÔI LÀ MỘT THỢ ĐIỆN
+common_voice_vi_27640959-1147:	HỌ ĐEM ANH TRONG TÌNH TRẠNG THƯƠNG TÍCH ĐẦY NGƯỜI VÀO ĐÂY
+common_voice_vi_27641051-1148:	TRINH VỘI VÀNG CƯỜI (GƯỢNG->GƯỢN)
+common_voice_vi_27641106-1149:	THÁNG MƯỜI RỒI SAO NHUNG NHỚ CÒN ĐÂY
+common_voice_vi_27641174-1150:	ĐIỀU ĐƠN GIẢN BÂY GIỜ EM MỚI BIẾT
+common_voice_vi_27641181-1151:	CHẠM VÀO ĐÂU CŨNG THẤY NHIỀU (KỶ->KỈ) NIỆM
+common_voice_vi_27641208-1152:	KHÔNG NGHE HỌ NÓI ĐƯỢC GÌ
+common_voice_vi_27641316-1153:	GIỌT CHỜ (TÍ TÁCH->CÁCH) ÂM NHƯ HỒI CHUÔNG
+common_voice_vi_27641343-1154:	BỞI SÁNG NAY ANH NGHE LÒNG (THỔN THỨC->*)
+common_voice_vi_27641349-1155:	CĂN PHÒNG (TRỐNG->*) KHÔNG MỘT MÌNH ANH HOANG LẠNH
+common_voice_vi_27641367-1156:	TÔI MUỐN HỎI BÀ LEN
+common_voice_vi_27648100-1157:	(KHẼ THÌ->KHÉT) THẦM TRAO NỤ HÔN (NGÂY DẠI->NGAY DẠ)
+common_voice_vi_27648816-1158:	THÁNG MƯỜI LÀ THÁNG MƯỜI ƠI
+common_voice_vi_27648943-1159:	(BẤC->BƯỚC) TRÀN VỀ VUỐT VE (NHÀNH->HÌNH ẢNH) HOA SỮA
+common_voice_vi_27648954-1160:	GIÁO ÁN MẦM NON CHỦ ĐỀ THƠ TÌNH BẠN
+common_voice_vi_27651858-1161:	CẢM NHẬN VỀ BÀI THƠ ĐỘC (TIỂU->*) THANH (KÍ->KÝ)
+common_voice_vi_27655571-1162:	ĐÓ LÀ TÊN RIÊNG CỦA BÀ MÀ CÔ GỌI LÀ (DÃ QUỲ->DÃY) ĐÓ
+common_voice_vi_27655614-1163:	NÀY ÔNG TƯỚNG CÔ ĐƠN (HOÀI MÃI->HỎI) THẾ
+common_voice_vi_27661323-1164:	RU (PHÍM MIÊN->PHIẾM MIÊ) TÌNH TRONG BÓNG MƯA
+common_voice_vi_27670258-1165:	(THÁNG MƯỜI RỒI ĐÊM->TÁM NGƯỜI) SẼ (BỖNG->BÓNG) DÀI HƠN
+common_voice_vi_27687748-1166:	CON QUỶ KHÔNG BIẾT NÓI
+common_voice_vi_27701087-1167:	HÀ (NI CHỢT->NIT) NHỚ RA (CÔ->CÂU) HỎI LẠI
+common_voice_vi_27701147-1168:	TÔI XUI BUỒN KHÓC XUỐNG (TỰA->TƯỢNG) MÙA NGÂU
+common_voice_vi_27701162-1169:	RỒI QUAY SANG NGƯỜI LÁI XE BẢO
+common_voice_vi_27701205-1170:	PHONG VẪN CƯƠNG QUYẾT
+common_voice_vi_27701209-1171:	THÁNG MƯỜI MỘT ĐÃ VỀ RỒI EM NHỈ
+common_voice_vi_27701248-1172:	THÔNG MINH THẾ CŨNG MANG TIM (XẺ NỬA->XÈN NỮA)
+common_voice_vi_27701251-1173:	CÁCH TẠO PHÒNG (HỌC->HỌP) TRÊN (ZOOM->RUM)
+common_voice_vi_27710010-1174:	CHẾT NGƯỜI RỒI
+common_voice_vi_27710013-1175:	NỒNG NÀN HOA SỮA GIỮA BẦU TRỜI (ĐÊM->*)
+common_voice_vi_27716246-1176:	(MỤC RỮA->MỘT NỬA)
+common_voice_vi_27716264-1177:	NHƯNG TẤT CẢ CHỈ LÀ SỰ VÔ THỨC
+common_voice_vi_27733011-1178:	THU DÙNG (DẰNG->*) NÊN HOA MÃI (NGẨN->NGẪN) NGƠ
+common_voice_vi_27768856-1179:	THÁNG MƯỜI MỘT CHIẾC KHĂN NHƯ BÓNG (RỢP->ĐỎ)
+common_voice_vi_27875885-1180:	MẸ EM LÀM VIỆC
+common_voice_vi_28075854-1181:	CHỈ CẦN MÀY VỚI TAO VẪN LÀM BẠN LÀ ĐƯỢC
+common_voice_vi_28075857-1182:	(CỎ LẬT->CÓ LỌC) THEO CHIỀU MÂY
+common_voice_vi_28098626-1183:	CÓ BÀ (DÃ->*) QUỲ Ở NHÀ KHÔNG CÔ
+common_voice_vi_28098671-1184:	THÌ PHẢI TRÙM KHĂN (KÍN->*)
+common_voice_vi_28098693-1185:	XÃ HỘI PHÁT TRIỂN THÔNG TIN ĐƯỢC CẬP NHẬT TRÊN INTERNET LIÊN TỤC
+common_voice_vi_28098770-1186:	CÔ (NÀNG->NÀN) BỊ HAI NGƯỜI BẠN CỦA MÌNH NÓI XẤU SAU LƯNG
+common_voice_vi_28098780-1187:	TÊN KHAI SINH LÀ NGUYỄN SINH CUNG
+common_voice_vi_28354829-1188:	BẤT NGỜ CÁNH CỬA TRÊN TẦNG ĐÓNG (SẬP->*) LẠI
+common_voice_vi_28440701-1189:	(RU TÔI NGỌN GIÓ TRANG->NUÔI CON CHÓ TRÊN) ĐÀI
+common_voice_vi_28447572-1190:	BÓNG (NHẠN->ĐÈN) PHƯƠNG (XA LẺ BẦY->XAY) TÌM KIẾM
+common_voice_vi_28493150-1191:	(NỢ->NHỚ) EM THÊM MỘT CÂU THƠ
+common_voice_vi_28540565-1192:	THÁNG MƯỜI VỀ HƯƠNG XƯA RƠI ĐẦY ÁO
+common_voice_vi_28540635-1193:	MÀ ANH CÒN NỢ CHƯA ĐỀN ĐƯỢC EM
+common_voice_vi_28540706-1194:	EM CÓ BỊ BỆNH GÌ KHÔNG
+common_voice_vi_28540767-1195:	THÁNG MƯỜI ĐẾN THU TÀN (TRÊU->*) GIÓ (LỘNG->*)
+common_voice_vi_28540774-1196:	TÔI CÓ VIỆC CẦN KÍP MUỐN GẶP BÀ LEN XIN CÔ GIÚP CHO
+common_voice_vi_28540775-1197:	TẠM BIỆT THU (RƠI LỆ->LỄ) ĐÓN ĐÔNG
+common_voice_vi_28540798-1198:	GỬI MÂY XA (BIỀN->BIỂN) BIỆT BÓNG CHÂN TRỜI
+common_voice_vi_28540800-1199:	TRÊN TAY CẦM NHỮNG VẦN THƠ
+common_voice_vi_28540824-1200:	THÁNG MƯỜI GÓC PHỐ (LIÊU XIÊU->LƯU SIÊU)
+common_voice_vi_28540837-1201:	MÙA THU CŨNG BỚT (ÚA->UỐA) VÀNG
+common_voice_vi_28540854-1202:	EM LÀ NẮNG ẤM GIỮA TRỜI MÙA THU
+common_voice_vi_28540885-1203:	EM LẮC ĐẦU BÒ LÙI LẠI SÁT TƯỜNG
+common_voice_vi_28540888-1204:	THÁNG MƯỜI ÊM DỊU MONG CHỜ BÌNH AN
+common_voice_vi_28540918-1205:	CHỈNH LẠI XUỐNG RỒI BẤT TỈNH
+common_voice_vi_28541056-1206:	CHO MUÔN CÂY CỎ MÀU XANH TUYỆT VỜI
+common_voice_vi_28551296-1207:	(LAY->LAI) PHAY MƯA BỤI THẦM THÌ CHỮ YÊU
+common_voice_vi_28551300-1208:	ĐANG MỪNG THÌ THẢO LẠI XUẤT HIỆN NGAY TRƯỚC MẶT CỦA EM
+common_voice_vi_28551325-1209:	(SE->XE) LÒNG (NGỌN->*) GIÓ HEO (MAY->*)
+common_voice_vi_28551373-1210:	DỊU DÀNG ĐÓN (ÁNH->*) BÌNH MINH
+common_voice_vi_28551678-1211:	TÔI KHÔNG PHẢI NGƯỜI Ý
+common_voice_vi_28551759-1212:	NỬA THU CÒN LẠI TẦN NGẦN ĐIỀU CHI
+common_voice_vi_28551808-1213:	SAO CON TÔI LẠI KHỔ THẾ NÀY HẢ TRỜI
+common_voice_vi_28564991-1214:	(THOẢNG->THỎA) TRONG CƠN GIÓ NHẸ NHÀNG
+common_voice_vi_28565014-1215:	ANH VÀO TRONG KHÁM PHÁ ĐẾN TANH BÀNH
+common_voice_vi_28565018-1216:	NÓ BỊ CON QUỶ NƯỚC GIẢI CHO CƠ THỂ SIÊU THOÁT ĐƯỢC
+common_voice_vi_28565033-1217:	TÌNH YÊU ƠI NGỌT NGÀO VÀ CAY ĐẮNG
+common_voice_vi_28565090-1218:	TA NGỒI (ĐONG->ĐĂNG) CẢ MỘT (TRỜI KỶ->THỜI KỈ) NIỆM
+common_voice_vi_28565099-1219:	SAU KHI TRẢI QUA MỘT CHUYẾN ĐI DÀI (Ê ẨM->ÊM) CẢ NGƯỜI
+common_voice_vi_28660607-1220:	(GỬI->NGƯỜI) HƯƠNG YÊU THẮP LỬA (MỘNG LÒNG->*) XINH
+common_voice_vi_28846908-1221:	HƯƠNG THU CÒN THOẢNG ĐÂU ĐÂY BÊN THỀM
+common_voice_vi_29405112-1222:	ĐÀNH (ĐEM->*) THƠ (TRẢI LỐI ĐỜI->TRẢ LỜI) THÁNG NĂM
+common_voice_vi_29405147-1223:	MÀ SAO ĐÃ THẤY SƯƠNG MỜ NHẸ BAY
+common_voice_vi_29405220-1224:	(HỠI->HỌ) ƠI LÁ RỤNG THÁNG MƯỜI
+common_voice_vi_29405267-1225:	TÔI CÒN MONG NÓ VỀ NHÀ GẶP MÀ CÒN CHẲNG ĐƯỢC
+common_voice_vi_29405288-1226:	(LÀN->LÀNG) MÂY (LẢ->*) LƯỚT THẢ MÌNH TRÔI XA
+common_voice_vi_29405292-1227:	(DẶN->DẪN) ANH (TA->*) CHỜ Ở ĐÓ HÀ (NI DÌU->NIỀU) PHONG LEO CẦU THANG
+common_voice_vi_30393320-1228:	HƯƠNG MEN SAY MAN (MÁC->MÁT) CỦA MÙA THU
+common_voice_vi_30393323-1229:	GỚM NỮA CÔ NÓI SỢ QUÁ
+common_voice_vi_30393336-1230:	BÀ ẤY Ở HÒA BÌNH VỪA XUỐNG
+common_voice_vi_30393340-1231:	THẾ BÂY GIỜ TÔI CẦN PHẢI LÀM GÌ
+common_voice_vi_30519756-1232:	KHÔNG HEO (MAY->*) CŨNG CHẲNG CÚC (RỢP->RẬM) CHIỀU
+common_voice_vi_30561672-1233:	ĐI TÌM PHƯƠNG TRỜI MỚI
+common_voice_vi_30575932-1234:	MÙA ĐI CÙNG THÁNG NĂM
+common_voice_vi_30575971-1235:	(MIÊN->BIÊN) MAN SỢI NẮNG VƯƠNG (CÀNH->CẢNH) ĐUNG ĐƯA
+common_voice_vi_30579143-1236:	(DUYÊN->NGUYÊN) THÁNG MƯỜI VÀ CẢI ĐẮNG VÀNG TƯƠI
+common_voice_vi_30579144-1237:	BÀ ĐI ĐÂU CẢ THÁNG RỒI MÀ TÔI TÌM KHÔNG CÓ THẤY
+common_voice_vi_30579146-1238:	CÁI THẢO ĐÂU MẸ SAO NÓ LẠI KHÔNG GẶP CON
+common_voice_vi_30579166-1239:	TAO NGHĨ MA CŨNG CHẲNG CÓ GÌ ĐÁNG SỢ
+common_voice_vi_30580094-1240:	(Ạ DẠ->À) KHÔNG (Ạ NGẠI QUÁ->PHẢI)
+common_voice_vi_30646474-1241:	MẸ (LẠI CẦM TAY CỦA->ĐÃ CĂNG CỬA) EM (LẨM BẨM->LÀM)
+common_voice_vi_30946618-1242:	(VỢ->BỌN) TÔI CŨNG BỊ (MỘT->MUA) CHIẾC XE NHƯ VẬY
+common_voice_vi_31156040-1243:	RỒI (CHÚT TỌT->CHÚC) XUỐNG GIƯỜNG
+common_voice_vi_31156056-1244:	(SAU->SAO) CÙNG MẸ EM CHỐT LẠI
+common_voice_vi_31325468-1245:	VÀNG THÊM NẮNG ẤM (MỘT->*) TRỜI XUYẾN (XAO->SAO)
+common_voice_vi_31437120-1246:	TỪNG CHÚT TỪNG CHÚT MỘT
+common_voice_vi_31450060-1247:	CĂN PHÒNG (VẮNG NỖI ÂU->NỔI U) SẦU TRÀN TỚI
+common_voice_vi_31450075-1248:	CHỊ ẤY ĐANG CÓ BẦU
+common_voice_vi_31450080-1249:	CON NHỎ NÓ BỊ QUỶ ÁM ĐẤY
+common_voice_vi_31450081-1250:	MẸ BẢO VỚI EM
+common_voice_vi_31450084-1251:	MỘNG UYÊN (ƯƠNG->*) HỒ (ĐIỆP->*)
+common_voice_vi_31450089-1252:	MẸ THẢO (THOẠT->*) ĐẦU NHÌN THẤY MẤY NGƯỜI CHÚNG EM THÌ HƠI NGẠC NHIÊN
+common_voice_vi_31450092-1253:	(XỞI LỞI->SỞI LỠ) TRỜI CHO SO (ĐO->*) TRỜI LẤY LẠI
+common_voice_vi_31450094-1254:	ĐỂ MÙA THU GIẬN (DỖI->DỔI) THOÁNG MƯA (BUỒN->*)
+common_voice_vi_31450110-1255:	NGƯỜI XA CÓ HIỂU NỖI (NIỀM->*) CHỜ MONG
+common_voice_vi_31450112-1256:	ĐỪNG MANG SƯƠNG (PHỦ->*) BỜ (VAI->*)
+common_voice_vi_31450114-1257:	THI THOẢNG LẠI BỊ GIÓ THỔI ĐẬP MẠNH VÀO CÁNH CỬA SỔ
+common_voice_vi_31450124-1258:	SÁNG NGÀY MAI (TUỔI->*) MỚI THẬT BÌNH AN
+common_voice_vi_31450126-1259:	SẼ BỊ (QUỶ->HỦY) SAI (KHIẾN->*)
+common_voice_vi_31450128-1260:	MUỐN NGỎ LỜI MÀ SAO TÔI THẬT NGỐC
+common_voice_vi_31450131-1261:	GIÓ ĐƯA (NHÈ->*) NHẸ
+common_voice_vi_31450142-1262:	MÀ TIM TÔI ĐÃ TƠI BỜI ĐÓ EM
+common_voice_vi_31450173-1263:	ĐỐI VỚI TẤT CẢ QUÝ THÍNH GIẢ CỦA NGHE ĐỌC TRUYỆN CHẤM (NET->NÉT)
+common_voice_vi_31450188-1264:	HEO (MAY->*) SE LẠNH (ANH->ĂN) THÈM VÒNG TAY
+common_voice_vi_32079883-1265:	NHƯNG BÊN TAI CỦA EM LẠI NGHE TIẾNG GỌI RẤT RÕ
+common_voice_vi_32079974-1266:	BÀ ẤY CŨNG TIN MẤY (CÁI->*) CHUYỆN TÂM LINH NÀY
+common_voice_vi_33371721-1267:	BÀ DÂN TỘC ĐI ĐÂU CẢ THÁNG TRỜI HÔM NAY LẠI XUẤT HIỆN
+common_voice_vi_33371740-1268:	NÓ LUÔN KHAO KHÁT QUYỀN LỰC
+common_voice_vi_38551016-1269:	THÁNG MƯỜI VỀ TÔI LẠI NHỚ NGƯỜI TA
+common_voice_vi_38551017-1270:	NHỚ MẸ LÀM SAO
+common_voice_vi_38565729-1271:	(*->TÔI NGHĨ) TRƯỚC CUỘC NÓI CHUYỆN CỦA MÌNH VỚI NHI
+common_voice_vi_38565746-1272:	HÔM ĐÓ THÌ TỚ ĐANG BÊN QUẢNG CHÂU
+common_voice_vi_38565749-1273:	(NHƯNG HÀ NI->NGÂN HÀNG NÀY) VẪN KHÔNG MỘT CHÚT LO LẮNG ĐÁP (NHANH->*)
+
+SUBSTITUTIONS: count ref -> hyp
+9   CHINH -> TRINH
+3   XAO -> SAO
+3   QUỲ -> QUỶ
+3   KỶ -> KỈ
+3   HÀ -> HÈ
+3   DÃ -> DẠ
+3   BÀ -> VÀ
+2   Ạ -> À
+2   XIÊU -> SIÊU
+2   TUYỂN -> LUYỆN
+2   TRONG -> TRÔNG
+2   THƯA -> THƯ
+2   THOẢNG -> THỎA
+2   SẦU -> SÂU
+2   SƯƠNG -> XƯƠNG
+2   NI -> ĐI
+2   MẮC -> MẮT
+2   LỒNG -> LÒNG
+2   LIÊU -> LƯU
+2   KÍ -> KÝ
+2   KUMANTHONG -> CÔ
+2   HOÀI -> HỎI
+2   HAY -> HAI
+2   GIĂNG -> RĂNG
+2   CHỢT -> TRƯỢT
+2   CHỞ -> CHỜ
+2   CHỈ -> CHỊ
+2   BÓI -> ẤY
+2   ANH -> ĂN
+2   ANH -> EM
+1   ỬNG -> Ở
+1   Ở -> À
+1   ẦY -> À
+1   ẦU -> Ồ
+1   Ả -> À
+1   Ạ -> PHẢI
+1   ĐỨC -> ĐẤT
+1   ĐỢI -> ĐỜI
+1   ĐỎ -> ĐÓ
+1   ĐỌA -> ĐỌ
+1   ĐỄNH -> ĐẪY
+1   ĐỀM -> ĐẸP
+1   ĐỀ -> ĐỂ
+1   ĐẮM -> ĐẰM
+1   ĐẦU -> ĐÂU
+1   ĐẤY -> ẤY
+1   ĐẤY -> NẮNG
+1   ĐẠC -> ĐẸP
+1   ĐƯƠNG -> THƯƠNG
+1   ĐÙI -> NÚI
+1   ĐÙA -> ĐỒ
+1   ĐÔGN -> ĐÔNG
+1   ĐÈN -> EM
+1   ĐÂU -> CÂU
+1   ĐÁP -> ĐẠT
+1   ĐÁP -> ĐÃ
+1   ĐÀY -> ĐẦY
+1   ĐÀO -> ĐÈO
+1   ĐONG -> ĐĂNG
+1   ĐONG -> ĐÔNG
+1   ĐANG -> ĐÃ
+1   ÚA -> UỐA
+1   ÚA -> UA
+1   Ô -> ÔTÔ
+1   Ê -> ÊM
+1   ÉN -> EM
+1   ÂN -> ẤY
+1   ÂM -> ẤM
+1   ÁNH -> ẢNH
+1   ÁI -> ĐẪM
+1   ÀO -> À
+1   ZOOM -> RUM
+1   YÊU -> Ừ
+1   XỞI -> SỞI
+1   XỐN -> RỘN
+1   XẺ -> XÈN
+1   XÉ -> XẢY
+1   XÉ -> SẼ
+1   XÁCH -> PHÁT
+1   XUÔI -> XUI
+1   XOÀI -> SÒI
+1   XONG -> TA
+1   XONG -> SỐNG
+1   XONG -> SONG
+1   XANG -> SANG
+1   XA -> XAY
+1   XA -> XAO
+1   VỤT -> GỤC
+1   VỤNG -> GỒM
+1   VỢ -> BỌN
+1   VỠ -> VỎ
+1   VỜN -> MẤY
+1   VỜN -> LUÔN
+1   VỌNG -> CHỜNG
+1   VỀ -> DẠY
+1   VẮNG -> NỔI
+1   VẬY -> BẠN
+1   VẪY -> VẤY
+1   VẪN -> THẤM
+1   VẦNG -> VẦN
+1   VẦN -> PHẦN
+1   VẤN -> VĨNH
+1   VẢ -> TRẢ
+1   VÈ -> VỀ
+1   VÀO -> VỚI
+1   VÀ -> CÓ
+1   VUỐT -> VÚT
+1   VOI -> COI
+1   VIÊT -> VIỆT
+1   UNG -> RUNG
+1   TỰA -> TƯỢNG
+1   TỰ -> TỪ
+1   TỪ -> VÌ
+1   TỨC -> TIKTOK
+1   TỐI -> Ờ
+1   TẨN -> TỦNG
+1   TẦN -> ỪM
+1   TẤC -> TẮC
+1   TẠNH -> TÀN
+1   TƯỞNG -> TỪNG
+1   TÚT -> TUT
+1   TÔI -> CON
+1   TÔI -> CHÀO
+1   TÔ -> CẮN
+1   TÍ -> CÁCH
+1   TÌM -> TÌNH
+1   TÊ -> T
+1   TÁI -> TAI
+1   TUẤN -> TỐN
+1   TUYỂN -> TRUYỆN
+1   TRỜI -> THỜI
+1   TRỜI -> BIẾT
+1   TRỒNG -> CHỒNG
+1   TRẢI -> TRẢ
+1   TRƯỜNG -> TRƯỞNG
+1   TRƯNG -> CHƯNG
+1   TRƯA -> CHƯA
+1   TRĂNG -> CHẲNG
+1   TRÙNG -> TRÙM
+1   TRÍCH -> CHÍCH
+1   TRINH -> XIN
+1   TRINH -> TRỊNH
+1   TRINH -> TRÂN
+1   TRINH -> KÍNH
+1   TRINH -> CHỊ
+1   TRINH -> CHINH
+1   TRAO -> SAO
+1   TRANH -> CHÂN
+1   TRAI -> CHƠI
+1   TOẠC -> TỎA
+1   TOÀN -> VÀ
+1   TIỂN -> TUYỂN
+1   TIME -> THAM
+1   TIM -> TỚ
+1   TIM -> TIN
+1   THỪ -> THỪA
+1   THỔN -> THƯỞNG
+1   THỒ -> THÔ
+1   THỀU -> THÈO
+1   THỀ -> HỀ
+1   THẾ -> TẾ
+1   THẾ -> THỂ
+1   THẾ -> THẤY
+1   THẾ -> THÁI
+1   THẮM -> THẤM
+1   THẬT -> THỰC
+1   THẢO -> THÀO
+1   THẢN -> THẢO
+1   THƯỚT -> THƯỚC
+1   THÔN -> THÔI
+1   THÊM -> HẾT
+1   THÁNG -> TÁM
+1   THÀ -> THỀ
+1   THU -> THƯƠNG
+1   THU -> THUI
+1   THU -> THUA
+1   THOẢNG -> THOÁNG
+1   THIẾT -> THẾ
+1   THAM -> THĂM
+1   TAY -> CỬA
+1   TAO -> TA
+1   TAI -> THAI
+1   TA: -> TA
+1   SỰC -> RỰC
+1   SỮNG -> CHỮNG
+1   SỚM -> XÓM
+1   SÙI -> SỒI
+1   SÂU -> SAU
+1   SÂM -> SONG
+1   SÁO -> TÁO
+1   SÁNG -> BÁNH
+1   SÀ -> XÀ
+1   SONG -> XONG
+1   SONG -> PHONG
+1   SOME -> SÓC
+1   SOME -> SOM
+1   SOME -> SO
+1   SI -> XÌ
+1   SE -> XE
+1   SAU -> SAO
+1   SAO -> ĐƯỢC
+1   SAO -> SAU
+1   RỮA -> NỬA
+1   RỢP -> ĐỎ
+1   RỢP -> RẬM
+1   RỚP -> RỚT
+1   RỒI -> VỀ
+1   RỒI -> NGỒI
+1   RỒ -> RỐ
+1   RẨY -> LẨY
+1   RẢO -> GIẢM
+1   RẢI -> LẠI
+1   RƠI -> LỄ
+1   RÓC -> RẤT
+1   RÃI -> RẢI
+1   RUN -> MUN
+1   RU -> NUÔI
+1   RU -> GU
+1   RIU -> RIÊU
+1   RA -> BA
+1   QUỶ -> HỦY
+1   QUÂN -> QUÊN
+1   QUÂN -> CÔ
+1   QUA -> THEO
+1   PHỤ -> CỦ
+1   PHẢI -> THỂ
+1   PHƯƠNG -> ỪM
+1   PHÚT -> PHÚC
+1   PHÒNG -> VÒNG
+1   PHÍM -> PHIẾM
+1   NỬA -> NỮA
+1   NỨC -> NỨT
+1   NỤ -> NÔN
+1   NỤ -> NU
+1   NỢ -> NHỚ
+1   NỖI -> U
+1   NỖI -> NỔI
+1   NỀN -> NÊN
+1   NẾU -> MẤY
+1   NẰM -> LÀM
+1   NẮNG -> XƯƠNG
+1   NẤY -> ẤY
+1   NẢY -> NẨY
+1   NẢY -> LẠI
+1   NẠI -> LẠI
+1   NĂM -> ỪM
+1   NÔ -> NOEL
+1   NÓI -> NỐI
+1   NÓ -> ĐÓ
+1   NÉT -> NẾP
+1   NÀY -> NÈ
+1   NÀNG -> NÀN
+1   NI -> NÍ
+1   NI -> NÊN
+1   NI -> NÀY
+1   NI -> NIỀU
+1   NI -> NIT
+1   NI -> DỊCH
+1   NHỜ -> KHÔN
+1   NHỌN -> LOẠN
+1   NHỌC -> NHỌ
+1   NHẮC -> CHẮC
+1   NHẤC -> NHẤT
+1   NHẢ -> NHÃ
+1   NHẢ -> NHÀ
+1   NHẠO -> NHÃN
+1   NHẠN -> ĐÈN
+1   NHƯNG -> NGÂN
+1   NHƯNG -> EM
+1   NHƯ -> NHỚ
+1   NHƯ -> LÀ
+1   NHÔ -> NHÂU
+1   NHÀNH -> HÌNH
+1   NHÀ -> Ở
+1   NHUỘM -> LƯỢNG
+1   NHOẺN -> NHẼM
+1   NHI -> Y
+1   NHI -> NHƯ
+1   NHI -> DI
+1   NHEO -> TREO
+1   NGỰC -> NGƯỜI
+1   NGỰA -> Ờ
+1   NGỠ -> NGỚ
+1   NGỎ -> BỎ
+1   NGỌN -> CHÓ
+1   NGẨNG -> NGẨN
+1   NGẨN -> NGẪN
+1   NGẢI -> NGÀI
+1   NGẢ -> NGÀ
+1   NGƠ -> NGƠT
+1   NGÔI -> NGỒI
+1   NGÂY -> NGAY
+1   NGÀY -> NGÀI
+1   NGÀN -> NGƯỜI
+1   NGOẴNG -> QUẲNG
+1   NGOAN -> HOÀNG
+1   NGHỆ -> NGHỊ
+1   NGHIỆM -> NGHĨA
+1   NGHE -> NGƯỜI
+1   NGHE -> NGHÈO
+1   NET -> NÉT
+1   NAO -> NÀO
+1   NAI -> NA
+1   NA -> À
+1   NA -> NÓ
+1   MỤC -> MỘT
+1   MỜ -> NHỚ
+1   MỜ -> MỞ
+1   MỘT -> MUA
+1   MẢI -> MẠI
+1   MƯỜIMÂY -> MƯỜI
+1   MƯỜI -> NGƯỜI
+1   MƠ -> HỒN
+1   MÙ -> RĂNG
+1   MÊ -> MỀM
+1   MÁY -> MẤY
+1   MÁT -> MẤT
+1   MÁI -> MÁY
+1   MÁC -> MÁT
+1   MIÊN -> MIÊ
+1   MIÊN -> BIÊN
+1   LỮ -> NỮ
+1   LỨA -> LỬA
+1   LỞI -> LỠ
+1   LỘC -> LỌC
+1   LỐI -> LỜI
+1   LỆ -> NGHỆ
+1   LẶNG -> LẮNG
+1   LẮC -> LẮP
+1   LẮC -> LÚC
+1   LẮC -> BẮT
+1   LẬT -> LỌC
+1   LẨM -> LÀM
+1   LẢ -> LÀ
+1   LẠY -> LẠI
+1   LẠNH -> LẠI
+1   LẠNH -> LÀ
+1   LẠI -> ĐÃ
+1   LẠ -> LẠI
+1   LƯỠNG -> LỬNG
+1   LƠN -> LÊN
+1   LĂNG -> LAN
+1   LÚN -> LÚNG
+1   LÒI -> LỘI
+1   LÍ -> LÝ
+1   LÂN -> LẦN
+1   LÁ -> LẠ
+1   LÁ -> LÁT
+1   LÀN -> LÀNG
+1   LÀN -> LÀ
+1   LIỀN -> ĐÃ
+1   LIẾM -> LÍM
+1   LIU -> LY
+1   LIM -> LINH
+1   LI -> LY
+1   LAY -> LAI
+1   LAU -> NAO
+1   LANG -> LAN
+1   LAIJ -> LẠI
+1   KỈ -> KỶ
+1   KẼ -> KẺ
+1   KÊU -> CHIÊU
+1   KUMANTHONG -> MEN
+1   KUMANTHONG -> KU
+1   KUMANTHONG -> KHU
+1   KUMANTHONG -> CUNG
+1   KUMANTHONG -> CUMANG
+1   KUMANTHONG -> CUMAN
+1   KHỜ -> KHỜI
+1   KHỈ -> CHỈ
+1   KHẼ -> KẺ
+1   KHẼ -> KHÉY
+1   KHẼ -> KHÉT
+1   KHẼ -> KHÉ
+1   KHẼ -> KH
+1   KHẮNG -> KHĂNG
+1   KHẮC -> KHÁC
+1   KHÚC -> MƠ
+1   KHÔNG -> HỔNG
+1   KHÔN -> CON
+1   KHÓM -> KHỚM
+1   KHUÔN -> KHÔ
+1   K -> KHÔNG
+1   HỠI -> HỌ
+1   HỚN -> HẤN
+1   HỔN -> NGHẼN
+1   HỐT -> LÀ
+1   HỌC -> HỌP
+1   HẸN -> HÀNG
+1   HẢ -> HẢI
+1   HẠN -> HẠT
+1   HƯƠNG -> THƠM
+1   HƯƠNG -> HÔNG
+1   HÌNH -> ẢNH
+1   HÂM -> HĂM
+1   HÀI -> HẢI
+1   HÀ -> ĐI
+1   HÀ -> À
+1   HÀ -> HẢI
+1   HÀ -> HÀNG
+1   HÀ -> HEM
+1   HÀ -> HAN
+1   HÀ -> HAI
+1   HÀ -> HA
+1   HÀ -> A
+1   HOẮT -> HÓT
+1   HOÀI -> RA
+1   HOÀ -> HÒA
+1   HOA -> HÓA
+1   HOA -> GA
+1   HIỆU -> Ý
+1   HIỀN -> HIỂN
+1   HIU -> HIL
+1   HAY -> ĐÂY
+1   GỬI -> NGƯỜI
+1   GỢI -> GỌI
+1   GỐC -> GÓC
+1   GẶM -> ĐỌNG
+1   GƯỢNG -> GƯỢN
+1   GIỮA -> SỮA
+1   GIỤA -> RỤA
+1   GIỜ -> SẼ
+1   GIỖ -> DỖ
+1   GIỌNG -> TRỌNG
+1   GIỌNG -> GIỐNG
+1   GIẬT -> SẬP
+1   GIẬT -> BỆNH
+1   GIẤU -> KĨ
+1   GIẤU -> DẤU
+1   GIÓ -> TRÊN
+1   GIÁC -> RÁC
+1   GIÀU -> RAU
+1   GIÀN -> RÀM
+1   GIÀ -> VÀ
+1   GHỀNH -> GẦY
+1   GHÉT -> VÁC
+1   GHEN -> ỪM
+1   GAI -> CAO
+1   FIREFOX -> FIFORS
+1   EXCEL -> EXEL
+1   E -> THÈN
+1   E -> ERIA
+1   E -> EP
+1   E -> EM
+1   DỞ -> DỠ
+1   DỞ -> DỞNG
+1   DỞ -> CỨ
+1   DỚN -> RỚN
+1   DỖI -> DỔI
+1   DỊU -> DIỆU
+1   DẶN -> DẪN
+1   DẰN -> RÀNG
+1   DẮT -> SẮP
+1   DẪU -> VŨ
+1   DẪM -> DỖNG
+1   DẠI -> DẠ
+1   DẠI -> DÃ
+1   DẠI -> CON
+1   DẠ -> DẠC
+1   DƯỜNG -> HÌNH
+1   DƯỜNG -> DẦN
+1   DƯƠNG -> DƯNG
+1   DƠN -> RƠN
+1   DÒ -> GIÒ
+1   DÃ -> XÃ
+1   DÃ -> GIÁC
+1   DÃ -> DÃY
+1   DÂNG -> DÂN
+1   DUYÊN -> XUYÊN
+1   DUYÊN -> NGUYÊN
+1   DUY -> GHI
+1   DANG -> GIỞ
+1   CỨ -> CỨNG
+1   CỐ -> CỦA
+1   CỐ -> CÓ
+1   CỎ -> CÓ
+1   CẦM -> CĂNG
+1   CẤU -> CỐ
+1   CẢN -> CẢM
+1   CƯỜI -> GÂY
+1   CƠN -> CON
+1   CŨNG -> CÚNG
+1   CĂN -> CÁI
+1   CÚT -> QUẤT
+1   CÙNG -> CỔNG
+1   CÔNG -> CÓ
+1   CÔ -> LẠI
+1   CÔ -> CÂU
+1   CÔ -> CON
+1   CÁN -> CÁM
+1   CÀNH -> CẢNH
+1   CUỒNG -> CỒN
+1   CONG -> CON
+1   CON -> CẬU
+1   CON -> CÒN
+1   CO -> LO
+1   CHỨC -> CHÚC
+1   CHỢT -> TRỜI
+1   CHỢT -> CHỚT
+1   CHỢ -> CHỜ
+1   CHỜ -> CHỢ
+1   CHẺ -> TRẺ
+1   CHẲNG -> TRẢ
+1   CHẢY -> SẺ
+1   CHẢY -> CHÁY
+1   CHĂN -> TRĂNG
+1   CHÚT -> CHÚC
+1   CHÙM -> TRÙM
+1   CHÊNH -> Y
+1   CHÉN -> CHÁN
+1   CHÀNG -> TRẠNG
+1   CHÀNG -> CHÈ
+1   CHUỖI -> CHỮ
+1   CHROME -> GROM
+1   CHO -> TRONG
+1   CHIẾC -> CHIẾT
+1   CHIÊM -> CHIM
+1   CHINH -> Ừ
+1   CHINH -> TRÊN
+1   CHIA -> CHỈ
+1   CHI -> CHIẾT
+1   CHEN -> TRÀN
+1   CHEN -> TREN
+1   CHE -> TRE
+1   CHAO -> TRÊN
+1   BỦN -> BUỒN
+1   BỞI -> VÀ
+1   BỖNG -> BÓNG
+1   BỌN -> BỘ
+1   BẴNG -> VẪN
+1   BẦY -> MỌI
+1   BẤT -> VỨT
+1   BẤC -> BẮP
+1   BẤC -> BƯỚC
+1   BẢNG -> LÀNG
+1   BƯỚC -> BƯỚCA
+1   BÔNG -> BÓNG
+1   BÓNG -> BẤM
+1   BÓI -> MỚI
+1   BÓI -> GÓI
+1   BÓI -> BỐI
+1   BÒ -> BỎ
+1   BÂY -> MÀY
+1   BÀY -> BÀI
+1   BÀNG -> BẰNG
+1   BÀ -> À
+1   BÀ -> BẢY
+1   BÀ -> BẠN
+1   BÀ -> BÃO
+1   BUỒN -> BÙ
+1   BIỆT -> VIỆT
+1   BIỀN -> BIỂN
+1   BAY -> BẢN
+1   BA -> BÀ
+1   ANH -> TÌNH
+1   AI -> HAI
+1   A -> AFEN
+1   "ĂN -> ĂN
+1   "SAO -> SAO
+1   "CHĂM" -> CHĂM
+
+DELETIONS: count ref
+8   NI
+6   ĐÁP
+5   MAY
+4   ĐÊM
+4   QUỲ
+4   LẠI
+4   CÁI
+3   À
+3   VẮNG
+3   VÀNG
+3   THỨC
+3   SAO
+3   NƯỚC
+3   MỘNG
+3   LIỀN
+3   DẠ
+3   CHỜ
+3   BÓI
+3   BUỒN
+2   ẤP
+2   ƯỚC
+2   ĐẦU
+2   ĐẠP
+2   ĐI
+2   XỨ
+2   VONG
+2   VAI
+2   TÁN
+2   TRAI
+2   THỔN
+2   THỀM
+2   THẢO
+2   THÌ
+2   THEO
+2   SẮC
+2   QUA
+2   NỮA
+2   NẮNG
+2   NGÁC
+2   MỎI
+2   MẸ
+2   LỘNG
+2   LỐI
+2   LẠNH
+2   KỸ
+2   KÍN
+2   HEO
+2   GIẬT
+2   DẠI
+2   DÃ
+2   CÓ
+2   CHỢT
+2   BỊ
+2   BƯỚC
+2   A
+1   Ổ
+1   ỐC
+1   ẨM
+1   ẤY
+1   ƯƠNG
+1   ƠI
+1   Ơ
+1   ĐỨNG
+1   ĐỜI
+1   ĐỘC
+1   ĐỔ
+1   ĐẾN
+1   ĐẸP
+1   ĐẲNG
+1   ĐẮC
+1   ĐẬM
+1   ĐẤU
+1   ĐÓ
+1   ĐÊ
+1   ĐÁ
+1   ĐUA
+1   ĐO
+1   ĐIỆP
+1   ĐEM
+1   ĂN
+1   ÚNG
+1   ÚA
+1   ÂU
+1   ÁO
+1   ÁNH
+1   ÁNG
+1   XÁC
+1   XONG
+1   XAO
+1   XA
+1   VỰC
+1   VỪA
+1   VỘI
+1   VẪY
+1   VẪN
+1   VẤN
+1   VÕ
+1   VÔ
+1   VÌ
+1   VÊNH
+1   VÁN
+1   VIỆT
+1   UỐNG
+1   TỪ
+1   TỐC
+1   TỌT
+1   TẮT
+1   TẤM
+1   TẤC
+1   TẢO
+1   TẠI
+1   TÔI
+1   TÍM
+1   TÌNH
+1   TÁCH
+1   TÀ
+1   TUỔI
+1   TRỤC
+1   TRỞ
+1   TRỐNG
+1   TRĂNG
+1   TRÚT
+1   TRÊU
+1   TRAO
+1   TRANG
+1   TO:
+1   TIỄN
+1   TIỂU
+1   TIẾU
+1   TIẾP
+1   TIÊN
+1   THỜ
+1   THẸN
+1   THẮP
+1   THẮM
+1   THẠCH
+1   THƯA
+1   THÓT
+1   THÊU
+1   THÁNH
+1   THÁNG
+1   THOẢNG
+1   THOẠT
+1   THOÁNG
+1   THIẾT
+1   THIÊNG
+1   TA
+1   SỮNG
+1   SỐNG
+1   SỐ
+1   SẼ
+1   SẬP
+1   SẢN
+1   SƯƠNG
+1   SE
+1   SAU
+1   RỪNG
+1   RỦN
+1   RỜI
+1   RỒI
+1   RẰNG
+1   RẢI
+1   RƯỢI
+1   RƠI
+1   RÃ
+1   RÁCH
+1   RÀO
+1   RONG
+1   RO
+1   RI
+1   RAN
+1   RA
+1   QUẢ
+1   QUÂN
+1   QUÁN
+1   QUÁ
+1   PHỦ
+1   PHỤ
+1   PHẬT
+1   PHẬP
+1   PHENG
+1   NỖI
+1   NỈ
+1   NƠI
+1   NÔNG
+1   NÓI
+1   NÓ
+1   NÁI
+1   NÀY
+1   NON
+1   NIỀM
+1   NHẸ
+1   NHÈ
+1   NHIÊN
+1   NHAU
+1   NHANH
+1   NGỦ
+1   NGỌN
+1   NGẠI
+1   NGƯỜI
+1   NGÂY
+1   NGÂN
+1   NGÁI
+1   NGOÀI
+1   NGAY
+1   NAO
+1   NAM
+1   MỜ
+1   MỘT
+1   MỒM
+1   MẮT
+1   MẢNG
+1   MƯA
+1   MƠ
+1   MÙ
+1   MÒN
+1   MÊNH
+1   MÊ
+1   MÃI
+1   MÁY
+1   MÁI
+1   MÁC
+1   MÀY
+1   MÀU
+1   MÀO
+1   MÀNH
+1   MÀ
+1   MONG
+1   MIỀN
+1   MAN
+1   LỜI
+1   LỆ
+1   LẺ
+1   LẮNG
+1   LẤY
+1   LẢO
+1   LẢ
+1   LÒNG
+1   LÊN
+1   LÃNG
+1   LÁO
+1   LÀ
+1   LUÂN
+1   LEN
+1   KỀ
+1   KUMAN
+1   KIA
+1   KHỬ
+1   KHƠI
+1   KHÚC
+1   KHÔNG
+1   KHÍCH
+1   KHIẾN
+1   KHI
+1   HỒN
+1   HỒ
+1   HỎI
+1   HỂN
+1   HẾT
+1   HƯƠNG
+1   HÚT
+1   HÔN
+1   HÔM
+1   HÁT
+1   HÁ
+1   HÀ
+1   HOA
+1   HIỆN
+1   HIÊN
+1   GỌI
+1   GẮN
+1   GÙ
+1   GÓT
+1   GÁP
+1   GIĂNG
+1   GIÓ
+1   GIÃ
+1   GHÌ
+1   EN
+1   DỐT
+1   DỌA
+1   DỆT
+1   DẰNG
+1   DẬY
+1   DƯỚI
+1   DƯƠNG
+1   DÌU
+1   DUNG
+1   DIM
+1   DANG
+1   CỨ
+1   CỦA
+1   CỐM
+1   CỐ
+1   CỎ
+1   CẬU
+1   CẠN
+1   CŨNG
+1   CŨ
+1   CÒN
+1   CÁN
+1   CÁCH
+1   CÀO
+1   CÀNG
+1   CHỐT
+1   CHỈ
+1   CHẶT
+1   CHẬM
+1   CHÚ
+1   CHÊNH
+1   CHUYỆN
+1   CHIỀU
+1   CHIẾC
+1   CHIA
+1   BỜ
+1   BẮN
+1   BẨM
+1   BẦY
+1   BÊN
+1   BÀY
+1   BU
+1   BIỆT
+1   BIẾC
+1   BAY
+1   ANH
+
+INSERTIONS: count hyp
+4   THÔNG
+3   À
+2   Ờ
+2   MAN
+2   ANH
+1   Ở
+1   ẢNH
+1   VỰC
+1   VÂNG
+1   TÔI
+1   TRINH
+1   THUNG
+1   THONG
+1   START
+1   STAR
+1   NÓ
+1   NGOÀI
+1   NGHĨ
+1   MANH
+1   MA
+1   LÀ
+1   KÌA
+1   KHỦNG
+1   KHU
+1   DAO
+1   CÒN
+1   BIẾT
+
+PER-WORD STATS: word  corr tot_errs count_in_ref count_in_hyp
+TRINH   28 16 34 38
+NI   8 16 24 8
+À   4 15 7 16
+LẠI   94 13 99 102
+HÀ   22 13 35 22
+CHINH   0 12 11 1
+SAO   35 11 40 41
+DÃ   0 9 8 1
+ĐÁP   8 8 16 8
+KUMANTHONG   0 8 8 0
+DẠ   3 8 7 7
+CON   72 8 74 78
+BÓI   3 8 11 3
+BÀ   43 8 50 44
+ANH   92 8 98 94
+VÀ   33 7 34 39
+QUỲ   3 7 10 3
+LÀ   133 7 134 139
+CHỜ   9 7 13 12
+ẤY   31 6 32 36
+NGƯỜI   80 6 81 85
+EM   122 6 122 128
+CÔ   59 6 62 62
+CÓ   83 6 85 87
+CHỢT   0 6 6 0
+ĐI   77 5 79 80
+XONG   7 5 11 8
+XAO   0 5 4 1
+THẾ   22 5 26 23
+MAY   2 5 7 2
+KHẼ   5 5 10 5
+DẠI   5 5 10 5
+CÁI   37 5 41 38
+CHỈ   28 5 31 30
+BUỒN   8 5 12 9
+ỪM   0 4 0 4
+Ở   41 4 42 44
+Ờ   0 4 0 4
+ĐÊM   12 4 16 12
+ĐÃ   38 4 38 42
+ĂN   14 4 15 17
+VẮNG   3 4 7 3
+TÔI   72 4 75 73
+TUYỂN   0 4 3 1
+THẢO   30 4 33 31
+THÔNG   4 4 4 8
+THOẢNG   2 4 6 2
+TA   42 4 43 45
+SONG   3 4 5 5
+SAU   26 4 28 28
+QUỶ   11 4 12 14
+NẮNG   6 4 9 7
+NÓ   35 4 37 37
+LẠNH   9 4 13 9
+LIỀN   22 4 26 22
+KỶ   0 4 3 1
+KỈ   0 4 1 3
+HAI   13 4 13 17
+GIẬT   5 4 9 5
+E   0 4 4 0
+CỐ   7 4 10 8
+BƯỚC   13 4 16 14
+A   4 4 7 5
+ẢNH   7 3 7 10
+Ạ   1 3 4 1
+ĐẸP   4 3 5 6
+ĐẦU   24 3 27 24
+ĐÓ   40 3 41 42
+ÚA   0 3 3 0
+XƯƠNG   2 3 2 5
+XA   17 3 20 17
+VỀ   56 3 57 58
+VẪN   33 3 35 34
+VÀNG   11 3 14 11
+VIỆT   5 3 6 7
+TỪ   13 3 15 14
+TÌNH   32 3 33 34
+TRỜI   23 3 25 24
+TRẢ   7 3 7 10
+TRĂNG   6 3 8 7
+TRÊN   28 3 28 31
+TRONG   40 3 42 41
+TRAI   8 3 11 8
+THỨC   8 3 11 8
+THỔN   1 3 4 1
+THƯA   1 3 4 1
+THU   30 3 33 30
+THEO   17 3 19 18
+SẼ   25 3 26 27
+SƯƠNG   2 3 5 2
+SÂU   3 3 4 5
+SOME   0 3 3 0
+RỒI   62 3 65 62
+RẢI   0 3 2 1
+RĂNG   0 3 0 3
+RA   37 3 39 38
+QUÂN   18 3 21 18
+QUA   17 3 20 17
+NỮA   19 3 21 20
+NỖI   4 3 7 4
+NƯỚC   6 3 9 6
+NÀY   47 3 49 48
+NHỚ   32 3 32 35
+NHƯ   48 3 50 49
+NHI   10 3 13 10
+NAO   0 3 2 1
+NA   0 3 2 1
+MỜ   2 3 5 2
+MỘT   77 3 79 78
+MỘNG   5 3 8 5
+MẮT   21 3 22 23
+MẤY   13 3 13 16
+MƠ   6 3 8 7
+MÁY   1 3 3 2
+MAN   3 3 4 5
+LỐI   4 3 7 4
+LẮC   6 3 9 6
+LÒNG   20 3 21 22
+KHÔNG   142 3 144 143
+HỎI   14 3 15 16
+HẢI   0 3 0 3
+HƯƠNG   7 3 10 7
+HÌNH   6 3 7 8
+HÈ   0 3 0 3
+HOÀI   2 3 5 2
+HOA   18 3 21 18
+HAY   21 3 24 21
+GIĂNG   0 3 3 0
+DỞ   2 3 5 2
+CỨ   19 3 21 20
+CÒN   68 3 69 70
+CHỊ   10 3 10 13
+BÓNG   7 3 8 9
+Ừ   1 2 1 3
+ẤP   0 2 2 0
+ƯỚC   1 2 3 1
+ĐỜI   11 2 12 12
+ĐỎ   3 2 4 4
+ĐẤY   11 2 13 11
+ĐẠP   0 2 2 0
+ĐÔNG   11 2 11 13
+ĐÈN   4 2 5 5
+ĐÂU   35 2 36 36
+ĐONG   0 2 2 0
+ÁNH   4 2 6 4
+Y   1 2 1 3
+XỨ   0 2 2 0
+XÉ   0 2 2 0
+XIÊU   0 2 2 0
+VỰC   0 2 1 1
+VỜN   0 2 2 0
+VẪY   0 2 2 0
+VẦN   2 2 3 3
+VẤN   0 2 2 0
+VÌ   4 2 5 5
+VONG   0 2 2 0
+VAI   1 2 3 1
+TẤC   0 2 2 0
+TÁN   2 2 4 2
+TRƯỢT   0 2 0 2
+TRÙM   2 2 2 4
+TRÔNG   0 2 0 2
+TRAO   2 2 4 2
+TIM   3 2 5 3
+THỎA   0 2 0 2
+THỂ   21 2 21 23
+THỀM   4 2 6 4
+THỀ   0 2 1 1
+THẮM   1 2 3 1
+THẤM   1 2 1 3
+THƯƠNG   15 2 15 17
+THƯ   0 2 0 2
+THÌ   70 2 72 70
+THÁNG   53 2 55 53
+THOÁNG   1 2 2 2
+THIẾT   1 2 3 1
+THAM   1 2 2 2
+TAI   8 2 9 9
+SỮNG   0 2 2 0
+SỐNG   7 2 8 8
+SẮC   2 2 4 2
+SẬP   0 2 1 1
+SẦU   4 2 6 4
+SIÊU   1 2 1 3
+SE   2 2 4 2
+RỢP   0 2 2 0
+RƠI   7 2 9 7
+RU   2 2 4 2
+PHỤ   2 2 4 2
+PHẢI   31 2 32 32
+NỬA   4 2 5 5
+NỤ   1 2 3 1
+NỔI   6 2 6 8
+NẢY   0 2 2 0
+NÓI   74 2 76 74
+NÊN   22 2 22 24
+NÉT   0 2 1 1
+NHẢ   0 2 2 0
+NHƯNG   35 2 37 35
+NHÀ   40 2 41 41
+NGỒI   11 2 11 13
+NGỌN   1 2 3 1
+NGẨN   0 2 1 1
+NGÂY   0 2 2 0
+NGÂN   1 2 2 2
+NGÁC   0 2 2 0
+NGÀI   0 2 0 2
+NGOÀI   13 2 14 14
+NGHỆ   0 2 1 1
+NGHE   33 2 35 33
+NGAY   9 2 10 10
+MỎI   1 2 3 1
+MẸ   59 2 61 59
+MẮC   3 2 5 3
+MƯỜI   45 2 46 46
+MÙ   0 2 2 0
+MÊ   3 2 5 3
+MÁT   2 2 3 3
+MÁI   1 2 3 1
+MÁC   0 2 2 0
+MÀY   25 2 26 26
+MIÊN   0 2 2 0
+LỜI   23 2 24 24
+LỘNG   0 2 2 0
+LỒNG   0 2 2 0
+LỌC   0 2 0 2
+LỆ   0 2 2 0
+LẮNG   5 2 6 6
+LẢ   0 2 2 0
+LẠ   3 2 4 4
+LƯU   0 2 0 2
+LÊN   34 2 35 35
+LÁ   12 2 14 12
+LÀNG   2 2 2 4
+LÀN   0 2 2 0
+LÀM   27 2 27 29
+LY   0 2 0 2
+LUYỆN   0 2 0 2
+LIÊU   0 2 2 0
+LAN   3 2 3 5
+KỸ   1 2 3 1
+KẺ   5 2 5 7
+KÝ   2 2 2 4
+KÍN   1 2 3 1
+KÍ   0 2 2 0
+KHÚC   0 2 2 0
+KHÔN   1 2 2 2
+KHU   0 2 0 2
+HỒN   7 2 8 8
+HẾT   10 2 11 11
+HÀNG   2 2 2 4
+HEO   4 2 6 4
+GỌI   17 2 18 18
+GIỌNG   6 2 8 6
+GIẤU   0 2 2 0
+GIÓ   21 2 23 21
+GIÁC   4 2 5 5
+DƯỜNG   1 2 3 1
+DƯƠNG   1 2 3 1
+DUYÊN   3 2 5 3
+DANG   3 2 5 3
+CỦA   79 2 80 80
+CỎ   6 2 8 6
+CẬU   3 2 4 4
+CŨNG   46 2 48 46
+CÂU   8 2 8 10
+CÁN   3 2 5 3
+CÁCH   10 2 11 11
+CHỢ   0 2 1 1
+CHỞ   1 2 3 1
+CHẲNG   22 2 23 23
+CHẢY   1 2 3 1
+CHÚC   1 2 1 3
+CHÊNH   0 2 2 0
+CHÀNG   9 2 11 9
+CHIẾT   0 2 0 2
+CHIẾC   13 2 15 13
+CHIA   2 2 4 2
+CHEN   1 2 3 1
+BỎ   5 2 5 7
+BỌN   3 2 4 4
+BỊ   33 2 35 33
+BẦY   0 2 2 0
+BẤC   0 2 2 0
+BẠN   13 2 13 15
+BÀY   1 2 3 1
+BIỆT   2 2 4 2
+BIẾT   30 2 30 32
+BAY   3 2 5 3
+BA   6 2 7 7
+ỬNG   0 1 1 0
+Ổ   0 1 1 0
+Ồ   0 1 0 1
+ỐC   0 1 1 0
+ẨM   0 1 1 0
+ẦY   0 1 1 0
+ẦU   0 1 1 0
+ẤM   4 1 4 5
+Ả   0 1 1 0
+ƯƠNG   0 1 1 0
+ƠI   14 1 15 14
+Ơ   0 1 1 0
+ĐỨNG   7 1 8 7
+ĐỨC   1 1 2 1
+ĐỢI   6 1 7 6
+ĐỘC   1 1 2 1
+ĐỔ   10 1 11 10
+ĐỒ   5 1 5 6
+ĐỌNG   1 1 1 2
+ĐỌA   0 1 1 0
+ĐỌ   0 1 0 1
+ĐỄNH   0 1 1 0
+ĐỂ   29 1 29 30
+ĐỀM   1 1 2 1
+ĐỀ   3 1 4 3
+ĐẾN   44 1 45 44
+ĐẲNG   0 1 1 0
+ĐẰM   0 1 0 1
+ĐẮM   1 1 2 1
+ĐẮC   0 1 1 0
+ĐẬM   1 1 2 1
+ĐẪY   0 1 0 1
+ĐẪM   0 1 0 1
+ĐẦY   7 1 7 8
+ĐẤU   0 1 1 0
+ĐẤT   5 1 5 6
+ĐẠT   0 1 0 1
+ĐẠC   0 1 1 0
+ĐƯỢC   60 1 60 61
+ĐƯƠNG   0 1 1 0
+ĐĂNG   0 1 0 1
+ĐÙI   1 1 2 1
+ĐÙA   0 1 1 0
+ĐÔGN   0 1 1 0
+ĐÊ   0 1 1 0
+ĐÈO   0 1 0 1
+ĐÂY   24 1 24 25
+ĐÁ   3 1 4 3
+ĐÀY   0 1 1 0
+ĐÀO   0 1 1 0
+ĐUA   0 1 1 0
+ĐO   1 1 2 1
+ĐIỆP   0 1 1 0
+ĐEM   3 1 4 3
+ĐANG   21 1 22 21
+Ý   11 1 11 12
+ÚNG   0 1 1 0
+ÔTÔ   0 1 0 1
+Ô   0 1 1 0
+ÊM   5 1 5 6
+Ê   0 1 1 0
+ÉN   0 1 1 0
+ÂU   1 1 2 1
+ÂN   1 1 2 1
+ÂM   3 1 4 3
+ÁO   4 1 5 4
+ÁNG   1 1 2 1
+ÁI   0 1 1 0
+ÀO   2 1 3 2
+ZOOM   0 1 1 0
+YÊU   24 1 25 24
+XỞI   0 1 1 0
+XỐN   0 1 1 0
+XẺ   0 1 1 0
+XẢY   3 1 3 4
+XÓM   2 1 2 3
+XÌ   0 1 0 1
+XÈN   0 1 0 1
+XÃ   1 1 1 2
+XÁCH   0 1 1 0
+XÁC   2 1 3 2
+XÀ   0 1 0 1
+XUÔI   1 1 2 1
+XUYÊN   0 1 0 1
+XUI   1 1 1 2
+XOÀI   0 1 1 0
+XIN   7 1 7 8
+XE   29 1 29 30
+XAY   0 1 0 1
+XANG   0 1 1 0
+VỪA   18 1 19 18
+VỨT   1 1 1 2
+VỤT   0 1 1 0
+VỤNG   0 1 1 0
+VỢ   2 1 3 2
+VỠ   1 1 2 1
+VỚI   34 1 34 35
+VỘI   9 1 10 9
+VỎ   0 1 0 1
+VỌNG   2 1 3 2
+VẬY   26 1 27 26
+VẦNG   0 1 1 0
+VẤY   0 1 0 1
+VẢ   1 1 2 1
+VŨ   1 1 1 2
+VĨNH   0 1 0 1
+VÚT   0 1 0 1
+VÕ   0 1 1 0
+VÔ   8 1 9 8
+VÒNG   2 1 2 3
+VÊNH   0 1 1 0
+VÈ   0 1 1 0
+VÂNG   1 1 1 2
+VÁN   0 1 1 0
+VÁC   0 1 0 1
+VÀO   30 1 31 30
+VUỐT   2 1 3 2
+VOI   0 1 1 0
+VIÊT   0 1 1 0
+UỐNG   6 1 7 6
+UỐA   0 1 0 1
+UNG   0 1 1 0
+UA   0 1 0 1
+U   1 1 1 2
+TỰA   1 1 2 1
+TỰ   3 1 4 3
+TỪNG   13 1 13 14
+TỨC   3 1 4 3
+TỦNG   0 1 0 1
+TỚ   2 1 2 3
+TỐN   2 1 2 3
+TỐI   0 1 1 0
+TỐC   0 1 1 0
+TỎA   0 1 0 1
+TỌT   0 1 1 0
+TẾ   2 1 2 3
+TẮT   1 1 2 1
+TẮC   0 1 0 1
+TẨN   1 1 2 1
+TẦN   1 1 2 1
+TẤM   1 1 2 1
+TẢO   0 1 1 0
+TẠNH   1 1 2 1
+TẠI   6 1 7 6
+TƯỢNG   2 1 2 3
+TƯỞNG   1 1 2 1
+TÚT   0 1 1 0
+TÔ   1 1 2 1
+TÍM   1 1 2 1
+TÍ   0 1 1 0
+TÌM   10 1 11 10
+TÊ   2 1 3 2
+TÁO   3 1 3 4
+TÁM   0 1 0 1
+TÁI   1 1 2 1
+TÁCH   0 1 1 0
+TÀN   2 1 2 3
+TÀ   0 1 1 0
+TUỔI   3 1 4 3
+TUẤN   3 1 4 3
+TUT   0 1 0 1
+TRỤC   0 1 1 0
+TRỞ   5 1 6 5
+TRỒNG   1 1 2 1
+TRỐNG   1 1 2 1
+TRỌNG   1 1 1 2
+TRỊNH   0 1 0 1
+TRẺ   2 1 2 3
+TRẢI   2 1 3 2
+TRẠNG   4 1 4 5
+TRƯỞNG   0 1 0 1
+TRƯỜNG   6 1 7 6
+TRƯNG   0 1 1 0
+TRƯA   0 1 1 0
+TRÚT   0 1 1 0
+TRÙNG   0 1 1 0
+TRÍCH   0 1 1 0
+TRÊU   0 1 1 0
+TRÂN   0 1 0 1
+TRÀN   3 1 3 4
+TRUYỆN   1 1 1 2
+TREO   0 1 0 1
+TREN   0 1 0 1
+TRE   0 1 0 1
+TRANH   1 1 2 1
+TRANG   3 1 4 3
+TOẠC   0 1 1 0
+TOÀN   5 1 6 5
+TO:   0 1 1 0
+TIỄN   0 1 1 0
+TIỂU   1 1 2 1
+TIỂN   0 1 1 0
+TIẾU   0 1 1 0
+TIẾP   9 1 10 9
+TIÊN   1 1 2 1
+TIN   9 1 9 10
+TIME   0 1 1 0
+TIKTOK   0 1 0 1
+THỰC   7 1 7 8
+THỪA   1 1 1 2
+THỪ   0 1 1 0
+THỜI   4 1 4 5
+THỜ   9 1 10 9
+THỒ   0 1 1 0
+THỀU   0 1 1 0
+THẸN   0 1 1 0
+THẮP   3 1 4 3
+THẬT   13 1 14 13
+THẤY   38 1 38 39
+THẢN   0 1 1 0
+THẠCH   0 1 1 0
+THƯỞNG   0 1 0 1
+THƯỚT   0 1 1 0
+THƯỚC   1 1 1 2
+THƠM   4 1 4 5
+THĂM   4 1 4 5
+THÔN   1 1 2 1
+THÔI   18 1 18 19
+THÔ   0 1 0 1
+THÓT   0 1 1 0
+THÊU   0 1 1 0
+THÊM   8 1 9 8
+THÈO   0 1 0 1
+THÈN   0 1 0 1
+THÁNH   0 1 1 0
+THÁI   2 1 2 3
+THÀO   1 1 1 2
+THÀ   2 1 3 2
+THUNG   0 1 0 1
+THUI   0 1 0 1
+THUA   0 1 0 1
+THOẠT   0 1 1 0
+THONG   0 1 0 1
+THIÊNG   0 1 1 0
+THAI   3 1 3 4
+TAY   23 1 24 23
+TAO   23 1 24 23
+TA:   0 1 1 0
+T   0 1 0 1
+SỰC   0 1 1 0
+SỮA   3 1 3 4
+SỞI   0 1 0 1
+SỚM   3 1 4 3
+SỒI   0 1 0 1
+SỐ   3 1 4 3
+SẺ   2 1 2 3
+SẮP   4 1 4 5
+SẢN   0 1 1 0
+SÙI   0 1 1 0
+SÓC   3 1 3 4
+SÒI   0 1 0 1
+SÂM   0 1 1 0
+SÁO   0 1 1 0
+SÁNG   9 1 10 9
+SÀ   0 1 1 0
+START   0 1 0 1
+STAR   0 1 0 1
+SOM   0 1 0 1
+SO   1 1 1 2
+SI   1 1 2 1
+SANG   15 1 15 16
+RỰC   0 1 0 1
+RỮA   0 1 1 0
+RỪNG   1 1 2 1
+RỦN   0 1 1 0
+RỤA   0 1 0 1
+RỜI   2 1 3 2
+RỚT   1 1 1 2
+RỚP   0 1 1 0
+RỚN   0 1 0 1
+RỘN   0 1 0 1
+RỒ   0 1 1 0
+RỐ   0 1 0 1
+RẰNG   10 1 11 10
+RẬM   0 1 0 1
+RẨY   0 1 1 0
+RẤT   14 1 14 15
+RẢO   0 1 1 0
+RƯỢI   0 1 1 0
+RƠN   0 1 0 1
+RÓC   0 1 1 0
+RÃI   0 1 1 0
+RÃ   0 1 1 0
+RÁCH   0 1 1 0
+RÁC   0 1 0 1
+RÀO   5 1 6 5
+RÀNG   0 1 0 1
+RÀM   0 1 0 1
+RUNG   0 1 0 1
+RUN   2 1 3 2
+RUM   0 1 0 1
+RONG   0 1 1 0
+RO   0 1 1 0
+RIÊU   0 1 0 1
+RIU   0 1 1 0
+RI   1 1 2 1
+RAU   0 1 0 1
+RAN   0 1 1 0
+QUẲNG   0 1 0 1
+QUẤT   0 1 0 1
+QUẢ   1 1 2 1
+QUÊN   1 1 1 2
+QUÁN   5 1 6 5
+QUÁ   9 1 10 9
+PHỦ   2 1 3 2
+PHẬT   0 1 1 0
+PHẬP   0 1 1 0
+PHẦN   2 1 2 3
+PHƯƠNG   11 1 12 11
+PHÚT   2 1 3 2
+PHÚC   6 1 6 7
+PHÒNG   22 1 23 22
+PHÍM   1 1 2 1
+PHÁT   3 1 3 4
+PHONG   7 1 7 8
+PHIẾM   0 1 0 1
+PHENG   0 1 1 0
+NỮ   2 1 2 3
+NỨT   0 1 0 1
+NỨC   0 1 1 0
+NỢ   1 1 2 1
+NỐI   0 1 0 1
+NỈ   0 1 1 0
+NỀN   0 1 1 0
+NẾU   8 1 9 8
+NẾP   0 1 0 1
+NẰM   6 1 7 6
+NẨY   0 1 0 1
+NẤY   0 1 1 0
+NẠI   0 1 1 0
+NƠI   7 1 8 7
+NĂM   9 1 10 9
+NÚI   0 1 0 1
+NÔNG   0 1 1 0
+NÔN   0 1 0 1
+NÔ   0 1 1 0
+NÍ   0 1 0 1
+NÈ   0 1 0 1
+NÁI   0 1 1 0
+NÀO   27 1 27 28
+NÀNG   1 1 2 1
+NÀN   2 1 2 3
+NUÔI   1 1 1 2
+NU   0 1 0 1
+NON   6 1 7 6
+NOEL   0 1 0 1
+NIỀU   0 1 0 1
+NIỀM   3 1 4 3
+NIT   0 1 0 1
+NHỜ   2 1 3 2
+NHỌN   0 1 1 0
+NHỌC   0 1 1 0
+NHỌ   0 1 0 1
+NHẼM   0 1 0 1
+NHẸ   7 1 8 7
+NHẮC   3 1 4 3
+NHẤT   10 1 10 11
+NHẤC   0 1 1 0
+NHẠO   0 1 1 0
+NHẠN   0 1 1 0
+NHÔ   1 1 2 1
+NHÈ   0 1 1 0
+NHÃN   0 1 0 1
+NHÃ   0 1 0 1
+NHÂU   0 1 0 1
+NHÀNH   0 1 1 0
+NHUỘM   1 1 2 1
+NHOẺN   0 1 1 0
+NHIÊN   8 1 9 8
+NHEO   0 1 1 0
+NHAU   8 1 9 8
+NHANH   4 1 5 4
+NGỰC   0 1 1 0
+NGỰA   0 1 1 0
+NGỦ   9 1 10 9
+NGỠ   1 1 2 1
+NGỚ   0 1 0 1
+NGỎ   1 1 2 1
+NGẪN   0 1 0 1
+NGẨNG   0 1 1 0
+NGẢI   0 1 1 0
+NGẢ   0 1 1 0
+NGẠI   0 1 1 0
+NGƠT   0 1 0 1
+NGƠ   3 1 4 3
+NGÔI   1 1 2 1
+NGÁI   0 1 1 0
+NGÀY   29 1 30 29
+NGÀN   1 1 2 1
+NGÀ   0 1 0 1
+NGUYÊN   2 1 2 3
+NGOẴNG   0 1 1 0
+NGOAN   1 1 2 1
+NGHỊ   0 1 0 1
+NGHẼN   0 1 0 1
+NGHĨA   4 1 4 5
+NGHĨ   12 1 12 13
+NGHÈO   0 1 0 1
+NGHIỆM   1 1 2 1
+NET   0 1 1 0
+NAM   5 1 6 5
+NAI   0 1 1 0
+MỤC   0 1 1 0
+MỞ   8 1 8 9
+MỚI   34 1 34 35
+MỒM   0 1 1 0
+MỌI   13 1 13 14
+MỀM   0 1 0 1
+MẤT   11 1 11 12
+MẢNG   0 1 1 0
+MẢI   0 1 1 0
+MẠI   0 1 0 1
+MƯỜIMÂY   0 1 1 0
+MƯA   18 1 19 18
+MÒN   0 1 1 0
+MÊNH   1 1 2 1
+MÃI   6 1 7 6
+MÀU   8 1 9 8
+MÀO   0 1 1 0
+MÀNH   0 1 1 0
+MÀ   57 1 58 57
+MUN   0 1 0 1
+MUA   2 1 2 3
+MONG   10 1 11 10
+MIỀN   4 1 5 4
+MIÊ   0 1 0 1
+MEN   1 1 1 2
+MANH   1 1 1 2
+MA   10 1 10 11
+LỮ   0 1 1 0
+LỬNG   0 1 0 1
+LỬA   2 1 2 3
+LỨA   0 1 1 0
+LỠ   3 1 3 4
+LỞI   0 1 1 0
+LỘI   0 1 0 1
+LỘC   0 1 1 0
+LỄ   3 1 3 4
+LẺ   1 1 2 1
+LẶNG   4 1 5 4
+LẮP   0 1 0 1
+LẬT   0 1 1 0
+LẨY   0 1 0 1
+LẨM   1 1 2 1
+LẦN   7 1 7 8
+LẤY   9 1 10 9
+LẢO   0 1 1 0
+LẠY   0 1 1 0
+LƯỢNG   0 1 0 1
+LƯỠNG   0 1 1 0
+LƠN   0 1 1 0
+LĂNG   0 1 1 0
+LÝ   1 1 1 2
+LÚNG   0 1 0 1
+LÚN   0 1 1 0
+LÚC   20 1 20 21
+LÒI   0 1 1 0
+LÍM   0 1 0 1
+LÍ   0 1 1 0
+LÃNG   0 1 1 0
+LÂN   0 1 1 0
+LÁT   3 1 3 4
+LÁO   0 1 1 0
+LUÔN   5 1 5 6
+LUÂN   0 1 1 0
+LOẠN   1 1 1 2
+LO   9 1 9 10
+LIẾM   0 1 1 0
+LIU   0 1 1 0
+LINH   6 1 6 7
+LIM   0 1 1 0
+LI   0 1 1 0
+LEN   5 1 6 5
+LAY   0 1 1 0
+LAU   0 1 1 0
+LANG   1 1 2 1
+LAIJ   0 1 1 0
+LAI   0 1 0 1
+KỀ   0 1 1 0
+KẼ   0 1 1 0
+KĨ   0 1 0 1
+KÍNH   0 1 0 1
+KÌA   4 1 4 5
+KÊU   4 1 5 4
+KUMAN   1 1 2 1
+KU   0 1 0 1
+KIA   9 1 10 9
+KHỬ   0 1 1 0
+KHỦNG   1 1 1 2
+KHỜI   0 1 0 1
+KHỜ   0 1 1 0
+KHỚM   0 1 0 1
+KHỈ   0 1 1 0
+KHẮNG   0 1 1 0
+KHẮC   2 1 3 2
+KHƠI   1 1 2 1
+KHĂNG   0 1 0 1
+KHÔ   5 1 5 6
+KHÓM   0 1 1 0
+KHÍCH   0 1 1 0
+KHÉY   0 1 0 1
+KHÉT   0 1 0 1
+KHÉ   0 1 0 1
+KHÁC   9 1 9 10
+KHUÔN   1 1 2 1
+KHIẾN   6 1 7 6
+KHI   23 1 24 23
+KH   0 1 0 1
+K   0 1 1 0
+HỦY   1 1 1 2
+HỠI   0 1 1 0
+HỚN   0 1 1 0
+HỔNG   0 1 0 1
+HỔN   0 1 1 0
+HỒ   5 1 6 5
+HỐT   2 1 3 2
+HỌP   1 1 1 2
+HỌC   7 1 8 7
+HỌ   6 1 6 7
+HỂN   0 1 1 0
+HỀ   4 1 4 5
+HẸN   1 1 2 1
+HẤN   0 1 0 1
+HẢ   3 1 4 3
+HẠT   3 1 3 4
+HẠN   2 1 3 2
+HĂM   0 1 0 1
+HÚT   0 1 1 0
+HÔNG   0 1 0 1
+HÔN   2 1 3 2
+HÔM   10 1 11 10
+HÓT   0 1 0 1
+HÓA   0 1 0 1
+HÒA   4 1 4 5
+HÂM   0 1 1 0
+HÁT   0 1 1 0
+HÁ   0 1 1 0
+HÀI   0 1 1 0
+HOẮT   0 1 1 0
+HOÀNG   2 1 2 3
+HOÀ   0 1 1 0
+HIỆU   1 1 2 1
+HIỆN   7 1 8 7
+HIỂN   0 1 0 1
+HIỀN   1 1 2 1
+HIÊN   1 1 2 1
+HIU   0 1 1 0
+HIL   0 1 0 1
+HEM   0 1 0 1
+HAN   0 1 0 1
+HA   0 1 0 1
+GỬI   4 1 5 4
+GỤC   0 1 0 1
+GỢI   0 1 1 0
+GỒM   0 1 0 1
+GỐC   1 1 2 1
+GẶM   0 1 1 0
+GẮN   2 1 3 2
+GẦY   1 1 1 2
+GƯỢNG   0 1 1 0
+GƯỢN   0 1 0 1
+GÙ   0 1 1 0
+GÓT   2 1 3 2
+GÓI   1 1 1 2
+GÓC   5 1 5 6
+GÂY   1 1 1 2
+GÁP   0 1 1 0
+GU   0 1 0 1
+GROM   0 1 0 1
+GIỮA   7 1 8 7
+GIỤA   0 1 1 0
+GIỞ   0 1 0 1
+GIỜ   25 1 26 25
+GIỖ   0 1 1 0
+GIỐNG   0 1 0 1
+GIẢM   0 1 0 1
+GIÒ   0 1 0 1
+GIÃ   0 1 1 0
+GIÀU   0 1 1 0
+GIÀN   0 1 1 0
+GIÀ   2 1 3 2
+GHỀNH   0 1 1 0
+GHÌ   0 1 1 0
+GHÉT   0 1 1 0
+GHI   2 1 2 3
+GHEN   1 1 2 1
+GAI   0 1 1 0
+GA   0 1 0 1
+FIREFOX   0 1 1 0
+FIFORS   0 1 0 1
+EXEL   0 1 0 1
+EXCEL   0 1 1 0
+ERIA   0 1 0 1
+EP   0 1 0 1
+EN   0 1 1 0
+DỠ   0 1 0 1
+DỞNG   0 1 0 1
+DỚN   0 1 1 0
+DỖNG   0 1 0 1
+DỖI   0 1 1 0
+DỖ   0 1 0 1
+DỔI   0 1 0 1
+DỐT   0 1 1 0
+DỌA   0 1 1 0
+DỊU   5 1 6 5
+DỊCH   1 1 1 2
+DỆT   1 1 2 1
+DẶN   1 1 2 1
+DẰNG   0 1 1 0
+DẰN   0 1 1 0
+DẮT   1 1 2 1
+DẬY   3 1 4 3
+DẪU   1 1 2 1
+DẪN   3 1 3 4
+DẪM   0 1 1 0
+DẦN   1 1 1 2
+DẤU   1 1 1 2
+DẠY   0 1 0 1
+DẠC   0 1 0 1
+DƯỚI   5 1 6 5
+DƯNG   2 1 2 3
+DƠN   0 1 1 0
+DÒ   1 1 2 1
+DÌU   0 1 1 0
+DÃY   0 1 0 1
+DÂNG   0 1 1 0
+DÂN   7 1 7 8
+DUY   1 1 2 1
+DUNG   0 1 1 0
+DIỆU   0 1 0 1
+DIM   0 1 1 0
+DI   0 1 0 1
+DAO   0 1 0 1
+CỬA   16 1 16 17
+CỨNG   1 1 1 2
+CỦ   0 1 0 1
+CỔNG   0 1 0 1
+CỒN   1 1 1 2
+CỐM   0 1 1 0
+CẮN   0 1 0 1
+CẦM   5 1 6 5
+CẤU   0 1 1 0
+CẢNH   4 1 4 5
+CẢN   0 1 1 0
+CẢM   18 1 18 19
+CẠN   0 1 1 0
+CƯỜI   5 1 6 5
+CƠN   9 1 10 9
+CŨ   2 1 3 2
+CĂNG   1 1 1 2
+CĂN   6 1 7 6
+CÚT   0 1 1 0
+CÚNG   1 1 1 2
+CÙNG   18 1 19 18
+CÔNG   8 1 9 8
+CÁM   0 1 0 1
+CÀO   3 1 4 3
+CÀNH   1 1 2 1
+CÀNG   3 1 4 3
+CUỒNG   0 1 1 0
+CUNG   4 1 4 5
+CUMANG   0 1 0 1
+CUMAN   0 1 0 1
+CONG   0 1 1 0
+COI   3 1 3 4
+CO   2 1 3 2
+CHỮNG   0 1 0 1
+CHỮ   6 1 6 7
+CHỨC   0 1 1 0
+CHỜNG   0 1 0 1
+CHỚT   0 1 0 1
+CHỒNG   6 1 6 7
+CHỐT   1 1 2 1
+CHẺ   0 1 1 0
+CHẶT   3 1 4 3
+CHẮC   3 1 3 4
+CHẬM   1 1 2 1
+CHƯNG   0 1 0 1
+CHƯA   15 1 15 16
+CHƠI   10 1 10 11
+CHĂN   0 1 1 0
+CHĂM   5 1 5 6
+CHÚT   10 1 11 10
+CHÚ   5 1 6 5
+CHÙM   0 1 1 0
+CHÓ   0 1 0 1
+CHÍCH   0 1 0 1
+CHÉN   0 1 1 0
+CHÈ   1 1 1 2
+CHÂN   14 1 14 15
+CHÁY   3 1 3 4
+CHÁN   1 1 1 2
+CHÀO   5 1 5 6
+CHUỖI   0 1 1 0
+CHUYỆN   27 1 28 27
+CHROME   0 1 1 0
+CHO   73 1 74 73
+CHIỀU   10 1 11 10
+CHIÊU   0 1 0 1
+CHIÊM   0 1 1 0
+CHIM   0 1 0 1
+CHI   3 1 4 3
+CHE   2 1 3 2
+CHAO   0 1 1 0
+CAO   5 1 5 6
+BỦN   0 1 1 0
+BỞI   12 1 13 12
+BỜ   2 1 3 2
+BỘ   3 1 3 4
+BỖNG   5 1 6 5
+BỐI   2 1 2 3
+BỆNH   3 1 3 4
+BẴNG   0 1 1 0
+BẰNG   2 1 2 3
+BẮT   8 1 8 9
+BẮP   0 1 0 1
+BẮN   0 1 1 0
+BẨM   2 1 3 2
+BẤT   11 1 12 11
+BẤM   0 1 0 1
+BẢY   0 1 0 1
+BẢNG   0 1 1 0
+BẢN   7 1 7 8
+BƯỚCA   0 1 0 1
+BÙ   0 1 0 1
+BÔNG   0 1 1 0
+BÒ   1 1 2 1
+BÊN   30 1 31 30
+BÃO   1 1 1 2
+BÂY   7 1 8 7
+BÁNH   3 1 3 4
+BÀNG   0 1 1 0
+BÀI   7 1 7 8
+BU   0 1 1 0
+BIỂN   2 1 2 3
+BIỀN   0 1 1 0
+BIẾC   0 1 1 0
+BIÊN   1 1 1 2
+AI   29 1 30 29
+AFEN   0 1 0 1
+"ĂN   0 1 1 0
+"SAO   0 1 1 0
+"CHĂM"   0 1 1 0
+ỨC   2 0 2 2
+ỦNG   1 0 1 1
+Ủ   1 0 1 1
+ỔN   3 0 3 3
+ỒN   2 0 2 2
+ẨN   1 0 1 1
+ƯƠM   1 0 1 1
+ƯA   1 0 1 1
+Ư   1 0 1 1
+ƠN   7 0 7 7
+ĐỰNG   1 0 1 1
+ĐỪNG   10 0 10 10
+ĐỨT   1 0 1 1
+ĐỨA   2 0 2 2
+ĐỦ   5 0 5 5
+ĐỤNG   1 0 1 1
+ĐỢT   1 0 1 1
+ĐỠ   3 0 3 3
+ĐỚN   1 0 1 1
+ĐỘT   3 0 3 3
+ĐỘNG   12 0 12 12
+ĐỘ   1 0 1 1
+ĐỖ   2 0 2 2
+ĐỔI   3 0 3 3
+ĐỒNG   5 0 5 5
+ĐỐT   1 0 1 1
+ĐỐI   4 0 4 4
+ĐỐ   1 0 1 1
+ĐỌC   2 0 2 2
+ĐỊNH   5 0 5 5
+ĐỊA   3 0 3 3
+ĐỀU   6 0 6 6
+ĐỀN   1 0 1 1
+ĐẶT   5 0 5 5
+ĐẰNG   1 0 1 1
+ĐẮNG   3 0 3 3
+ĐẬP   1 0 1 1
+ĐẢO   3 0 3 3
+ĐẠI   1 0 1 1
+ĐƯỜNG   12 0 12 12
+ĐƯA   18 0 18 18
+ĐƠN   5 0 5 5
+ĐÚNG   6 0 6 6
+ĐÔI   14 0 14 14
+ĐÓNG   7 0 7 7
+ĐÓN   5 0 5 5
+ĐÒI   2 0 2 2
+ĐÒ   1 0 1 1
+ĐÌU   1 0 1 1
+ĐÌNH   3 0 3 3
+ĐÈ   1 0 1 1
+ĐÁNH   2 0 2 2
+ĐÁNG   3 0 3 3
+ĐÁM   5 0 5 5
+ĐÀNH   1 0 1 1
+ĐÀN   6 0 6 6
+ĐÀI   1 0 1 1
+ĐUỔI   2 0 2 2
+ĐUỐI   1 0 1 1
+ĐUNG   2 0 2 2
+ĐOẠN   2 0 2 2
+ĐOÁN   3 0 3 3
+ĐOÀN   1 0 1 1
+ĐIỆU   2 0 2 2
+ĐIỆN   4 0 4 4
+ĐIỀU   9 0 9 9
+ĐEO   1 0 1 1
+ĐEN   2 0 2 2
+ĐAU   4 0 4 4
+ÔNG   21 0 21 21
+ÔM   3 0 3 3
+ÔI   3 0 3 3
+ÓNG   1 0 1 1
+ÍT   4 0 4 4
+ÉP   1 0 1 1
+ÁN   2 0 2 2
+ÁM   1 0 1 1
+ÁC   4 0 4 4
+YẾU   2 0 2 2
+YÊN   10 0 10 10
+XẾP   2 0 2 2
+XẤU   3 0 3 3
+XƯA   4 0 4 4
+XÚC   2 0 2 2
+XÔ   1 0 1 1
+XÓT   1 0 1 1
+XUỐNG   15 0 15 15
+XUẤT   3 0 3 3
+XUYẾN   2 0 2 2
+XUNG   3 0 3 3
+XINH   1 0 1 1
+XEM   12 0 12 12
+XANH   7 0 7 7
+WORD   1 0 1 1
+VỤ   2 0 2 2
+VỞ   1 0 1 1
+VỜI   1 0 1 1
+VỐN   1 0 1 1
+VỆ   1 0 1 1
+VẾT   2 0 2 2
+VẺ   5 0 5 5
+VẸN   1 0 1 1
+VẶT   1 0 1 1
+VẬT   4 0 4 4
+VẬN   1 0 1 1
+VẤT   1 0 1 1
+VẠN   1 0 1 1
+VƯỢT   2 0 2 2
+VƯỜN   1 0 1 1
+VƯƠNG   6 0 6 6
+VƠI   1 0 1 1
+VĂN   2 0 2 2
+VÙNG   1 0 1 1
+VÍ   2 0 2 2
+VÃ   1 0 1 1
+VÁY   1 0 1 1
+VÁNG   1 0 1 1
+VÁCH   1 0 1 1
+VÀI   4 0 4 4
+VUI   5 0 5 5
+VIỆN   1 0 1 1
+VIỆC   9 0 9 9
+VIỄN   2 0 2 2
+VIẾT   3 0 3 3
+VIÊN   6 0 6 6
+VE   1 0 1 1
+VANG   4 0 4 4
+UYÊN   1 0 1 1
+TỬ   5 0 5 5
+TỤC   3 0 3 3
+TỤ   1 0 1 1
+TỚI   13 0 13 13
+TỘI   5 0 5 5
+TỘC   4 0 4 4
+TỐT   6 0 6 6
+TỎ   2 0 2 2
+TỈNH   9 0 9 9
+TẶNG   1 0 1 1
+TẬP   4 0 4 4
+TẬN   2 0 2 2
+TẦNG   3 0 3 3
+TẦM   1 0 1 1
+TẤT   11 0 11 11
+TẤP   1 0 1 1
+TẢI   3 0 3 3
+TẠO   2 0 2 2
+TẠM   1 0 1 1
+TƯỜNG   2 0 2 2
+TƯỚNG   1 0 1 1
+TƯƠNG   1 0 1 1
+TƯƠI   3 0 3 3
+TƯ   2 0 2 2
+TƠI   1 0 1 1
+TĨNH   1 0 1 1
+TÚ   1 0 1 1
+TÙ   1 0 1 1
+TÔN   1 0 1 1
+TÓM   1 0 1 1
+TÓC   4 0 4 4
+TÒ   1 0 1 1
+TÍNH   3 0 3 3
+TÍCH   1 0 1 1
+TÊN   7 0 7 7
+TÈ   1 0 1 1
+TÂM   20 0 20 20
+TÁC   2 0 2 2
+TÀI   1 0 1 1
+TUẦN   3 0 3 3
+TUÔN   2 0 2 2
+TUYỆT   2 0 2 2
+TUY   1 0 1 1
+TUNG   1 0 1 1
+TRỪ   1 0 1 1
+TRỘM   2 0 2 2
+TRỐN   1 0 1 1
+TRẮNG   4 0 4 4
+TRẦM   1 0 1 1
+TRƯỚC   11 0 11 11
+TRĂM   1 0 1 1
+TRÔI   1 0 1 1
+TRÍ   2 0 2 2
+TRÌNH   5 0 5 5
+TRÂU   1 0 1 1
+TRÁNH   3 0 3 3
+TRÁI   2 0 2 2
+TRÀO   1 0 1 1
+TRUNG   1 0 1 1
+TRIỂN   1 0 1 1
+TRA   2 0 2 2
+TOÁT   1 0 1 1
+TO   3 0 3 3
+TIỆN   2 0 2 2
+TIỀN   5 0 5 5
+TIẾT   1 0 1 1
+TIẾNG   20 0 20 20
+TIẾN   1 0 1 1
+TIẾC   3 0 3 3
+TIÊU   1 0 1 1
+TINH   6 0 6 6
+TIA   1 0 1 1
+THỨ   8 0 8 8
+THỦY   2 0 2 2
+THỦ   2 0 2 2
+THỤC   1 0 1 1
+THỤ   1 0 1 1
+THỢ   1 0 1 1
+THỞ   6 0 6 6
+THỔI   5 0 5 5
+THỐT   1 0 1 1
+THẲNG   1 0 1 1
+THẰNG   1 0 1 1
+THẮNG   1 0 1 1
+THẮC   3 0 3 3
+THẬN   1 0 1 1
+THẬM   3 0 3 3
+THẦY   12 0 12 12
+THẦN   3 0 3 3
+THẦM   3 0 3 3
+THẢM   2 0 2 2
+THẢ   3 0 3 3
+THƯỜNG   10 0 10 10
+THƠ   23 0 23 23
+THÚC   2 0 2 2
+THÍNH   1 0 1 1
+THÍCH   3 0 3 3
+THÊ   1 0 1 1
+THÈM   1 0 1 1
+THÂU   1 0 1 1
+THÂN   9 0 9 9
+THÁC   1 0 1 1
+THÀNH   4 0 4 4
+THUỐC   3 0 3 3
+THUẬN   2 0 2 2
+THUẦN   1 0 1 1
+THUYỀN   2 0 2 2
+THOẠI   4 0 4 4
+THOÁT   1 0 1 1
+THIỆN   2 0 2 2
+THIỂU   1 0 1 1
+THINH   1 0 1 1
+THI   3 0 3 3
+THAY   4 0 4 4
+THAO   2 0 2 2
+THANH   6 0 6 6
+THANG   2 0 2 2
+THA   3 0 3 3
+TANH   1 0 1 1
+TANG   1 0 1 1
+TAN   1 0 1 1
+SỰ   13 0 13 13
+SỬA   2 0 2 2
+SỬ   1 0 1 1
+SỨC   3 0 3 3
+SỤT   1 0 1 1
+SỤP   1 0 1 1
+SỢI   2 0 2 2
+SỢ   16 0 16 16
+SỔ   2 0 2 2
+SẮT   1 0 1 1
+SẤM   1 0 1 1
+SƯỞI   1 0 1 1
+SƯỚNG   1 0 1 1
+SƯA   1 0 1 1
+SĨ   1 0 1 1
+SÙNG   1 0 1 1
+SÔNG   6 0 6 6
+SÔI   1 0 1 1
+SÓNG   2 0 2 2
+SÂN   1 0 1 1
+SÁT   3 0 3 3
+SÁCH   3 0 3 3
+SÀN   1 0 1 1
+SUỐT   4 0 4 4
+SUÝT   1 0 1 1
+SUY   3 0 3 3
+SOI   1 0 1 1
+SINH   7 0 7 7
+SAY   6 0 6 6
+SAI   2 0 2 2
+RỤNG   2 0 2 2
+RỐT   1 0 1 1
+RỐI   1 0 1 1
+RẼ   2 0 2 2
+RẠ   1 0 1 1
+RŨ   1 0 1 1
+RÚT   1 0 1 1
+RÚ   1 0 1 1
+RÕ   4 0 4 4
+RÓT   1 0 1 1
+RÌ   1 0 1 1
+RÉT   1 0 1 1
+RÈM   1 0 1 1
+RÁO   1 0 1 1
+RÀNH   1 0 1 1
+RUỒI   1 0 1 1
+RIẾT   1 0 1 1
+RIÊNG   2 0 2 2
+QUỐC   2 0 2 2
+QUẨN   2 0 2 2
+QUẦNG   1 0 1 1
+QUẢNG   2 0 2 2
+QUÝ   2 0 2 2
+QUÀ   2 0 2 2
+QUYỀN   1 0 1 1
+QUYẾT   5 0 5 5
+QUYÊN   1 0 1 1
+QUEN   1 0 1 1
+QUAY   10 0 10 10
+QUANH   4 0 4 4
+QUAN   6 0 6 6
+PHỒNG   1 0 1 1
+PHỐI   1 0 1 1
+PHỐ   5 0 5 5
+PHẨM   1 0 1 1
+PHẤN   1 0 1 1
+PHẢN   1 0 1 1
+PHẠT   1 0 1 1
+PHÓNG   4 0 4 4
+PHÍA   6 0 6 6
+PHÊ   1 0 1 1
+PHÉP   1 0 1 1
+PHÂN   1 0 1 1
+PHÁP   1 0 1 1
+PHÁ   2 0 2 2
+PHÀN   1 0 1 1
+PHIỀN   1 0 1 1
+PHIÊN   2 0 2 2
+PHAY   1 0 1 1
+PHA   1 0 1 1
+OAN   2 0 2 2
+NỞ   2 0 2 2
+NỘI   4 0 4 4
+NỒNG   4 0 4 4
+NỐT   1 0 1 1
+NẾN   2 0 2 2
+NẶNG   1 0 1 1
+NẬP   1 0 1 1
+NẠN   5 0 5 5
+NĂNG   1 0 1 1
+NÚT   1 0 1 1
+NÓNG   1 0 1 1
+NÃY   2 0 2 2
+NÃO   1 0 1 1
+NÁT   1 0 1 1
+NUỐI   1 0 1 1
+NIỆM   4 0 4 4
+NHỮNG   40 0 40 40
+NHỦ   1 0 1 1
+NHỘN   1 0 1 1
+NHỐT   2 0 2 2
+NHỎ   4 0 4 4
+NHỊP   3 0 3 3
+NHỈ   2 0 2 2
+NHẸN   1 0 1 1
+NHẶT   2 0 2 2
+NHẮN   1 0 1 1
+NHẮM   3 0 3 3
+NHẬT   1 0 1 1
+NHẬP   1 0 1 1
+NHẬN   5 0 5 5
+NHẪN   1 0 1 1
+NHẦM   1 0 1 1
+NHẤP   1 0 1 1
+NHẢY   1 0 1 1
+NHÓI   1 0 1 1
+NHÌN   23 0 23 23
+NHÉ   2 0 2 2
+NHÂN   2 0 2 2
+NHÁO   1 0 1 1
+NHÀNG   2 0 2 2
+NHUNG   2 0 2 2
+NHIỀU   15 0 15 15
+NHANG   2 0 2 2
+NHA   1 0 1 1
+NGỬA   1 0 1 1
+NGỪNG   1 0 1 1
+NGỢM   1 0 1 1
+NGỜ   5 0 5 5
+NGỔN   1 0 1 1
+NGỐC   1 0 1 1
+NGỌT   2 0 2 2
+NGỌC   1 0 1 1
+NGẮT   1 0 1 1
+NGẮN   1 0 1 1
+NGẮM   1 0 1 1
+NGẬP   2 0 2 2
+NGẦN   1 0 1 1
+NGẠC   2 0 2 2
+NGƯỢNG   1 0 1 1
+NGƯỢC   2 0 2 2
+NGƯỠNG   2 0 2 2
+NGƯNG   1 0 1 1
+NGĂN   1 0 1 1
+NGÙNG   1 0 1 1
+NGÕ   2 0 2 2
+NGÓNG   2 0 2 2
+NGÃ   4 0 4 4
+NGÂU   1 0 1 1
+NGÀO   1 0 1 1
+NGUỒN   1 0 1 1
+NGUYỆN   4 0 4 4
+NGUYỄN   1 0 1 1
+NGUY   2 0 2 2
+NGOẠI   2 0 2 2
+NGHỊCH   1 0 1 1
+NGHỈ   2 0 2 2
+NGHỀ   1 0 1 1
+NGHẸT   2 0 2 2
+NGHIỆT   1 0 1 1
+NGHIỆP   6 0 6 6
+NGHIÊNG   1 0 1 1
+NGHIÊM   1 0 1 1
+NGANG   5 0 5 5
+NAY   14 0 14 14
+MỸ   2 0 2 2
+MỪNG   4 0 4 4
+MỜI   1 0 1 1
+MỘ   1 0 1 1
+MỖI   8 0 8 8
+MỒ   2 0 2 2
+MỌC   1 0 1 1
+MỆT   4 0 4 4
+MẼ   1 0 1 1
+MẶT   11 0 11 11
+MẶC   3 0 3 3
+MẮN   1 0 1 1
+MẪU   1 0 1 1
+MẦM   5 0 5 5
+MẢNH   1 0 1 1
+MẠNH   6 0 6 6
+MẠNG   2 0 2 2
+MẠCH   1 0 1 1
+MẠC   1 0 1 1
+MƯƠI   6 0 6 6
+MŨI   1 0 1 1
+MÙI   4 0 4 4
+MÙA   23 0 23 23
+MÔNG   3 0 3 3
+MÔI   4 0 4 4
+MÓNG   1 0 1 1
+MÓN   1 0 1 1
+MÒ   1 0 1 1
+MÌNH   32 0 32 32
+MÂY   9 0 9 9
+MÁ   1 0 1 1
+MÀNG   1 0 1 1
+MUỘN   5 0 5 5
+MUỐN   19 0 19 19
+MUÔN   2 0 2 2
+MIỆNG   3 0 3 3
+MINH   3 0 3 3
+MAU   1 0 1 1
+MANG   8 0 8 8
+MAI   4 0 4 4
+LỰC   3 0 3 3
+LỰA   1 0 1 1
+LỪA   2 0 2 2
+LỢI   4 0 4 4
+LỜ   1 0 1 1
+LỚP   2 0 2 2
+LỚN   6 0 6 6
+LỖI   6 0 6 6
+LỌ   2 0 2 2
+LẼ   3 0 3 3
+LẮM   9 0 9 9
+LẬP   5 0 5 5
+LẪN   2 0 2 2
+LẠC   1 0 1 1
+LƯỢT   1 0 1 1
+LƯỚT   2 0 2 2
+LƯNG   1 0 1 1
+LƠ   1 0 1 1
+LĂN   1 0 1 1
+LÚA   1 0 1 1
+LÙNG   1 0 1 1
+LÙI   2 0 2 2
+LÔI   1 0 1 1
+LÓC   1 0 1 1
+LÌM   1 0 1 1
+LÊ   1 0 1 1
+LÃNH   1 0 1 1
+LÂU   4 0 4 4
+LÁI   6 0 6 6
+LUNG   1 0 1 1
+LOẠI   2 0 2 2
+LOÀI   3 0 3 3
+LIỆU   1 0 1 1
+LIỆT   1 0 1 1
+LIÊN   5 0 5 5
+LEO   2 0 2 2
+LAO   1 0 1 1
+LA   2 0 2 2
+KỲ   1 0 1 1
+KỊP   4 0 4 4
+KỊCH   2 0 2 2
+KỂ   3 0 3 3
+KẾT   3 0 3 3
+KẸO   2 0 2 2
+KÍP   1 0 1 1
+KÉO   2 0 2 2
+KÈM   1 0 1 1
+KIỆU   1 0 1 1
+KIỂU   1 0 1 1
+KIỂM   2 0 2 2
+KIẾN   1 0 1 1
+KIẾM   3 0 3 3
+KINH   2 0 2 2
+KHỨ   1 0 1 1
+KHỔ   4 0 4 4
+KHỎI   3 0 3 3
+KHỎE   5 0 5 5
+KHẮP   2 0 2 2
+KHẤN   1 0 1 1
+KHĂN   3 0 3 3
+KHÓC   7 0 7 7
+KHÓ   6 0 6 6
+KHÍT   1 0 1 1
+KHÍ   2 0 2 2
+KHÉP   1 0 1 1
+KHÁT   3 0 3 3
+KHÁNG   1 0 1 1
+KHÁM   1 0 1 1
+KHÁCH   6 0 6 6
+KHÁ   1 0 1 1
+KHUYẾT   1 0 1 1
+KHUYÊN   3 0 3 3
+KHUNG   1 0 1 1
+KHUA   1 0 1 1
+KHOẢNG   2 0 2 2
+KHOẢI   1 0 1 1
+KHOE   2 0 2 2
+KHOAN   2 0 2 2
+KHIẾP   1 0 1 1
+KHE   1 0 1 1
+KHAO   2 0 2 2
+KHAI   2 0 2 2
+INTERNET   1 0 1 1
+IN   1 0 1 1
+IM   1 0 1 1
+HỢP   7 0 7 7
+HỞ   1 0 1 1
+HỘI   5 0 5 5
+HỘ   2 0 2 2
+HỒNG   4 0 4 4
+HỒI   3 0 3 3
+HỐC   1 0 1 1
+HỌNG   1 0 1 1
+HỄ   1 0 1 1
+HẲN   1 0 1 1
+HẮT   1 0 1 1
+HẮN   2 0 2 2
+HẦU   1 0 1 1
+HẤP   1 0 1 1
+HẢO   1 0 1 1
+HẠNH   5 0 5 5
+HẠI   1 0 1 1
+HẠ   3 0 3 3
+HƯNG   1 0 1 1
+HƯ   1 0 1 1
+HƠN   15 0 15 15
+HƠI   9 0 9 9
+HÙNG   1 0 1 1
+HÔI   2 0 2 2
+HÒN   1 0 1 1
+HÉO   1 0 1 1
+HÃY   6 0 6 6
+HÃI   5 0 5 5
+HÀNH   4 0 4 4
+HÀM   1 0 1 1
+HY   1 0 1 1
+HUYỆN   1 0 1 1
+HUYỀN   1 0 1 1
+HOẶC   4 0 4 4
+HOẢNG   4 0 4 4
+HOẠT   1 0 1 1
+HOÀN   2 0 2 2
+HOANG   3 0 3 3
+HO   1 0 1 1
+HIỂU   10 0 10 10
+HIỂM   2 0 2 2
+HIẾU   1 0 1 1
+GỚM   1 0 1 1
+GỖ   1 0 1 1
+GẶP   15 0 15 15
+GẮNG   2 0 2 2
+GẬT   3 0 3 3
+GẦN   2 0 2 2
+GẤP   1 0 1 1
+GẠT   1 0 1 1
+GƯƠNG   1 0 1 1
+GÕ   2 0 2 2
+GÌ   44 0 44 44
+GÃY   1 0 1 1
+GÁI   8 0 8 8
+GÀO   1 0 1 1
+GÀ   1 0 1 1
+GOM   2 0 2 2
+GIỮ   2 0 2 2
+GIỤC   2 0 2 2
+GIỚI   1 0 1 1
+GIỌT   6 0 6 6
+GIẾT   1 0 1 1
+GIẬN   2 0 2 2
+GIẤY   1 0 1 1
+GIẤC   2 0 2 2
+GIẢN   1 0 1 1
+GIẢI   5 0 5 5
+GIẢ   1 0 1 1
+GIƯỜNG   3 0 3 3
+GIÚP   15 0 15 15
+GIÙM   1 0 1 1
+GIÂY   1 0 1 1
+GIÁO   3 0 3 3
+GIÁNG   1 0 1 1
+GIÁ   1 0 1 1
+GIAO   3 0 3 3
+GIAN   5 0 5 5
+GIAI   4 0 4 4
+GIA   2 0 2 2
+GHÉ   1 0 1 1
+DỰNG   2 0 2 2
+DỮ   3 0 3 3
+DỪNG   2 0 2 2
+DỤNG   1 0 1 1
+DỤ   1 0 1 1
+DỘI   1 0 1 1
+DỒN   1 0 1 1
+DỐC   1 0 1 1
+DỄ   2 0 2 2
+DẬP   1 0 1 1
+DẦU   1 0 1 1
+DÙNG   3 0 3 3
+DÙ   4 0 4 4
+DÕI   3 0 3 3
+DÒNG   3 0 3 3
+DÉP   1 0 1 1
+DÁM   3 0 3 3
+DÀNH   1 0 1 1
+DÀNG   2 0 2 2
+DÀI   6 0 6 6
+DÀ   1 0 1 1
+DO   7 0 7 7
+DIỆN   1 0 1 1
+DA   2 0 2 2
+CỨU   3 0 3 3
+CỤ   1 0 1 1
+CỠ   1 0 1 1
+CỞI   1 0 1 1
+CỘNG   1 0 1 1
+CỔ   3 0 3 3
+CỐI   1 0 1 1
+CẶP   2 0 2 2
+CẰN   1 0 1 1
+CẮT   1 0 1 1
+CẬP   1 0 1 1
+CẨN   1 0 1 1
+CẦU   5 0 5 5
+CẦN   7 0 7 7
+CẤT   2 0 2 2
+CẤP   2 0 2 2
+CẢI   1 0 1 1
+CẢ   47 0 47 47
+CẠNH   3 0 3 3
+CƯỚP   1 0 1 1
+CƯƠNG   1 0 1 1
+CƠM   1 0 1 1
+CƠ   7 0 7 7
+CÚC   4 0 4 4
+CÂY   12 0 12 12
+CÁNH   12 0 12 12
+CÁC   7 0 7 7
+CÀ   1 0 1 1
+CUỘC   7 0 7 7
+CUỐI   7 0 7 7
+CHỪNG   2 0 2 2
+CHỨNG   1 0 1 1
+CHỨ   7 0 7 7
+CHỦ   7 0 7 7
+CHỤP   2 0 2 2
+CHỖ   3 0 3 3
+CHỐNG   1 0 1 1
+CHỐN   1 0 1 1
+CHỐI   1 0 1 1
+CHỌN   2 0 2 2
+CHỊU   5 0 5 5
+CHỈNH   1 0 1 1
+CHẾT   22 0 22 22
+CHẾ   1 0 1 1
+CHẶNG   1 0 1 1
+CHẶN   1 0 1 1
+CHẰM   2 0 2 2
+CHẮN   1 0 1 1
+CHẬU   1 0 1 1
+CHẬT   1 0 1 1
+CHẤT   2 0 2 2
+CHẤP   1 0 1 1
+CHẤM   1 0 1 1
+CHẢ   2 0 2 2
+CHẠY   8 0 8 8
+CHẠM   4 0 4 4
+CHĂNG   2 0 2 2
+CHÚNG   16 0 16 16
+CHÚA   1 0 1 1
+CHÔNG   1 0 1 1
+CHÓNG   1 0 1 1
+CHÍNH   8 0 8 8
+CHÍN   9 0 9 9
+CHÍ   4 0 4 4
+CHÌM   1 0 1 1
+CHÉP   1 0 1 1
+CHÂU   1 0 1 1
+CHÁU   9 0 9 9
+CHÁO   2 0 2 2
+CHÀ   1 0 1 1
+CHUẨN   1 0 1 1
+CHUÔNG   4 0 4 4
+CHUYẾN   1 0 1 1
+CHUNG   2 0 2 2
+CHOÁNG   1 0 1 1
+CHIẾN   2 0 2 2
+CHIẾM   1 0 1 1
+CHA   1 0 1 1
+CAY   1 0 1 1
+CANH   1 0 1 1
+CA   1 0 1 1
+BỰC   1 0 1 1
+BỮA   1 0 1 1
+BỨC   4 0 4 4
+BỤNG   1 0 1 1
+BỤI   2 0 2 2
+BỜI   1 0 1 1
+BỚT   1 0 1 1
+BỐN   6 0 6 6
+BỐC   1 0 1 1
+BỐ   13 0 13 13
+BẾN   1 0 1 1
+BẸP   2 0 2 2
+BẬT   1 0 1 1
+BẬN   1 0 1 1
+BẦU   2 0 2 2
+BẢO   11 0 11 11
+BẠC   2 0 2 2
+BÚT   1 0 1 1
+BÚP   1 0 1 1
+BÚI   1 0 1 1
+BÓP   1 0 1 1
+BÓ   3 0 3 3
+BÌNH   15 0 15 15
+BÊ   2 0 2 2
+BÉ   24 0 24 24
+BÈ   1 0 1 1
+BÁT   3 0 3 3
+BÁO   7 0 7 7
+BÁN   1 0 1 1
+BÁM   1 0 1 1
+BÁC   1 0 1 1
+BÀNH   1 0 1 1
+BÀN   5 0 5 5
+BUỔI   1 0 1 1
+BUỐT   1 0 1 1
+BONG   1 0 1 1
+BIỂU   1 0 1 1
+BAO   9 0 9 9
+BAN   3 0 3 3
+AN   5 0 5 5
+ALO   1 0 1 1

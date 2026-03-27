@@ -138,6 +138,7 @@ from icefall.utils import (
     str2bool,
     write_error_stats,
 )
+from lhotse import load_manifest_lazy
 from train import add_model_arguments, get_model, get_params
 
 LOG_EPS = math.log(1e-10)
@@ -1112,7 +1113,11 @@ def main():
         cut.supervisions[0].text = normalize_text(cut.supervisions[0].text)
         return cut
 
-    if args.cuts_name == "all":
+    if args.cuts_path:
+        custom_name = args.cuts_name if args.cuts_name != "all" else Path(args.cuts_path).stem
+        test_sets.append(custom_name)
+        test_cuts_lis.append(load_manifest_lazy(args.cuts_path).map(cut_normalize_text))
+    elif args.cuts_name == "all":
         test_sets.append("test")
         test_cuts_lis.append(finetune_datamoddule.test_cuts())
 

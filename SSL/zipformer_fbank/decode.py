@@ -138,6 +138,7 @@ from icefall.utils import (
     str2bool,
     write_error_stats,
 )
+from lhotse import load_manifest_lazy
 
 LOG_EPS = math.log(1e-10)
 
@@ -194,10 +195,31 @@ def get_parser():
     )
 
     parser.add_argument(
+        "--cuts-path",
+        type=str,
+        default="",
+        help="Path to a custom CutSet manifest for external benchmarks.",
+    )
+
+    parser.add_argument(
+        "--test-set-name",
+        type=str,
+        default="",
+        help="Display name used in result filenames when --cuts-path is set.",
+    )
+
+    parser.add_argument(
         "--exp-dir",
         type=str,
         default="zipformer/exp",
         help="The experiment dir",
+    )
+
+    parser.add_argument(
+        "--decode-dir",
+        type=str,
+        default=None,
+        help="Override decode output directory.",
     )
 
     parser.add_argument(
@@ -779,7 +801,11 @@ def main():
     if params.use_averaged_model:
         res_dir_suffix += "_use_avg"
 
-    params.res_dir = params.exp_dir / f"{params.decoding_method}{res_dir_suffix}"
+    if params.decode_dir is not None:
+        params.decode_dir = Path(params.decode_dir)
+        params.res_dir = params.decode_dir / params.decoding_method
+    else:
+        params.res_dir = params.exp_dir / f"{params.decoding_method}{res_dir_suffix}"
 
     if os.path.exists(params.context_file):
         params.has_contexts = True
@@ -1012,7 +1038,11 @@ def main():
     test_cuts_lis = []
     test_sets = []
 
-    if args.cuts_name == "all":
+    if args.cuts_path:
+        custom_name = args.test_set_name or Path(args.cuts_path).stem
+        test_sets.append(custom_name)
+        test_cuts_lis.append(load_manifest_lazy(args.cuts_path))
+    elif args.cuts_name == "all":
         test_sets.append("test")
         test_cuts_lis.append(finetune_datamoddule.test_cuts())
 

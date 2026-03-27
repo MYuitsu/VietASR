@@ -25,6 +25,7 @@ def prepare_manifest(
     output_dir: Optional[Pathlike] = None,
     normalize_text: str = "none",
     num_jobs: int = 1,
+    dataset_parts: Optional[Sequence[str]] = None,
 ) -> Dict[str, Dict[str, Union[RecordingSet, SupervisionSet]]]:
     """
     Returns the manifests which consist of the Recordings and Supervisions.
@@ -42,9 +43,13 @@ def prepare_manifest(
     corpus_dir = Path(corpus_dir)
     assert corpus_dir.is_dir(), f"No such directory: {corpus_dir}"
 
-    dataset_parts = set(VIETASR).intersection(
-        path.name for path in corpus_dir.glob("*")
-    )
+    if dataset_parts is None:
+        dataset_parts = sorted(
+            set(VIETASR).intersection(path.name for path in corpus_dir.glob("*"))
+        )
+    else:
+        dataset_parts = [part for part in dataset_parts if (corpus_dir / part).is_dir()]
+
     if not dataset_parts:
         raise ValueError(f"Could not find any of splits in: {corpus_dir}")
 
@@ -155,6 +160,7 @@ def run(
     lanugage: str,
     normalize_text: str,
     num_jobs: int,
+    dataset_parts: Optional[Sequence[str]] = None,
 ):
     prepare_manifest(
         corpus_dir,
@@ -162,6 +168,7 @@ def run(
         language=lanugage,
         num_jobs=num_jobs,
         normalize_text=normalize_text,
+        dataset_parts=dataset_parts,
     )
 
 
@@ -183,6 +190,12 @@ if __name__ == "__main__":
         default=1,
         help="How many threads to use (can give good speed-ups with slow disks).",
     )
+    parser.add_argument(
+        "--dataset-parts",
+        type=str,
+        default=None,
+        help="Space-separated split names to prepare. Defaults to dev/test/train if found.",
+    )
     args = parser.parse_args()
 
     run(
@@ -191,4 +204,5 @@ if __name__ == "__main__":
         args.language,
         args.normalize_text,
         args.num_jobs,
+        None if args.dataset_parts is None else args.dataset_parts.split(),
     )
