@@ -13,6 +13,8 @@ _tmp_GigaSpeech2_official/
 
 # Rust mic web app build output
 apps/mic_web_rust/target/
+apps/mic_web_rust/.env.local
+apps/mic_web_rust/debug_audio/
 
 # OS/editor noise
 .DS_Store

@@ -159,6 +159,8 @@
         <div id="status" class="status">Sẵn sàng.</div>
         <audio id="preview" controls></audio>
         <div id="transcript" class="transcript">Transcript sẽ hiện ở đây.</div>
+        <div id="openaiTranscript" class="transcript" style="margin-top:12px;">OpenAI transcript sẽ hiện ở đây nếu có API key.</div>
+        <div id="debugPath" class="status" style="margin-top:12px;">Audio debug sẽ hiện ở đây.</div>
       </section>
     </main>
 
@@ -167,11 +169,14 @@
       const stopBtn = document.getElementById("stopBtn");
       const statusEl = document.getElementById("status");
       const transcriptEl = document.getElementById("transcript");
+      const openaiTranscriptEl = document.getElementById("openaiTranscript");
+      const debugPathEl = document.getElementById("debugPath");
       const previewEl = document.getElementById("preview");
 
       let mediaRecorder = null;
       let chunks = [];
       let stream = null;
+      let recordingStartedAt = 0;
 
       function setStatus(message, recording = false) {
         statusEl.innerHTML = recording
@@ -181,7 +186,14 @@
 
       async function startRecording() {
         chunks = [];
-        stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        stream = await navigator.mediaDevices.getUserMedia({
+          audio: {
+            channelCount: 1,
+            echoCancellation: false,
+            noiseSuppression: false,
+            autoGainControl: false,
+          },
+        });
         const mimeType = MediaRecorder.isTypeSupported("audio/webm;codecs=opus")
           ? "audio/webm;codecs=opus"
           : "audio/webm";
@@ -190,7 +202,8 @@
         mediaRecorder.ondataavailable = (event) => {
           if (event.data.size > 0) chunks.push(event.data);
         };
-        mediaRecorder.start();
+        mediaRecorder.start(250);
+        recordingStartedAt = Date.now();
 
         startBtn.disabled = true;
         stopBtn.disabled = false;
@@ -205,6 +218,7 @@
           mediaRecorder.onstop = () => {
             resolve(new Blob(chunks, { type: mediaRecorder.mimeType || "audio/webm" }));
           };
+          mediaRecorder.requestData();
           mediaRecorder.stop();
         });
 
@@ -213,8 +227,9 @@
 
         startBtn.disabled = false;
         stopBtn.disabled = true;
-        setStatus("Đang gửi audio để nhận dạng...");
-        transcriptEl.textContent = "Đang xử lý...";
+        const durationSec = ((Date.now() - recordingStartedAt) / 1000).toFixed(2);
+        setStatus(`Đang gửi audio để nhận dạng... (${durationSec}s)`);
+        transcriptEl.textContent = `Đang xử lý... Blob size: ${blob.size} bytes`;
 
         const formData = new FormData();
         formData.append("audio", blob, "recording.webm");
@@ -230,6 +245,10 @@
         }
 
         transcriptEl.textContent = payload.transcript || "(không có transcript)";
+        openaiTranscriptEl.textContent = payload.openai_transcript || "(không có OpenAI transcript)";
+        debugPathEl.textContent = payload.debug_wav_path
+          ? `Debug wav: ${payload.debug_wav_path}`
+          : "Không có debug wav.";
         setStatus("Xong.");
       }
 
